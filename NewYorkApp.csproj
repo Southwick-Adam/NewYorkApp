@@ -6,4 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Neo4j.Driver" Version="5.21.0" />
+    <PackageReference Include="OsmSharp" Version="6.2.0" />
+  </ItemGroup>
+
 </Project>

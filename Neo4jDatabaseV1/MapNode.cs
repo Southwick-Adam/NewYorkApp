@@ -10,8 +10,6 @@ public class MapNode
     public long ID{get;}
     public double Latitude {get;}
     public double Longitude {get;}
-    // consider adding in WayID for checking routes are correct?
-
     public MapNode(long ID, double latitude, double longitude) {
         this.ID = ID;
         this.Latitude = latitude;
@@ -24,7 +22,6 @@ public class MapNode
     
     public List<long> vertices = [];
 
-    // TODO: Change to Dictionary
     // create hashtable structured as neighborID:nodeInfo(distance, direction, QuietScore) 
     public Hashtable verticesInfo = new Hashtable();
 

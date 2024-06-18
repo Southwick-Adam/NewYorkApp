@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/adamsouthwick/Documents/UCD/Summer/NewYorkApp/NewYorkApp.csproj": {}
+    "C:\\Users\\micha\\OneDrive\\UCD Computer Science\\Semester3\\NewYorkApp\\NewYorkApp.csproj": {}
   },
   "projects": {
-    "/Users/adamsouthwick/Documents/UCD/Summer/NewYorkApp/NewYorkApp.csproj": {
+    "C:\\Users\\micha\\OneDrive\\UCD Computer Science\\Semester3\\NewYorkApp\\NewYorkApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adamsouthwick/Documents/UCD/Summer/NewYorkApp/NewYorkApp.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\OneDrive\\UCD Computer Science\\Semester3\\NewYorkApp\\NewYorkApp.csproj",
         "projectName": "NewYorkApp",
-        "projectPath": "/Users/adamsouthwick/Documents/UCD/Summer/NewYorkApp/NewYorkApp.csproj",
-        "packagesPath": "/Users/adamsouthwick/.nuget/packages/",
-        "outputPath": "/Users/adamsouthwick/Documents/UCD/Summer/NewYorkApp/obj/",
+        "projectPath": "C:\\Users\\micha\\OneDrive\\UCD Computer Science\\Semester3\\NewYorkApp\\NewYorkApp.csproj",
+        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\micha\\OneDrive\\UCD Computer Science\\Semester3\\NewYorkApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/adamsouthwick/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -42,6 +42,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Neo4j.Driver": {
+              "target": "Package",
+              "version": "[5.21.0, )"
+            },
+            "OsmSharp": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -61,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

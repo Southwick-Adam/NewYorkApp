@@ -1,3 +1,5 @@
 bin/Debug/net8.0/*
 obj/*
 Neo4jDatabaseV1/new-york-latest.osm.pbf
+
+.fake

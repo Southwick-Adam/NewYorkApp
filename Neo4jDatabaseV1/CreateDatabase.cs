@@ -28,12 +28,6 @@ class CreateDatabase
         int zeroLatLongCounter = 0;
         int populatedLatLongCounter =0;
 
-
-        var allTags = new List<string>();
-        var allTagsAndValues = new Dictionary<string, List<string>>();
-        var allHighwayTags = new List<string>();
-
-
         // Open the OSM PBF file for reading
         using (var fileStream = File.OpenRead(filePath))
         {
@@ -50,27 +44,6 @@ class CreateDatabase
                 if (osmGeo.Type == OsmGeoType.Way)
                 {
                     var tempWay = osmGeo as Way;
-
-                    // used when generating the txt file of tags
-                    // foreach (var tag in tempWay.Tags)
-                    // {
-                    //     if (tag.Key == "highway" && !allHighwayTags.Contains(tag.Value))
-                    //     {
-                    //         allHighwayTags.Add(tag.Value);
-                    //     }
-
-                    //     if (allTagsAndValues.ContainsKey(tag.Key))
-                    //     {
-                    //         if (!allTagsAndValues[tag.Key].Contains(tag.Value))
-                    //         {
-                    //             allTagsAndValues[tag.Key].Add(tag.Value);
-                    //         }
-                    //     }
-                    //     else
-                    //     {
-                    //         allTagsAndValues.Add(tag.Key, new List<string> {tag.Value});
-                    //     }
-                    // }
 
                     foreach (var tag in tempWay.Tags)
                     {
@@ -181,34 +154,7 @@ class CreateDatabase
         Console.WriteLine("Nodes not created successfully: "+neo4JImplementation.Failed);
         Console.WriteLine("Rels created successfully: "+neo4JImplementation.RelSuccess);
         Console.WriteLine("Rels not created successfully: "+neo4JImplementation.RelFailed);
-
-        Console.WriteLine("Highway tags: " );
-        foreach (string tag in allHighwayTags)
-        {
-            Console.WriteLine(tag);
-        }
-
-        // Used to create a txt file of all the tags in the area 
-        // string currentDirectory = Directory.GetCurrentDirectory();
-        // string relativeFilePath = Path.Combine(currentDirectory, "Tags.txt");
-
-        // using (StreamWriter writer = new StreamWriter(relativeFilePath))
-        // {
-        //     foreach (string tag in allTagsAndValues.Keys)
-        //     {
-        //         var tagList = allTagsAndValues[tag];
-        //         foreach (var item in tagList)
-        //         {
-        //             writer.WriteLine($"Tag: {tag}, Item: {item}"); 
-        //         }
-        //     }
-        // }
-
-        // foreach (var key in nodeTable.Keys)
-        // {
-        //     await neo4JImplementation.AddNodeToDB(nodeTable[key]);
-        // }
-        
+ 
     }
 }
 
