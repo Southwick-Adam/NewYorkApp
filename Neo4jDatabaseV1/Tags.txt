@@ -1,0 +1,4984 @@
+Tag: highway, Item: residential
+Tag: highway, Item: footway
+Tag: highway, Item: primary
+Tag: highway, Item: cycleway
+Tag: highway, Item: secondary
+Tag: highway, Item: tertiary
+Tag: highway, Item: service
+Tag: highway, Item: steps
+Tag: highway, Item: track
+Tag: highway, Item: pedestrian
+Tag: highway, Item: unclassified
+Tag: highway, Item: bridleway
+Tag: highway, Item: elevator
+Tag: highway, Item: path
+Tag: highway, Item: living_street
+Tag: lanes, Item: 2
+Tag: lanes, Item: 3
+Tag: lanes, Item: 1
+Tag: lanes, Item: 4
+Tag: lanes, Item: 5
+Tag: lanes, Item: 6
+Tag: name, Item: West 61st Street
+Tag: name, Item: West 58th Street
+Tag: name, Item: East 70th Street
+Tag: name, Item: East 64th Street
+Tag: name, Item: East 68th Street
+Tag: name, Item: East 57th Street
+Tag: name, Item: East Drive
+Tag: name, Item: Central Park South
+Tag: name, Item: Central Park West
+Tag: name, Item: Grand Army Plaza
+Tag: name, Item: West 59th Street
+Tag: name, Item: East 56th Street
+Tag: name, Item: East 59th Street
+Tag: name, Item: West 60th Street
+Tag: name, Item: West 53rd Street
+Tag: name, Item: Doris C. Freedman Place
+Tag: name, Item: West 62nd Street
+Tag: name, Item: West 57th Street
+Tag: name, Item: East 65th Street
+Tag: name, Item: East 58th Street
+Tag: name, Item: East 54th Street
+Tag: name, Item: West 63rd Street
+Tag: name, Item: 65th Street Transverse
+Tag: name, Item: East 62nd Street
+Tag: name, Item: The Pond
+Tag: name, Item: Broadway
+Tag: name, Item: West Drive
+Tag: name, Item: Former Drive
+Tag: name, Item: Wien Walk
+Tag: name, Item: Morgan Stanley Building
+Tag: name, Item: Pinebank Arch
+Tag: name, Item: Playmates Arch
+Tag: name, Item: Wallach Walk
+Tag: name, Item: Park Avenue
+Tag: name, Item: East 60th Street
+Tag: name, Item: IND Eighth Avenue Line
+Tag: name, Item: BMT 63rd Street Line
+Tag: name, Item: IND 63rd Street Line
+Tag: name, Item: IND Queens Boulevard Line
+Tag: name, Item: West 49th Street
+Tag: name, Item: West 54th Street
+Tag: name, Item: East 63rd Street
+Tag: name, Item: West 51st Street
+Tag: name, Item: Center Drive
+Tag: name, Item: Grand Central Branch
+Tag: name, Item: Solow Building
+Tag: name, Item: General Motors Building
+Tag: name, Item: Lincoln Center for the Performing Arts
+Tag: name, Item: Tropical Zone
+Tag: name, Item: Tisch's Children Zoo
+Tag: name, Item: Robert Moses Plaza
+Tag: name, Item: Fordham University Lincoln Center Campus
+Tag: name, Item: St. Peter's Garden
+Tag: name, Item: Lincoln Center Park and Lock Garage
+Tag: name, Item: Columbus Circle
+Tag: name, Item: Museum of Arts and Design
+Tag: name, Item: Time-Life Building
+Tag: name, Item: 1290 Avenue of the Americas
+Tag: name, Item: Crime Busters Rock
+Tag: name, Item: Damrosch Park
+Tag: name, Item: 666 Fifth Avenue
+Tag: name, Item: Hecksher Playground
+Tag: name, Item: Random House Tower
+Tag: name, Item: Wollman Rink
+Tag: name, Item: AXA Equitable Center
+Tag: name, Item: Paramount Plaza
+Tag: name, Item: Gershwin Theatre
+Tag: name, Item: 712 Fifth Avenue
+Tag: name, Item: Bloomberg Tower
+Tag: name, Item: Hilton New York Midtown
+Tag: name, Item: Calyon Building
+Tag: name, Item: UBS Building
+Tag: name, Item: Exxon Building
+Tag: name, Item: Dillon, Read & Company Building
+Tag: name, Item: Greenwich Savings Bank Building
+Tag: name, Item: Museum Tower
+Tag: name, Item: Canada House
+Tag: name, Item: Trump International Hotel and Tower
+Tag: name, Item: Central Park Outer Loop
+Tag: name, Item: 1 Lincoln Plaza
+Tag: name, Item: Dante Park
+Tag: name, Item: Apple Fifth Avenue
+Tag: name, Item: Rodin Studios
+Tag: name, Item: Architects & Designers Building
+Tag: name, Item: Capitol-EMI Building
+Tag: name, Item: Tower 56
+Tag: name, Item: 31 West 52nd Street
+Tag: name, Item: Baccarat Hotel & Residences
+Tag: name, Item: Paley Center for Media
+Tag: name, Item: McGraw-Hill Waterfall Tunnel
+Tag: name, Item: Winter Garden Theatre
+Tag: name, Item: The Ritz Plaza
+Tag: name, Item: 1700 Broadway
+Tag: name, Item: Deutsche Bank Center
+Tag: name, Item: Hudson Line
+Tag: name, Item: West 50th Street
+Tag: name, Item: Madison Avenue
+Tag: name, Item: 5th Avenue
+Tag: name, Item: 8th Avenue
+Tag: name, Item: East 61st Street
+Tag: name, Item: East 55th Street
+Tag: name, Item: West 48th Street
+Tag: name, Item: 75 Rockefeller Plaza
+Tag: name, Item: CBS Building
+Tag: name, Item: 810 Seventh Avenue
+Tag: name, Item: 888 Seventh Avenue
+Tag: name, Item: 1717 Broadway
+Tag: name, Item: 250 West 55th Street
+Tag: name, Item: 6½ Avenue
+Tag: name, Item: Fisk Building
+Tag: name, Item: Symphony House
+Tag: name, Item: 550 Madison Avenue
+Tag: name, Item: Finland House
+Tag: name, Item: MGM Building
+Tag: name, Item: 135 East 57th Street
+Tag: name, Item: One57
+Tag: name, Item: 432 Park Avenue
+Tag: name, Item: 53 West 53
+Tag: name, Item: 111 West 57th Street;Steinway Tower
+Tag: name, Item: Central Park Tower
+Tag: name, Item: Coliseum Park Apartments North
+Tag: name, Item: Coliseum Park Apartments South
+Tag: name, Item: Coliseum Park
+Tag: name, Item: Paley Park
+Tag: name, Item: Gainsborough Studios
+Tag: name, Item: St. Thomas Choir School
+Tag: name, Item: FDNY Engine 23
+Tag: name, Item: Southmoor House
+Tag: name, Item: Osborne Apartment House
+Tag: name, Item: Hampshire House
+Tag: name, Item: Park Lane Hotel
+Tag: name, Item: The Ritz-Carlton
+Tag: name, Item: Trump Parc Condominium
+Tag: name, Item: Trump Parc East
+Tag: name, Item: New York Athletic Club
+Tag: name, Item: JW Marriott Essex House
+Tag: name, Item: Calvary Baptist Church
+Tag: name, Item: Paris Theatre
+Tag: name, Item: AKA Central Park
+Tag: name, Item: Alwyn Court
+Tag: name, Item: 58 W 58
+Tag: name, Item: Steinway Hall
+Tag: name, Item: 1 Hotel Central Park
+Tag: name, Item: Carnegie Hall
+Tag: name, Item: Carnegie Hall Tower
+Tag: name, Item: Thompson Central Park New York
+Tag: name, Item: Metropolitan Tower
+Tag: name, Item: Corning Glass Works Building
+Tag: name, Item: Fifth Avenue Presbyterian Church
+Tag: name, Item: Consulate General Argentina
+Tag: name, Item: Rockefeller Apartments
+Tag: name, Item: The Centurion
+Tag: name, Item: Lehman Art House
+Tag: name, Item: Squibb Building
+Tag: name, Item: The Peninsula New York
+Tag: name, Item: Warwick Hotel
+Tag: name, Item: Hemisphere House
+Tag: name, Item: The Crown Building
+Tag: name, Item: Burlington House
+Tag: name, Item: New York City Center
+Tag: name, Item: CitySpire Center
+Tag: name, Item: Le Premier
+Tag: name, Item: Conrad
+Tag: name, Item: Avenue of the Americas Plaza
+Tag: name, Item: Carnegie Plaza
+Tag: name, Item: Da Vinci Hotel
+Tag: name, Item: Wendy's
+Tag: name, Item: Park Central Hotel
+Tag: name, Item: Dream Midtown
+Tag: name, Item: 1740 Broadway
+Tag: name, Item: McDonald's
+Tag: name, Item: Pembroke
+Tag: name, Item: Hearst Tower
+Tag: name, Item: St. George Greek Orthodox Church
+Tag: name, Item: Fifty Third and Eighth
+Tag: name, Item: NYCT Rail Control Center
+Tag: name, Item: Westerly
+Tag: name, Item: Central Park Place
+Tag: name, Item: The Colonnade
+Tag: name, Item: The Westmore
+Tag: name, Item: 6 Columbus
+Tag: name, Item: Hudson Hotel
+Tag: name, Item: Radio City Post Office
+Tag: name, Item: Public School 58
+Tag: name, Item: Longacre House
+Tag: name, Item: The Empire Hotel
+Tag: name, Item: The Harmony
+Tag: name, Item: The Century
+Tag: name, Item: 15 Central Park West
+Tag: name, Item: Student Activities Building
+Tag: name, Item: Edward Guiliano Global Center
+Tag: name, Item: The Beaumont
+Tag: name, Item: Anagram Columbus Circle
+Tag: name, Item: New Technology Building
+Tag: name, Item: Bosch Building
+Tag: name, Item: The Regent
+Tag: name, Item: Delmonico Plaza
+Tag: name, Item: Four Seasons Hotel
+Tag: name, Item: Franklin National Bank Building
+Tag: name, Item: Fuller Building
+Tag: name, Item: LVMH Tower
+Tag: name, Item: Sherry Netherlands
+Tag: name, Item: The Harmonie Club
+Tag: name, Item: Trump Tower
+Tag: name, Item: Harold Pratt House and Peterson Hall
+Tag: name, Item: Trump Park Avenue
+Tag: name, Item: 745 Fifth Avenue
+Tag: name, Item: 575 Madison Avenue
+Tag: name, Item: Tiffany & Company
+Tag: name, Item: 650 Madison Avenue
+Tag: name, Item: 39 E 58th
+Tag: name, Item: 600 Madison Avenue
+Tag: name, Item: 590 Madison Avenue
+Tag: name, Item: Colony Club
+Tag: name, Item: Fifth Avenue Synagogue
+Tag: name, Item: Grolier Club
+Tag: name, Item: 520 Park Avenue
+Tag: name, Item: Metropolitan Club
+Tag: name, Item: Christ Church
+Tag: name, Item: Assisium School
+Tag: name, Item: The Pierre
+Tag: name, Item: Knickerbocker Clubhouse
+Tag: name, Item: The Arsenal
+Tag: name, Item: Zoo Tickets
+Tag: name, Item: Summerhouse at the Dene
+Tag: name, Item: The Dairy (Visitor Center and Gift Shop)
+Tag: name, Item: Ballfields Café
+Tag: name, Item: Chess and Checkers House
+Tag: name, Item: The Windermere
+Tag: name, Item: David H. Koch Theater
+Tag: name, Item: Leon Lowenstein Center
+Tag: name, Item: The Alfred
+Tag: name, Item: Lincoln Plaza Tower
+Tag: name, Item: McMahon Hall
+Tag: name, Item: The Allegro
+Tag: name, Item: The Park Loggia
+Tag: name, Item: The Sofia
+Tag: name, Item: Church of Saint Paul the Apostle
+Tag: name, Item: One Columbus Place
+Tag: name, Item: Professional Children’s School
+Tag: name, Item: South Park Tower
+Tag: name, Item: Mount Sinai West
+Tag: name, Item: Two Columbus Avenue
+Tag: name, Item: Speyer Legacy School
+Tag: name, Item: North Hall
+Tag: name, Item: Heron Tower
+Tag: name, Item: Park Avenue Place
+Tag: name, Item: 540 Madison Avenue
+Tag: name, Item: 520 Madison Avenue
+Tag: name, Item: 410 Park Avenue
+Tag: name, Item: Longacre Theatre
+Tag: name, Item: Ambassador Theatre
+Tag: name, Item: Eugene O'Neill Theatre
+Tag: name, Item: Saint Malachy Church
+Tag: name, Item: Mayfair
+Tag: name, Item: Walter Kerr Theatre
+Tag: name, Item: Crowne Plaza Times Square
+Tag: name, Item: 1600 Broadway
+Tag: name, Item: Brill Building
+Tag: name, Item: 750 Seventh Avenue
+Tag: name, Item: Broadway Theatre
+Tag: name, Item: IRT Substation #13
+Tag: name, Item: Aro
+Tag: name, Item: Neil Simon Theater
+Tag: name, Item: Studio 54
+Tag: name, Item: The Marc
+Tag: name, Item: Times Square Church
+Tag: name, Item: 888 8th Avenue
+Tag: name, Item: August Wilson Theatre
+Tag: name, Item: Ellington Apartments
+Tag: name, Item: 1675 Broadway
+Tag: name, Item: Central Substation
+Tag: name, Item: Barclays
+Tag: name, Item: The Michelangelo
+Tag: name, Item: Sheraton New York Times Square Hotel
+Tag: name, Item: 1270 Avenue of the Americas
+Tag: name, Item: IRT Substation #42
+Tag: name, Item: Fitzpatrick
+Tag: name, Item: Chick-fil-A
+Tag: name, Item: Sunrise at East 56th
+Tag: name, Item: Bloomingdale's
+Tag: name, Item: Ritz Tower
+Tag: name, Item: Lombardy Hotel
+Tag: name, Item: Argosy
+Tag: name, Item: Zimbabwe House
+Tag: name, Item: 425 Park Avenue
+Tag: name, Item: Plaza Towers Apartments
+Tag: name, Item: 499 Park Avenue
+Tag: name, Item: 471 Park Avenue
+Tag: name, Item: The Galleria
+Tag: name, Item: 110 East 59th Street
+Tag: name, Item: International Plaza
+Tag: name, Item: 445 Park Avenue
+Tag: name, Item: Msil Shuva Israel
+Tag: name, Item: 515 Park Avenue
+Tag: name, Item: Aramco Building
+Tag: name, Item: Hotel 57
+Tag: name, Item: Park Avenue Tower
+Tag: name, Item: SKINNEY Medspa
+Tag: name, Item: Permanent Mission of the Republic of the Congo to the United Nations
+Tag: name, Item: Plaza Athénée
+Tag: name, Item: Permanent Mission of Pakistan to the U.N.
+Tag: name, Item: Kosciuszko Foundation
+Tag: name, Item: Temple Emanu-El
+Tag: name, Item: Permanent Mission of Serbia to the U.N.
+Tag: name, Item: Le Meridien
+Tag: name, Item: The Grand Tier
+Tag: name, Item: Liberty Lofts
+Tag: name, Item: Holy Trinity Lutheran Church
+Tag: name, Item: The Park Ten
+Tag: name, Item: MoMA
+Tag: name, Item: Financial Times Building
+Tag: name, Item: Tower 53
+Tag: name, Item: Saint Thomas Episcopal Church
+Tag: name, Item: 1325 Avenue of the Americas
+Tag: name, Item: Hampton
+Tag: name, Item: The Link
+Tag: name, Item: Hilton Garden Inn
+Tag: name, Item: La Premier
+Tag: name, Item: Carnegie Mews Apartments
+Tag: name, Item: The Sheffield 57
+Tag: name, Item: Sheep Meadow
+Tag: name, Item: The Tower of 15 Central Park West
+Tag: name, Item: Balsley Park
+Tag: name, Item: 500 Park Tower
+Tag: name, Item: Hawthorn Park
+Tag: name, Item: 770 Lexington Avenue
+Tag: name, Item: 220 Central Park South
+Tag: name, Item: McKeon Hall
+Tag: name, Item: Jaffe Drive
+Tag: name, Item: East 72nd Street Playground
+Tag: name, Item: Central Park Zoo
+Tag: name, Item: 7th Avenue
+Tag: name, Item: Hallett Nature Sanctuary
+Tag: name, Item: Cop Cot
+Tag: name, Item: Umpire Rock
+Tag: name, Item: Dipway Arch
+Tag: name, Item: Greyshot Arch
+Tag: name, Item: Dalehead Arch
+Tag: name, Item: Willowdell Arch
+Tag: name, Item: Children's Rock
+Tag: name, Item: Olmsted Flower Bed
+Tag: name, Item: The Dene
+Tag: name, Item: Denesmouth Arch
+Tag: name, Item: East Green
+Tag: name, Item: Overlook Rock
+Tag: name, Item: Billy Johnson Playground
+Tag: name, Item: Green Gap Arch
+Tag: name, Item: East 53rd Street
+Tag: name, Item: 9th Avenue
+Tag: name, Item: Nell Singer Lilac Walk
+Tag: name, Item: Literary Walk
+Tag: name, Item: The Mall
+Tag: name, Item: Inscope Arch
+Tag: name, Item: Heckscher Ballfield 5
+Tag: name, Item: Heckscher Ballfield 6
+Tag: name, Item: Heckscher Ballfield 1
+Tag: name, Item: Heckscher Ballfield 4
+Tag: name, Item: Heckscher Ballfield 2
+Tag: name, Item: Heckscher Ballfield 3
+Tag: name, Item: Heckscher Ballfields
+Tag: name, Item: Central Park
+Tag: name, Item: West 64th Street
+Tag: name, Item: Lexington Avenue
+Tag: name, Item: Columbus Avenue
+Tag: name, Item: 6th Avenue
+Tag: name, Item: West 55th Street
+Tag: name, Item: 59th Street - Columbus Circle (1)
+Tag: name, Item: 59th Street - Columbus Circle 1 Train Connector
+Tag: name, Item: 59th Street - Columbus Circle (A,C,B,D)
+Tag: name, Item: 59th Street - Columbus Circle (A,C,B,D,1)
+Tag: name, Item: 50th Street
+Tag: name, Item: IRT Broadway–Seventh Avenue Line
+Tag: name, Item: Gapstow Bridge
+Tag: name, Item: Central Park Carousel
+Tag: name, Item: Christopher Columbus Monument
+Tag: name, Item: USS Maine Monument
+Tag: name, Item: West 56th Street
+Tag: name, Item: Times Square
+Tag: name, Item: East 66th Street
+Tag: name, Item: Alfred Car Park, LLC
+Tag: name, Item: Ronald Stanton Way
+Tag: name, Item: Rock Garden
+Tag: name, Item: Rockefeller Center
+Tag: name, Item: 30 Lincoln Plaza
+Tag: name, Item: IND Sixth Avenue Line
+Tag: name, Item: West 52nd Street
+Tag: name, Item: West 65th Street
+Tag: name, Item: 59th Street–Columbus Circle
+Tag: name, Item: Gugush Hair Studio
+Tag: name, Item: IRT Lexington Avenue Line
+Tag: name, Item: BMT Broadway Line
+Tag: name, Item: BMT Astoria Line
+Tag: name, Item: 59th Street
+Tag: name, Item: 49th Street
+Tag: name, Item: 57th Street-7th Avenue
+Tag: name, Item: 5th Avenue-59th Street
+Tag: name, Item: 57th Street
+Tag: name, Item: 53rd Street-5th Avenue
+Tag: name, Item: Terrace at Nougatine
+Tag: name, Item: East 69th Street
+Tag: name, Item: William Tecumseh Sherman
+Tag: name, Item: Pulitzer Fountain
+Tag: name, Item: Driprock Arch
+Tag: name, Item: New York Institute of Technology
+Tag: name, Item: Carnegie hall
+Tag: name, Item: East 67th Street
+Tag: name, Item: Broadway Malls
+Tag: name, Item: Dene Slope
+Tag: name:ru, Item: Западная 61-я стрит
+Tag: name:ru, Item: Западная 58-я стрит
+Tag: name:ru, Item: Восточная 70-я стрит
+Tag: name:ru, Item: Восточная 64-я стрит
+Tag: name:ru, Item: Восточная 68-я стрит
+Tag: name:ru, Item: Восточная 57-я стрит
+Tag: name:ru, Item: Сентрал-Парк-Уэст
+Tag: name:ru, Item: Западная 59-я стрит
+Tag: name:ru, Item: Восточная 56-я стрит
+Tag: name:ru, Item: Восточная 59-я стрит
+Tag: name:ru, Item: Западная 60-я стрит
+Tag: name:ru, Item: Западная 53-я стрит
+Tag: name:ru, Item: Западная 62-я стрит
+Tag: name:ru, Item: Западная 57-я стрит
+Tag: name:ru, Item: Восточная 65-я стрит
+Tag: name:ru, Item: Восточная 58-я стрит
+Tag: name:ru, Item: Восточная 54-я стрит
+Tag: name:ru, Item: Западная 63-я стрит
+Tag: name:ru, Item: Восточная 62-я стрит
+Tag: name:ru, Item: Бродвей
+Tag: name:ru, Item: Парк-Авеню
+Tag: name:ru, Item: Восточная 60-я стрит
+Tag: name:ru, Item: Западная 49-я стрит
+Tag: name:ru, Item: Западная 54-я стрит
+Tag: name:ru, Item: Восточная 63-я стрит
+Tag: name:ru, Item: Западная 51-я стрит
+Tag: name:ru, Item: Коламбус-сёркл
+Tag: name:ru, Item: Блумберг-Тауэр
+Tag: name:ru, Item: Тайм-Уорнер-Центр
+Tag: name:ru, Item: Западная 50-я стрит
+Tag: name:ru, Item: Мэдисон-авеню
+Tag: name:ru, Item: 5-я авеню
+Tag: name:ru, Item: 8-я Авеню
+Tag: name:ru, Item: Восточная 61-я стрит
+Tag: name:ru, Item: Восточная 55-я стрит
+Tag: name:ru, Item: Западная 48-я стрит
+Tag: name:ru, Item: Сони-билдинг
+Tag: name:ru, Item: Хёрст-тауэр
+Tag: name:ru, Item: Трамп-тауэр
+Tag: name:ru, Item: Нью-Йоркский музей современного искусства
+Tag: name:ru, Item: 7-я Авеню
+Tag: name:ru, Item: Восточная 53-я стрит
+Tag: name:ru, Item: 9-я Авеню
+Tag: name:ru, Item: Центральный парк
+Tag: name:ru, Item: Западная 64-я стрит
+Tag: name:ru, Item: Лексингтон-авеню
+Tag: name:ru, Item: Коламбус-авеню
+Tag: name:ru, Item: 6-я авеню
+Tag: name:ru, Item: Западная 55-я стрит
+Tag: name:ru, Item: Христофору Колумбу
+Tag: name:ru, Item: Памятник броненосцу «Мэн»
+Tag: name:ru, Item: Западная 56-я стрит
+Tag: name:ru, Item: Восточная 66-я стрит
+Tag: name:ru, Item: Рокфеллер-Центр
+Tag: name:ru, Item: Западная 52-я стрит
+Tag: name:ru, Item: Западная 65-я стрит
+Tag: name:ru, Item: Восточная 69-я стрит
+Tag: name:ru, Item: Восточная 67-я стрит
+Tag: name_1, Item: West 61 Street
+Tag: name_1, Item: West 58th Street
+Tag: name_1, Item: West 59 Street
+Tag: name_1, Item: 5 Avenue
+Tag: name_1, Item: East 59 Street
+Tag: name_1, Item: East 63 Street
+Tag: name_1, Item: West 62 Street
+Tag: name_1, Item: West 57 Street
+Tag: name_1, Item: East 61 Street
+Tag: name_1, Item: East 55 Street
+Tag: name_1, Item: West 48 Street
+Tag: name_1, Item: 7 Avenue
+Tag: name_1, Item: 8 Avenue
+Tag: name_1, Item: 9 Avenue
+Tag: name_1, Item: East 66 Street
+Tag: name_1, Item: East 67 Street
+Tag: oneway, Item: yes
+Tag: oneway, Item: no
+Tag: tiger:cfcc, Item: A41
+Tag: tiger:cfcc, Item: A63
+Tag: tiger:cfcc, Item: A21
+Tag: tiger:county, Item: New York, NY
+Tag: tiger:name_base, Item: 61st
+Tag: tiger:name_base, Item: West 58th
+Tag: tiger:name_base, Item: 70th
+Tag: tiger:name_base, Item: 64th
+Tag: tiger:name_base, Item: 68th
+Tag: tiger:name_base, Item: 57th
+Tag: tiger:name_base, Item: Central Park
+Tag: tiger:name_base, Item: Grand Army
+Tag: tiger:name_base, Item: 59th
+Tag: tiger:name_base, Item: 56th
+Tag: tiger:name_base, Item: 60th
+Tag: tiger:name_base, Item: 53rd
+Tag: tiger:name_base, Item: Doris C Freedman
+Tag: tiger:name_base, Item: 62nd
+Tag: tiger:name_base, Item: 65th
+Tag: tiger:name_base, Item: 58th
+Tag: tiger:name_base, Item: 54th
+Tag: tiger:name_base, Item: 63rd
+Tag: tiger:name_base, Item: 65th St Transverse
+Tag: tiger:name_base, Item: Broadway
+Tag: tiger:name_base, Item: Central Park-Center
+Tag: tiger:name_base, Item: Central Park-Center;Central Park Driveway
+Tag: tiger:name_base, Item: Park
+Tag: tiger:name_base, Item: 49th
+Tag: tiger:name_base, Item: 51st
+Tag: tiger:name_base, Item: Columbus
+Tag: tiger:name_base, Item: 50th
+Tag: tiger:name_base, Item: Madison
+Tag: tiger:name_base, Item: 5th
+Tag: tiger:name_base, Item: 8th
+Tag: tiger:name_base, Item: 55th
+Tag: tiger:name_base, Item: 48th
+Tag: tiger:name_base, Item: 7th
+Tag: tiger:name_base, Item: 9th
+Tag: tiger:name_base, Item: 64th; West 64th
+Tag: tiger:name_base, Item: Lexington
+Tag: tiger:name_base, Item: Avenue of the Americas
+Tag: tiger:name_base, Item: 66th
+Tag: tiger:name_base, Item: 52nd
+Tag: tiger:name_base, Item: The
+Tag: tiger:name_base, Item: 69th
+Tag: tiger:name_base, Item: 67th
+Tag: tiger:name_base_1, Item: 61
+Tag: tiger:name_base_1, Item: 58th
+Tag: tiger:name_base_1, Item: 70
+Tag: tiger:name_base_1, Item: 64
+Tag: tiger:name_base_1, Item: 68
+Tag: tiger:name_base_1, Item: 59
+Tag: tiger:name_base_1, Item: 5
+Tag: tiger:name_base_1, Item: 56
+Tag: tiger:name_base_1, Item: 53
+Tag: tiger:name_base_1, Item: 62
+Tag: tiger:name_base_1, Item: 57
+Tag: tiger:name_base_1, Item: 65
+Tag: tiger:name_base_1, Item: 54
+Tag: tiger:name_base_1, Item: 63
+Tag: tiger:name_base_1, Item: 60
+Tag: tiger:name_base_1, Item: 49
+Tag: tiger:name_base_1, Item: United States Highway 9
+Tag: tiger:name_base_1, Item: 55
+Tag: tiger:name_base_1, Item: 48
+Tag: tiger:name_base_1, Item: 7
+Tag: tiger:name_base_1, Item: 8
+Tag: tiger:name_base_1, Item: 9
+Tag: tiger:name_base_1, Item: 6
+Tag: tiger:name_base_1, Item: 66
+Tag: tiger:name_base_1, Item: 69
+Tag: tiger:name_base_1, Item: 67
+Tag: tiger:name_direction_prefix, Item: W
+Tag: tiger:name_direction_prefix, Item: E
+Tag: tiger:name_direction_prefix_1, Item: W
+Tag: tiger:name_direction_prefix_1, Item: E
+Tag: tiger:name_type, Item: St
+Tag: tiger:name_type, Item: Plz
+Tag: tiger:name_type, Item: Pl
+Tag: tiger:name_type, Item: Dr
+Tag: tiger:name_type, Item: Ave
+Tag: tiger:name_type, Item: Cir
+Tag: tiger:name_type, Item: Mal
+Tag: tiger:name_type_1, Item: St
+Tag: tiger:name_type_1, Item: Ave
+Tag: tiger:reviewed, Item: no
+Tag: tiger:reviewed, Item: aerial
+Tag: tiger:zip_left, Item: 10023
+Tag: tiger:zip_left, Item: 10021
+Tag: tiger:zip_left, Item: 10022
+Tag: tiger:zip_left, Item: 10019
+Tag: tiger:zip_left, Item: 10037
+Tag: tiger:zip_left, Item: 10034
+Tag: tiger:zip_left, Item: 10035
+Tag: tiger:zip_left, Item: 10036
+Tag: tiger:zip_left, Item: 10025
+Tag: tiger:zip_right, Item: 10023
+Tag: tiger:zip_right, Item: 10021
+Tag: tiger:zip_right, Item: 10022
+Tag: tiger:zip_right, Item: 10019
+Tag: tiger:zip_right, Item: 10035
+Tag: tiger:zip_right, Item: 10463
+Tag: tiger:zip_right, Item: 10037
+Tag: tiger:zip_right, Item: 10036
+Tag: tiger:zip_right, Item: 10025
+Tag: covered, Item: no
+Tag: covered, Item: yes
+Tag: covered, Item: colonnade
+Tag: lane_markings, Item: no
+Tag: lane_markings, Item: yes
+Tag: lit, Item: yes
+Tag: lit, Item: no
+Tag: maxspeed, Item: 25 mph
+Tag: maxspeed, Item: 20 mph
+Tag: maxspeed, Item: 30 mph
+Tag: maxspeed, Item: 5 mph
+Tag: maxspeed, Item: 60 mph
+Tag: maxspeed, Item: 10 mph
+Tag: maxspeed, Item: 45 mph
+Tag: surface, Item: asphalt
+Tag: surface, Item: paved
+Tag: surface, Item: rock
+Tag: surface, Item: paving_stones
+Tag: surface, Item: fine_gravel
+Tag: surface, Item: concrete
+Tag: surface, Item: sand
+Tag: surface, Item: concrete:plates
+Tag: surface, Item: unpaved
+Tag: surface, Item: dirt
+Tag: surface, Item: mulch
+Tag: surface, Item: metal
+Tag: surface, Item: artificial_turf
+Tag: surface, Item: stone
+Tag: access, Item: yes
+Tag: access, Item: designated
+Tag: access, Item: permissive
+Tag: access, Item: private
+Tag: access, Item: no
+Tag: access, Item: customers
+Tag: bicycle, Item: no
+Tag: bicycle, Item: yes
+Tag: bicycle, Item: designated
+Tag: bicycle, Item: dismount
+Tag: foot, Item: designated
+Tag: foot, Item: yes
+Tag: foot, Item: private
+Tag: motor_vehicle, Item: no
+Tag: motor_vehicle, Item: private
+Tag: motor_vehicle, Item: yes
+Tag: sidewalk:both, Item: separate
+Tag: turn:lanes, Item: ||right
+Tag: turn:lanes, Item: right|right
+Tag: turn:lanes, Item: left;through|right|right
+Tag: turn:lanes, Item: left|through
+Tag: turn:lanes, Item: left|through|right
+Tag: turn:lanes, Item: |through|right
+Tag: turn:lanes, Item: none|through|right
+Tag: turn:lanes, Item: left;through|through|through
+Tag: turn:lanes, Item: ||||right
+Tag: turn:lanes, Item: through|right
+Tag: turn:lanes, Item: left|none
+Tag: turn:lanes, Item: |through||
+Tag: turn:lanes, Item: through|through|through|through|right
+Tag: turn:lanes, Item: right|right|right|right
+Tag: turn:lanes, Item: through|through|through||
+Tag: turn:lanes, Item: |through|through|through|
+Tag: turn:lanes, Item: |through|through|through|through|
+Tag: turn:lanes, Item: through|through|through|
+Tag: turn:lanes, Item: left|through|through|
+Tag: turn:lanes, Item: |right
+Tag: turn:lanes, Item: left;through|
+Tag: turn:lanes, Item: left|through|||
+Tag: turn:lanes, Item: ||through||
+Tag: turn:lanes, Item: none|through|through|through;right
+Tag: turn:lanes, Item: through|through|through
+Tag: turn:lanes, Item: through|through|through;right|right
+Tag: turn:lanes, Item: left;through|through|through|right|right
+Tag: turn:lanes, Item: left|through|through|through|
+Tag: turn:lanes, Item: through|through|through;right
+Tag: turn:lanes, Item: none|none|none|right
+Tag: turn:lanes, Item: left|through|through||
+Tag: turn:lanes, Item: through|through|through|none
+Tag: turn:lanes, Item: left|through|through|none|none
+Tag: turn:lanes, Item: left|through|
+Tag: turn:lanes, Item: ||through|through|through
+Tag: turn:lanes, Item: left|through|none|none|none
+Tag: turn:lanes, Item: left;through|right
+Tag: turn:lanes, Item: |through|through|through
+Tag: turn:lanes, Item: left||
+Tag: turn:lanes, Item: through
+Tag: turn:lanes, Item: left|through|through
+Tag: turn:lanes, Item: none|through|through|through
+Tag: turn:lanes, Item: through|through
+Tag: turn:lanes, Item: through|through|right
+Tag: turn:lanes, Item: left|left|right|right
+Tag: cycleway:left, Item: lane
+Tag: cycleway:left, Item: track
+Tag: cycleway:left, Item: shared_lane
+Tag: cycleway:left, Item: no
+Tag: parking:both, Item: lane
+Tag: parking:both, Item: no
+Tag: parking:both:orientation, Item: parallel
+Tag: cycleway:both, Item: no
+Tag: cycleway:both, Item: lane
+Tag: hgv, Item: local
+Tag: hgv, Item: destination
+Tag: hgv, Item: no
+Tag: lanes:backward, Item: 2
+Tag: lanes:backward, Item: 1
+Tag: lanes:forward, Item: 2
+Tag: lanes:forward, Item: 1
+Tag: lanes:forward, Item: 3
+Tag: sidewalk:left, Item: yes
+Tag: sidewalk:left, Item: no
+Tag: sidewalk:left, Item: separate
+Tag: sidewalk:right, Item: separate
+Tag: sidewalk:right, Item: yes
+Tag: wikidata, Item: Q2711129
+Tag: wikidata, Item: Q245364
+Tag: wikidata, Item: Q109951
+Tag: wikidata, Item: Q4640404
+Tag: wikidata, Item: Q4640525
+Tag: wikidata, Item: Q4642229
+Tag: wikidata, Item: Q104485131
+Tag: wikidata, Item: Q11260
+Tag: wikidata, Item: Q1608810
+Tag: wikidata, Item: Q109711
+Tag: wikidata, Item: Q4640127
+Tag: wikidata, Item: Q937694
+Tag: wikidata, Item: Q632019
+Tag: wikidata, Item: Q1501652
+Tag: wikidata, Item: Q581044
+Tag: wikidata, Item: Q109968
+Tag: wikidata, Item: Q4633310
+Tag: wikidata, Item: Q3528913
+Tag: wikidata, Item: Q5521797
+Tag: wikidata, Item: Q14706233
+Tag: wikidata, Item: Q2818016
+Tag: wikidata, Item: Q2130764
+Tag: wikidata, Item: Q4053219
+Tag: wikidata, Item: Q300254
+Tag: wikidata, Item: Q2051730
+Tag: wikidata, Item: Q1515007
+Tag: wikidata, Item: Q2606176
+Tag: wikidata, Item: Q875078
+Tag: wikidata, Item: Q2632341
+Tag: wikidata, Item: Q2603784
+Tag: wikidata, Item: Q173498
+Tag: wikidata, Item: Q1783427
+Tag: wikidata, Item: Q4595990
+Tag: wikidata, Item: Q5221180
+Tag: wikidata, Item: Q105695664
+Tag: wikidata, Item: Q59354575
+Tag: wikidata, Item: Q65128100
+Tag: wikidata, Item: Q7127465
+Tag: wikidata, Item: Q3569403
+Tag: wikidata, Item: Q842578
+Tag: wikidata, Item: Q4639969
+Tag: wikidata, Item: Q109849
+Tag: wikidata, Item: Q109858
+Tag: wikidata, Item: Q2817506
+Tag: wikidata, Item: Q3528910
+Tag: wikidata, Item: Q2640560
+Tag: wikidata, Item: Q4644474
+Tag: wikidata, Item: Q942504
+Tag: wikidata, Item: Q198238
+Tag: wikidata, Item: Q133417
+Tag: wikidata, Item: Q59356919
+Tag: wikidata, Item: Q1477826
+Tag: wikidata, Item: Q2023928
+Tag: wikidata, Item: Q233940
+Tag: wikidata, Item: Q2446907
+Tag: wikidata, Item: Q2631268
+Tag: wikidata, Item: Q2631701
+Tag: wikidata, Item: Q5951152
+Tag: wikidata, Item: Q46634839
+Tag: wikidata, Item: Q7402231
+Tag: wikidata, Item: Q7105780
+Tag: wikidata, Item: Q29468766
+Tag: wikidata, Item: Q5651700
+Tag: wikidata, Item: Q101171807
+Tag: wikidata, Item: Q4743784
+Tag: wikidata, Item: Q27988156
+Tag: wikidata, Item: Q44406603
+Tag: wikidata, Item: Q18155724
+Tag: wikidata, Item: Q5911999
+Tag: wikidata, Item: Q6109252
+Tag: wikidata, Item: Q5024141
+Tag: wikidata, Item: Q6107613
+Tag: wikidata, Item: Q7756121
+Tag: wikidata, Item: Q4738516
+Tag: wikidata, Item: Q200959
+Tag: wikidata, Item: Q1043966
+Tag: wikidata, Item: Q102117236
+Tag: wikidata, Item: Q102117239
+Tag: wikidata, Item: Q96398432
+Tag: wikidata, Item: Q1925883
+Tag: wikidata, Item: Q3786725
+Tag: wikidata, Item: Q107001414
+Tag: wikidata, Item: Q107001421
+Tag: wikidata, Item: Q107008859
+Tag: wikidata, Item: Q705846
+Tag: wikidata, Item: Q19881198
+Tag: wikidata, Item: Q107183358
+Tag: wikidata, Item: Q106977200
+Tag: wikidata, Item: Q106977204
+Tag: wikidata, Item: Q2413390
+Tag: wikidata, Item: Q7971165
+Tag: wikidata, Item: Q7894605
+Tag: wikidata, Item: Q106977642
+Tag: wikidata, Item: Q21680456
+Tag: wikidata, Item: Q3750408
+Tag: wikidata, Item: Q535631
+Tag: wikidata, Item: Q910101
+Tag: wikidata, Item: Q23907601
+Tag: wikidata, Item: Q4548429
+Tag: wikidata, Item: Q59362813
+Tag: wikidata, Item: Q7148215
+Tag: wikidata, Item: Q2894308
+Tag: wikidata, Item: Q7137669
+Tag: wikidata, Item: Q4552732
+Tag: wikidata, Item: Q59356336
+Tag: wikidata, Item: Q859452
+Tag: wikidata, Item: Q39074985
+Tag: wikidata, Item: Q2944433
+Tag: wikidata, Item: Q5928735
+Tag: wikidata, Item: Q16985502
+Tag: wikidata, Item: Q5063204
+Tag: wikidata, Item: Q4550860
+Tag: wikidata, Item: Q992616
+Tag: wikidata, Item: Q17423040
+Tag: wikidata, Item: Q153116
+Tag: wikidata, Item: Q6460321
+Tag: wikidata, Item: Q6456307
+Tag: wikidata, Item: Q7309853
+Tag: wikidata, Item: Q2414200
+Tag: wikidata, Item: Q5659343
+Tag: wikidata, Item: Q868772
+Tag: wikidata, Item: Q14706316
+Tag: wikidata, Item: Q7847777
+Tag: wikidata, Item: Q17249799
+Tag: wikidata, Item: Q17191385
+Tag: wikidata, Item: Q1642787
+Tag: wikidata, Item: Q964460
+Tag: wikidata, Item: Q5447481
+Tag: wikidata, Item: Q30673288
+Tag: wikidata, Item: Q2631831
+Tag: wikidata, Item: Q6825044
+Tag: wikidata, Item: Q24952565
+Tag: wikidata, Item: Q7757079
+Tag: wikidata, Item: Q4069927
+Tag: wikidata, Item: Q67214585
+Tag: wikidata, Item: Q29469052
+Tag: wikidata, Item: Q3018029
+Tag: wikidata, Item: Q7591285
+Tag: wikidata, Item: Q7247941
+Tag: wikidata, Item: Q106824196
+Tag: wikidata, Item: Q106891090
+Tag: wikidata, Item: Q6673576
+Tag: wikidata, Item: Q4741073
+Tag: wikidata, Item: Q5407593
+Tag: wikidata, Item: Q7401755
+Tag: wikidata, Item: Q7965343
+Tag: wikidata, Item: Q5189543
+Tag: wikidata, Item: Q917034
+Tag: wikidata, Item: Q2451328
+Tag: wikidata, Item: Q2925870
+Tag: wikidata, Item: Q7013654
+Tag: wikidata, Item: Q1974872
+Tag: wikidata, Item: Q607212
+Tag: wikidata, Item: Q6767988
+Tag: wikidata, Item: Q3268242
+Tag: wikidata, Item: Q12053066
+Tag: wikidata, Item: Q5457953
+Tag: wikidata, Item: Q3229125
+Tag: wikidata, Item: Q7751246
+Tag: wikidata, Item: Q7494693
+Tag: wikidata, Item: Q101084958
+Tag: wikidata, Item: Q30172759
+Tag: wikidata, Item: Q6669405
+Tag: wikidata, Item: Q16961908
+Tag: wikidata, Item: Q2631826
+Tag: wikidata, Item: Q45538762
+Tag: wikidata, Item: Q4732143
+Tag: wikidata, Item: Q17461162
+Tag: wikidata, Item: Q45624697
+Tag: wikidata, Item: Q8001071
+Tag: wikidata, Item: Q6773726
+Tag: wikidata, Item: Q28206674
+Tag: wikidata, Item: Q1673574
+Tag: wikidata, Item: Q897202
+Tag: wikidata, Item: Q59773109
+Tag: wikidata, Item: Q6684836
+Tag: wikidata, Item: Q5886766
+Tag: wikidata, Item: Q4640603
+Tag: wikidata, Item: Q188740
+Tag: wikidata, Item: Q4356655
+Tag: wikidata, Item: Q902461
+Tag: wikidata, Item: Q19759763
+Tag: wikidata, Item: Q15781036
+Tag: wikidata, Item: Q954207
+Tag: wikidata, Item: Q109926
+Tag: wikidata, Item: Q104484727
+Tag: wikidata, Item: Q7295400
+Tag: wikidata, Item: Q130378
+Tag: wikidata, Item: Q160409
+Tag: wikidata, Item: Q109739
+Tag: wikidata, Item: Q109873
+Tag: wikidata, Item: Q5061605
+Tag: wikidata, Item: Q86518088
+Tag: wikidata, Item: Q17198579
+Tag: wikidata, Item: Q11277
+Tag: wikidata, Item: Q769100
+Tag: wikidata, Item: Q41559869
+Tag: wikidata, Item: Q18159288
+Tag: wikidata, Item: Q18157051
+Tag: wikidata, Item: Q1709596
+Tag: wikipedia, Item: en:57th Street (Manhattan)
+Tag: wikipedia, Item: en:59th Street (Manhattan)
+Tag: wikipedia, Item: en:Eighth Avenue (Manhattan)
+Tag: wikipedia, Item: en:53rd Street (Manhattan)
+Tag: wikipedia, Item: en:54th Street (Manhattan)
+Tag: wikipedia, Item: en:66th Street (Manhattan)
+Tag: wikipedia, Item: en:The Pond and Hallett Nature Sanctuary#The_Pond
+Tag: wikipedia, Item: en:Broadway (Manhattan)
+Tag: wikipedia, Item: en:1585 Broadway
+Tag: wikipedia, Item: en:Park Avenue
+Tag: wikipedia, Item: en:51st Street (Manhattan)
+Tag: wikipedia, Item: en:East Side Access
+Tag: wikipedia, Item: en:Solow Building
+Tag: wikipedia, Item: en:General Motors Building (Manhattan)
+Tag: wikipedia, Item: en:Lincoln Center
+Tag: wikipedia, Item: en:Columbus Circle
+Tag: wikipedia, Item: en:Museum of Arts and Design
+Tag: wikipedia, Item: en:1271 Avenue of the Americas
+Tag: wikipedia, Item: en:Damrosch Park
+Tag: wikipedia, Item: en:660 Fifth Avenue
+Tag: wikipedia, Item: en:Random House Tower
+Tag: wikipedia, Item: en:Wollman Rink
+Tag: wikipedia, Item: en:Axa Equitable Center
+Tag: wikipedia, Item: en:Paramount Plaza
+Tag: wikipedia, Item: en:Gershwin Theatre
+Tag: wikipedia, Item: en:712 Fifth Avenue
+Tag: wikipedia, Item: en:731 Lexington Avenue
+Tag: wikipedia, Item: en:New York Hilton Midtown
+Tag: wikipedia, Item: en:1301 Avenue of the Americas
+Tag: wikipedia, Item: en:1251 Avenue of the Americas
+Tag: wikipedia, Item: en:Trump International Hotel and Tower (New York City)
+Tag: wikipedia, Item: en:1 Lincoln Plaza
+Tag: wikipedia, Item: en:Dante Park
+Tag: wikipedia, Item: en:Apple Fifth Avenue
+Tag: wikipedia, Item: en:Paley Center for Media
+Tag: wikipedia, Item: en:Winter Garden Theatre
+Tag: wikipedia, Item: en:Deutsche Bank Center
+Tag: wikipedia, Item: en:50th Street (Manhattan)
+Tag: wikipedia, Item: en:Madison Avenue
+Tag: wikipedia, Item: en:Fifth Avenue
+Tag: wikipedia, Item: en:55th Street (Manhattan)
+Tag: wikipedia, Item: en:75 Rockefeller Plaza
+Tag: wikipedia, Item: en:CBS Building
+Tag: wikipedia, Item: en:810 Seventh Avenue
+Tag: wikipedia, Item: en:888 Seventh Avenue
+Tag: wikipedia, Item: en:1717 Broadway
+Tag: wikipedia, Item: en:6½ Avenue
+Tag: wikipedia, Item: en:550 Madison Avenue
+Tag: wikipedia, Item: en:One57
+Tag: wikipedia, Item: en:432 Park Avenue
+Tag: wikipedia, Item: en:53W53
+Tag: wikipedia, Item: en:111 West 57th Street
+Tag: wikipedia, Item: en:Central Park Tower
+Tag: wikipedia, Item: en:Paley Park
+Tag: wikipedia, Item: en:240 Central Park South
+Tag: wikipedia, Item: en:5 Columbus Circle
+Tag: wikipedia, Item: en:American Fine Arts Society
+Tag: wikipedia, Item: en:Hotel St. Moritz
+Tag: wikipedia, Item: en:Trump Parc
+Tag: wikipedia, Item: en:JW Marriott Essex House
+Tag: wikipedia, Item: en:Calvary Baptist Church (Manhattan)
+Tag: wikipedia, Item: en:Paris Theater (Manhattan)
+Tag: wikipedia, Item: en:Alwyn Court
+Tag: wikipedia, Item: en:Carnegie Hall
+Tag: wikipedia, Item: en:Carnegie Hall Tower
+Tag: wikipedia, Item: en:130 West 57th Street
+Tag: wikipedia, Item: en:140 West 57th Street
+Tag: wikipedia, Item: en:Thompson Central Park New York Hotel
+Tag: wikipedia, Item: en:Metropolitan Tower (Manhattan)
+Tag: wikipedia, Item: en:Fifth Avenue Presbyterian Church
+Tag: wikipedia, Item: en:Rockefeller Apartments
+Tag: wikipedia, Item: en:46 West 55th Street
+Tag: wikipedia, Item: en:5 West 54th Street
+Tag: wikipedia, Item: en:7 West 54th Street
+Tag: wikipedia, Item: en:The Peninsula New York
+Tag: wikipedia, Item: en:Warwick New York Hotel
+Tag: wikipedia, Item: en:University Club of New York
+Tag: wikipedia, Item: en:11 West 54th Street
+Tag: wikipedia, Item: en:1345 Avenue of the Americas
+Tag: wikipedia, Item: en:New York City Center
+Tag: wikipedia, Item: en:CitySpire
+Tag: wikipedia, Item: en:125 West 55th Street
+Tag: wikipedia, Item: en:Park Central Hotel
+Tag: wikipedia, Item: en:224 West 57th Street
+Tag: wikipedia, Item: en:Hearst Tower (Manhattan)
+Tag: wikipedia, Item: en:Central Park Place
+Tag: wikipedia, Item: en:Hudson Hotel
+Tag: wikipedia, Item: en:The Empire Hotel (New York City)
+Tag: wikipedia, Item: en:Four Seasons Hotel New York
+Tag: wikipedia, Item: en:Fuller Building
+Tag: wikipedia, Item: en:LVMH Tower
+Tag: wikipedia, Item: en:The Sherry-Netherland
+Tag: wikipedia, Item: en:Trump Tower
+Tag: wikipedia, Item: en:Harold Pratt House
+Tag: wikipedia, Item: en:Trump Park Avenue
+Tag: wikipedia, Item: en:Tiffany & Co. flagship store
+Tag: wikipedia, Item: en:590 Madison Avenue
+Tag: wikipedia, Item: en:Colony Club
+Tag: wikipedia, Item: en:520 Park Avenue
+Tag: wikipedia, Item: en:The Pierre
+Tag: wikipedia, Item: en:The Dairy
+Tag: wikipedia, Item: en:David H. Koch Theater
+Tag: wikipedia, Item: en:St. Paul the Apostle Church (Manhattan)
+Tag: wikipedia, Item: en:19 East 54th Street
+Tag: wikipedia, Item: en:689 Fifth Avenue
+Tag: wikipedia, Item: en:Longacre Theatre
+Tag: wikipedia, Item: en:Ambassador Theatre (New York City)
+Tag: wikipedia, Item: en:Eugene O'Neill Theatre
+Tag: wikipedia, Item: en:St. Malachy Roman Catholic Church
+Tag: wikipedia, Item: en:Walter Kerr Theatre
+Tag: wikipedia, Item: en:Brill Building
+Tag: wikipedia, Item: en:750 Seventh Avenue
+Tag: wikipedia, Item: en:Broadway Theatre (53rd Street)
+Tag: wikipedia, Item: de:242 West 52nd Street
+Tag: wikipedia, Item: en:Neil Simon Theatre
+Tag: wikipedia, Item: en:Studio 54
+Tag: wikipedia, Item: en:Mark Hellinger Theatre
+Tag: wikipedia, Item: en:Ed Sullivan Theater
+Tag: wikipedia, Item: en:August Wilson Theatre
+Tag: wikipedia, Item: en:The Michelangelo
+Tag: wikipedia, Item: en:Sheraton New York Times Square Hotel
+Tag: wikipedia, Item: en:Ritz Tower
+Tag: wikipedia, Item: en:Argosy Book Store
+Tag: wikipedia, Item: en:Allerton Hotel for Women
+Tag: wikipedia, Item: en:Kosciuszko Foundation
+Tag: wikipedia, Item: en:Holy Trinity Lutheran Church (Manhattan)
+Tag: wikipedia, Item: en:55 Central Park West
+Tag: wikipedia, Item: en:Museum of Modern Art
+Tag: wikipedia, Item: en:Saint Thomas Church (Manhattan)
+Tag: wikipedia, Item: en:Sheep Meadow
+Tag: wikipedia, Item: en:220 Central Park South
+Tag: wikipedia, Item: en:Central Park Zoo
+Tag: wikipedia, Item: en:Seventh Avenue (Manhattan)
+Tag: wikipedia, Item: en:The Pond and Hallett Nature Sanctuary#Hallett_Sanctuary
+Tag: wikipedia, Item: en:Rat Rock (Central Park)
+Tag: wikipedia, Item: en:Ninth Avenue (Manhattan)
+Tag: wikipedia, Item: en:Central Park
+Tag: wikipedia, Item: en:Lexington Avenue
+Tag: wikipedia, Item: en:Sixth Avenue
+Tag: wikipedia, Item: en:Central Park Carousel
+Tag: wikipedia, Item: en:Columbus Monument (New York City)
+Tag: wikipedia, Item: en:USS Maine National Monument
+Tag: wikipedia, Item: en:Rockefeller Center
+Tag: wikipedia, Item: en:52nd Street (Manhattan)
+Tag: wikipedia, Item: en:Mount Sinai West
+Tag: wikipedia, Item: en:William Tecumseh Sherman (Saint-Gaudens)
+Tag: wikipedia, Item: en:Pulitzer Fountain
+Tag: wikipedia, Item: en:New York Institute of Technology
+Tag: access:conditional, Item: no @ (01:00-06:00)
+Tag: access:conditional, Item: private @ 00:00-08:00, 19:00-24:00
+Tag: alt_name, Item: West 59th Street
+Tag: alt_name, Item: West 57 Street
+Tag: alt_name, Item: Sesame Street
+Tag: alt_name, Item: Transverse Road 1
+Tag: alt_name, Item: Dead Road
+Tag: alt_name, Item: 1585 Broadway
+Tag: alt_name, Item: Neuberger Berman Building
+Tag: alt_name, Item: Park Imperial
+Tag: alt_name, Item: Victorian Gardens Amusement Park
+Tag: alt_name, Item: 1301 Avenue of Americas
+Tag: alt_name, Item: 1251 Avenue of the Americas
+Tag: alt_name, Item: Sony Tower;Sony Building;SonyPlaza;AT&T Building
+Tag: alt_name, Item: Steinway Tower
+Tag: alt_name, Item: Nordstrom Tower
+Tag: alt_name, Item: The Warwick
+Tag: alt_name, Item: City Center 55 Street Theater
+Tag: alt_name, Item: 125 West 55th Street
+Tag: alt_name, Item: Colonnade Building
+Tag: alt_name, Item: A Treehouse for Dreaming
+Tag: alt_name, Item: The Dairy
+Tag: alt_name, Item: Speyer School
+Tag: alt_name, Item: N Building
+Tag: alt_name, Item: UN Mission Congo
+Tag: alt_name, Item: UN Mission Pakistan
+Tag: alt_name, Item: UN Mission Serbia
+Tag: alt_name, Item: Museum of Modern Art
+Tag: alt_name, Item: Hampton Inn
+Tag: alt_name, Item: The Tower at 15 Central Park West
+Tag: alt_name, Item: Lincoln Center Drop-Off
+Tag: alt_name, Item: The Promontory
+Tag: alt_name, Item: Rat Rock
+Tag: alt_name, Item: West 55 Street
+Tag: alt_name, Item: West 56 Street
+Tag: alt_name, Item: Sherman Memorial
+Tag: tiger:name_direction_suffix, Item: S
+Tag: tiger:name_direction_suffix, Item: W
+Tag: tiger:zip_right_1, Item: 10019
+Tag: width, Item: 20
+Tag: width, Item: 12
+Tag: width, Item: 10
+Tag: width, Item: 9
+Tag: width, Item: 4
+Tag: width, Item: 10.5
+Tag: width, Item: 18.5
+Tag: width, Item: 2
+Tag: width, Item: 15.5
+Tag: width, Item: 16
+Tag: cycleway:right, Item: lane
+Tag: cycleway:right, Item: no
+Tag: cycleway:right, Item: track
+Tag: cycleway:right, Item: shared_lane
+Tag: cycleway:right, Item: shoulder
+Tag: sidewalk:right:surface, Item: concrete
+Tag: sidewalk:right:surface, Item: concrete:plates
+Tag: sidewalk:right:surface, Item: paving_stones
+Tag: parking:left, Item: lane
+Tag: parking:left, Item: no
+Tag: parking:left:orientation, Item: parallel
+Tag: parking:right, Item: no
+Tag: parking:right, Item: lane
+Tag: change, Item: yes
+Tag: note, Item: thru street
+Tag: note, Item: Former Drive, cut off in the 70s, repaved in the 80s for skaters and volleyball fields.
+Tag: note, Item: The hights of setbacks are calculated by counting floors and assuming that the hight of each floor is 5m. So it may not accurate.
+Tag: note, Item: 56×80ft
+Tag: sidewalk:left:surface, Item: paving_stones
+Tag: sidewalk:left:surface, Item: concrete:plates
+Tag: cycleway:left:oneway, Item: yes
+Tag: cycleway:left:oneway, Item: -1
+Tag: cutting, Item: no
+Tag: cutting, Item: yes
+Tag: embankment, Item: no
+Tag: ford, Item: no
+Tag: name_2, Item: Lincoln Center Plaza
+Tag: tiger:name_base_2, Item: Lincoln Center
+Tag: tiger:name_type_2, Item: Plz
+Tag: tunnel, Item: no
+Tag: tunnel, Item: yes
+Tag: tunnel, Item: building_passage
+Tag: parking:right:orientation, Item: parallel
+Tag: natural, Item: water
+Tag: natural, Item: bare_rock
+Tag: natural, Item: tree_row
+Tag: natural, Item: wood
+Tag: natural, Item: cliff
+Tag: water, Item: pond
+Tag: water, Item: basin
+Tag: website, Item: https://www.centralparknyc.org/locations/the-pond
+Tag: website, Item: https://www.centralparknyc.org/locations/pinebank-arch
+Tag: website, Item: https://www.centralparknyc.org/locations/playmates-arch
+Tag: website, Item: https://www.fordham.edu/info/21454/lincoln_center_campus
+Tag: website, Item: https://www.lct.org/visit/parking/
+Tag: website, Item: https://www.madmuseum.org/
+Tag: website, Item: https://www.nycgovparks.org/parks/M231/
+Tag: website, Item: https://www.centralparknyc.org/locations/heckscher-playground
+Tag: website, Item: https://wollmanrinknyc.com/
+Tag: website, Item: http://gershwintheatre.com/
+Tag: website, Item: https://www.535mad.com/
+Tag: website, Item: www.950thirdnyc.com
+Tag: website, Item: http://www.museumtowernyc.com/
+Tag: website, Item: https://www.trumphotelcollection.com/central-park/
+Tag: website, Item: https://www.nycgovparks.org/parks/dante-park
+Tag: website, Item: https://www.apple.com/retail/fifthavenue/
+Tag: website, Item: http://www.adbuilding.com
+Tag: website, Item: https://www.tower56nyc.com/
+Tag: website, Item: https://www.nycgovparks.org/parks/central-park/facilities/volleyball
+Tag: website, Item: https://www.paleycenter.org/
+Tag: website, Item: https://shubert.nyc/theatres/winter-garden/
+Tag: website, Item: https://www.related.com/our-company/properties/deutsche-bank-center
+Tag: website, Item: http://250w55.com/
+Tag: website, Item: https://111w57.com/
+Tag: website, Item: https://parklanenewyork.com/
+Tag: website, Item: https://www.marriott.com/hotels/travel/nycex-jw-marriott-essex-house-new-york/
+Tag: website, Item: https://www.cbcnyc.org/
+Tag: website, Item: https://www.paristheaternyc.com/
+Tag: website, Item: https://www.stayaka.com/locations/central_park/default.aspx
+Tag: website, Item: https://www.1hotels.com/central-park
+Tag: website, Item: https://57west57th.com/
+Tag: website, Item: https://www.carnegiehall.org
+Tag: website, Item: https://www3.hilton.com/en/hotels/new-york/west-57th-street-by-hilton-club-NYCWEGV/index.html
+Tag: website, Item: https://www.hyatt.com/hotel/new-york/thompson-central-park-new-york/lgatp
+Tag: website, Item: https://fapc.org/
+Tag: website, Item: http://centurioncondo.com/
+Tag: website, Item: http://warwickhotelny.com
+Tag: website, Item: http://hemispherehouse.com/
+Tag: website, Item: https://www.nycitycenter.org/
+Tag: website, Item: https://www.hilton.com/en/hotels/nyccnci-conrad-new-york-midtown/
+Tag: website, Item: http://davincihotel.com
+Tag: website, Item: https://locations.wendys.com/united-states/ny/new-york/938-eighth-avenue
+Tag: website, Item: https://www.dreamhotels.com/midtown/
+Tag: website, Item: https://www.mcdonalds.com/us/en-us/location/2446.html
+Tag: website, Item: http://www.hearst.com/real-estate/hearst-tower.php
+Tag: website, Item: https://saintgeorgenyc.org/
+Tag: website, Item: http://westerlyaptsnyc.com/
+Tag: website, Item: https://www.6columbushotel.com/
+Tag: website, Item: https://3columbus.slgreen.com/
+Tag: website, Item: https://www.empirehotelnyc.com/
+Tag: website, Item: https://anagramcolumbuscircle.com/
+Tag: website, Item: https://campaign.shefaschool.org/our-new-home/
+Tag: website, Item: https://www.fourseasons.com/newyork/
+Tag: website, Item: https://www.sherrynetherland.com/
+Tag: website, Item: https://www.harmonieclub.org/
+Tag: website, Item: https://www.pratthouse.com/
+Tag: website, Item: https://www.tiffany.com/
+Tag: website, Item: https://www.5as.org/
+Tag: website, Item: https://www.grolierclub.org/
+Tag: website, Item: https://www.metropolitanclubnyc.org/
+Tag: website, Item: http://www.christchurchnyc.org/
+Tag: website, Item: https://www.centralparknyc.org/locations/summerhouse-at-the-dene
+Tag: website, Item: https://www.centralparknyc.org/locations/dairy-visitor-center
+Tag: website, Item: https://www.centralparknyc.org/locations/ballfields-cafe
+Tag: website, Item: https://www.centralparknyc.org/locations/chess-checkers-house
+Tag: website, Item: https://www.fordham.edu/info/27089/140_west_62nd_street
+Tag: website, Item: https://15w61.com
+Tag: website, Item: https://stpaultheapostle.org/
+Tag: website, Item: https://brodsky.com/rentals/lincoln-square/one-columbus-place
+Tag: website, Item: http://www.mountsinai.org/locations/west
+Tag: website, Item: https://www.speyerlegacyschool.org/
+Tag: website, Item: http://www.herontowerny.com/
+Tag: website, Item: http://www.ambassadortheater.com/
+Tag: website, Item: https://www.actorschapel.org/
+Tag: website, Item: http://www.mayfairnewyork.com/
+Tag: website, Item: https://www.jujamcyn.com/shows/hadestown/
+Tag: website, Item: https://www.cpmanhattantimessquare.com/
+Tag: website, Item: https://aro.nyc/
+Tag: website, Item: http://www.neilsimontheatre.com/
+Tag: website, Item: http://www.marcny.com/
+Tag: website, Item: http://www.august-wilson-theatre.com/
+Tag: website, Item: https://www.michelangelohotel.com/
+Tag: website, Item: http://www.sheratonnewyork.com/
+Tag: website, Item: https://www.rockefellercenter.com/leasing/1270-avenue-of-the-americas/
+Tag: website, Item: https://www.fitzpatrickhotels.com/fitzpatrick-manhattan.shtml
+Tag: website, Item: https://www.chick-fil-a.com/Locations/NY/711-Lexington-Avenue-In-Line
+Tag: website, Item: https://www.sunriseateast56.com
+Tag: website, Item: https://locations.bloomingdales.com/59th-street
+Tag: website, Item: http://www.theritztower.com/
+Tag: website, Item: https://lombardyhotel.com/
+Tag: website, Item: https://www.425parkave.com/
+Tag: website, Item: https://www.hotel57.com/
+Tag: website, Item: http://parkavenuetower.info/
+Tag: website, Item: https://www.pakun.org
+Tag: website, Item: https://www.serbia-un.mfa.gov.rs/
+Tag: website, Item: https://www.marriott.com/hotels/travel/nycmo-le-meridien-new-york-central-park/
+Tag: website, Item: https://www.holytrinitynyc.org/
+Tag: website, Item: https://www.moma.org/
+Tag: website, Item: https://www.saintthomaschurch.org/
+Tag: website, Item: https://hamptoninn3.hilton.com/en/hotels/new-york/hampton-inn-manhattan-times-square-north-NYCMTHX/index.html
+Tag: website, Item: https://www.hilton.com/en/hotels/nycwfgi-hilton-garden-inn-new-york-central-park-south-midtown-west/
+Tag: website, Item: https://thesheffield57.com/
+Tag: website, Item: https://www.centralparknyc.org/locations/sheep-meadow
+Tag: website, Item: https://www.fordham.edu/info/21591/mckeon_hall
+Tag: website, Item: https://www.centralparknyc.org/locations/east-72nd-street-playground
+Tag: website, Item: https://centralparkzoo.com/
+Tag: website, Item: https://www.centralparknyc.org/locations/hallett-nature-sanctuary
+Tag: website, Item: https://www.centralparknyc.org/locations/cop-cot
+Tag: website, Item: https://www.centralparknyc.org/locations/umpire-rock
+Tag: website, Item: https://www.centralparknyc.org/locations/dipway-arch
+Tag: website, Item: https://www.centralparknyc.org/locations/greyshot-arch
+Tag: website, Item: https://www.centralparknyc.org/locations/dalehead-arch
+Tag: website, Item: https://www.centralparknyc.org/locations/willowdell-arch
+Tag: website, Item: https://www.centralparknyc.org/locations/olmsted-flower-bed
+Tag: website, Item: https://www.centralparknyc.org/locations/dene
+Tag: website, Item: https://www.centralparknyc.org/locations/denesmouth-arch
+Tag: website, Item: https://www.centralparknyc.org/locations/east-green
+Tag: website, Item: https://www.centralparknyc.org/locations/billy-johnson-playground
+Tag: website, Item: https://www.centralparknyc.org/locations/green-gap-arch
+Tag: website, Item: https://www.centralparknyc.org/locations/nell-singer-lilac-walk
+Tag: website, Item: https://www.centralparknyc.org/locations/inscope-arch
+Tag: website, Item: https://www.nycgovparks.org/parks/central-park/facilities/baseball
+Tag: website, Item: https://www.centralparknyc.org/locations/heckscher-ballfields
+Tag: website, Item: https://www.centralparknyc.org
+Tag: website, Item: https://www.centralparknyc.org/locations/gapstow-bridge
+Tag: website, Item: https://www.centralparknyc.org/locations/carousel
+Tag: website, Item: https://www.nycgovparks.org/parks/central-park/monuments/966
+Tag: website, Item: https://www.ggmcparking.com/locations/alfred
+Tag: website, Item: https://www.rockefellercenter.com/
+Tag: website, Item: https://capitalplanning.nyc.gov/pops/M070015#16.52/40.76956/-73.98279
+Tag: website, Item: http://gugushhair.com/
+Tag: website, Item: https://www.jean-georges.com/restaurants/united-states/new-york/terrace-at-jean-georges
+Tag: website, Item: https://www.nycgovparks.org/parks/grand-army-plaza-m062/monuments/1442
+Tag: website, Item: https://www.nycgovparks.org/parks/grand-army-plaza-m062/monuments/1291
+Tag: website, Item: https://www.centralparknyc.org/locations/driprock-arch
+Tag: website, Item: https://www.nyit.edu/nyc/
+Tag: website, Item: https://www.centralparknyc.org/locations/dene-slope
+Tag: website:alternate, Item: https://www.nycgovparks.org/parks/central-park/highlights/12180
+Tag: website:alternate, Item: https://www.nycgovparks.org/parks/central-park/highlights/12722
+Tag: website:alternate, Item: https://www.nycgovparks.org/parks/central-park/highlights/12338
+Tag: website:alternate, Item: https://www.centralparknyc.org/locations/wollman-rink
+Tag: website:alternate, Item: https://www.nycgovparks.org/parks/central-park/highlights/12742
+Tag: website:alternate, Item: https://www.nycgovparks.org/parks/central-park/highlights/10761
+Tag: website:alternate, Item: https://www.nycgovparks.org/parks/central-park/highlights/11983
+Tag: website:alternate, Item: https://www.nycgovparks.org/parks/central-park/highlights/12390
+Tag: website:alternate, Item: https://www.centralparknyc.org/locations/maine-monument
+Tag: website:alternate, Item: https://www.centralparknyc.org/locations/william-tecumseh-sherman
+Tag: website:alternate, Item: https://www.centralparknyc.org/locations/pulitzer-fountain
+Tag: name:en, Item: Broadway
+Tag: name:en, Item: Park Avenue
+Tag: name:en, Item: 5th Avenue
+Tag: name:en, Item: 550 Madison Avenue
+Tag: name:en, Item: 432 Park Avenue
+Tag: name:en, Item: Central Park Tower
+Tag: name:en, Item: The Ritz-Carlton
+Tag: name:en, Item: Carnegie Hall Tower
+Tag: name:en, Item: Consulate General Argentina
+Tag: name:en, Item: 6th Avenue
+Tag: name:en, Item: Rockefeller Center
+Tag: name:ja, Item: ブロードウェイ
+Tag: name:ja, Item: コロンバスサークル
+Tag: name:ja, Item: ペイリーパーク
+Tag: name:ja, Item: セントラルパーク動物園
+Tag: name:ja, Item: 中央公園
+Tag: name:ja, Item: ロックフェラー・センター
+Tag: oneway:bicycle, Item: no
+Tag: sidewalk, Item: both
+Tag: sidewalk, Item: separate
+Tag: sidewalk, Item: right
+Tag: sidewalk, Item: no
+Tag: cycleway, Item: shared_lane
+Tag: cycleway, Item: track
+Tag: cycleway, Item: crossing
+Tag: destination:forward, Item: 7th Avenue South
+Tag: lcn, Item: yes
+Tag: ramp, Item: no
+Tag: ramp, Item: yes
+Tag: ramp, Item: separate
+Tag: description, Item: Known locally as "Skater's Road," this is a popular place for roller skating.
+Tag: description, Item: The Winter Garden Theatre is the Shubert Organization’s longest-held theater, which was originally built in 1896 as the American Horse Exchange. It has been home to hit musicals School of Rock, Beetlejuice and The Music Man, starring Hugh Jackman.
+Tag: description, Item: 56×80ft
+Tag: description, Item: Spanish solution platform
+Tag: description, Item: rocks that are designed to stop car passage
+Tag: description, Item: NYCT easement/REUC
+Tag: loc_name, Item: Skater's Road
+Tag: loc_name, Item: Black Rock
+Tag: loc_name, Item: The Coffee Stirrer
+Tag: official_name, Item: Center Drive
+Tag: official_name, Item: Symphony House Apartments
+Tag: official_name, Item: JW Marriott Essex House
+Tag: official_name, Item: West 57th Street by Hilton Club
+Tag: official_name, Item: Saint George Gerrek Orthodox Church
+Tag: official_name, Item: Tiffany & Co.
+Tag: official_name, Item: Fitzpatrick Manhattan Hotel
+Tag: official_name, Item: Permanent Mission of the Islamic Republic of Pakistan to the United Nations
+Tag: official_name, Item: Permanent Mission of the Republic of Serbia to the United Nations
+Tag: official_name, Item: The Museum of Modern Art
+Tag: official_name, Item: Hampton by Hilton
+Tag: official_name, Item: Hilton Garden Inn Central Park South Midtown West
+Tag: official_name, Item: La Premier Apartments
+Tag: official_name, Item: Avenue of the Americas
+Tag: official_name, Item: Michael Friedsam Memorial Carousel
+Tag: source, Item: https://www.cpdsa.org/our-story/;https://www.echonyc.com/~parks/images/central-park-big-web.jpg
+Tag: source, Item: GPS survey
+Tag: source, Item: Bing
+Tag: source, Item: USGS Geonames
+Tag: source, Item: footway
+Tag: source, Item: estimated
+Tag: source, Item: Department of Finance Digital Tax Map
+Tag: tracktype, Item: grade1
+Tag: handrail, Item: yes
+Tag: handrail, Item: no
+Tag: handrail, Item: left
+Tag: handrail, Item: right
+Tag: incline, Item: down
+Tag: incline, Item: up
+Tag: incline, Item: 0%
+Tag: bridge, Item: yes
+Tag: layer, Item: 1
+Tag: layer, Item: -1
+Tag: layer, Item: -3
+Tag: layer, Item: -4
+Tag: layer, Item: -2
+Tag: layer, Item: -5
+Tag: layer, Item: 0
+Tag: level, Item: 1
+Tag: level, Item: -3
+Tag: level, Item: -4
+Tag: level, Item: -2
+Tag: level, Item: -5
+Tag: level, Item: -1
+Tag: level, Item: 0
+Tag: level, Item: 38
+Tag: level, Item: 5
+Tag: level, Item: -1;0
+Tag: level, Item: -2;-1
+Tag: level, Item: 0;1
+Tag: level, Item: -4;-5
+Tag: destination, Item: West Side
+Tag: destination, Item: Downtown
+Tag: destination, Item: Uptown & The Bronx
+Tag: destination, Item: Downtown & Brooklyn
+Tag: destination, Item: Uptown & Queens
+Tag: destination, Item: Uptown
+Tag: cycleway:oneway, Item: yes
+Tag: oneway:foot, Item: no
+Tag: segregated, Item: yes
+Tag: addr:housenumber, Item: 1585
+Tag: addr:housenumber, Item: 9
+Tag: addr:housenumber, Item: 767
+Tag: addr:housenumber, Item: 10
+Tag: addr:housenumber, Item: 140
+Tag: addr:housenumber, Item: 2
+Tag: addr:housenumber, Item: 1271
+Tag: addr:housenumber, Item: 1290
+Tag: addr:housenumber, Item: 666
+Tag: addr:housenumber, Item: 1745
+Tag: addr:housenumber, Item: 787
+Tag: addr:housenumber, Item: 1633
+Tag: addr:housenumber, Item: 222
+Tag: addr:housenumber, Item: 712
+Tag: addr:housenumber, Item: 1335
+Tag: addr:housenumber, Item: 1301
+Tag: addr:housenumber, Item: 1285
+Tag: addr:housenumber, Item: 1251
+Tag: addr:housenumber, Item: 535
+Tag: addr:housenumber, Item: 950
+Tag: addr:housenumber, Item: 15
+Tag: addr:housenumber, Item: 1
+Tag: addr:housenumber, Item: 200
+Tag: addr:housenumber, Item: 1370
+Tag: addr:housenumber, Item: 126
+Tag: addr:housenumber, Item: 31
+Tag: addr:housenumber, Item: 21
+Tag: addr:housenumber, Item: 20
+Tag: addr:housenumber, Item: 25
+Tag: addr:housenumber, Item: 1634
+Tag: addr:housenumber, Item: 235
+Tag: addr:housenumber, Item: 102
+Tag: addr:housenumber, Item: 51
+Tag: addr:housenumber, Item: 888
+Tag: addr:housenumber, Item: 550
+Tag: addr:housenumber, Item: 1350
+Tag: addr:housenumber, Item: 432
+Tag: addr:housenumber, Item: 53
+Tag: addr:housenumber, Item: 111
+Tag: addr:housenumber, Item: 225
+Tag: addr:housenumber, Item: 30
+Tag: addr:housenumber, Item: 345
+Tag: addr:housenumber, Item: 3
+Tag: addr:housenumber, Item: 1780
+Tag: addr:housenumber, Item: 202
+Tag: addr:housenumber, Item: 210
+Tag: addr:housenumber, Item: 211
+Tag: addr:housenumber, Item: 213
+Tag: addr:housenumber, Item: 215
+Tag: addr:housenumber, Item: 230
+Tag: addr:housenumber, Item: 205
+Tag: addr:housenumber, Item: 1776
+Tag: addr:housenumber, Item: 240
+Tag: addr:housenumber, Item: 5
+Tag: addr:housenumber, Item: 110
+Tag: addr:housenumber, Item: 117
+Tag: addr:housenumber, Item: 120
+Tag: addr:housenumber, Item: 128
+Tag: addr:housenumber, Item: 135
+Tag: addr:housenumber, Item: 145
+Tag: addr:housenumber, Item: 150
+Tag: addr:housenumber, Item: 22
+Tag: addr:housenumber, Item: 24
+Tag: addr:housenumber, Item: 41
+Tag: addr:housenumber, Item: 36
+Tag: addr:housenumber, Item: 50
+Tag: addr:housenumber, Item: 106
+Tag: addr:housenumber, Item: 100
+Tag: addr:housenumber, Item: 180
+Tag: addr:housenumber, Item: 160
+Tag: addr:housenumber, Item: 115
+Tag: addr:housenumber, Item: 123
+Tag: addr:housenumber, Item: 130
+Tag: addr:housenumber, Item: 132
+Tag: addr:housenumber, Item: 134
+Tag: addr:housenumber, Item: 1409
+Tag: addr:housenumber, Item: 152
+Tag: addr:housenumber, Item: 158
+Tag: addr:housenumber, Item: 35
+Tag: addr:housenumber, Item: 37
+Tag: addr:housenumber, Item: 4
+Tag: addr:housenumber, Item: 42
+Tag: addr:housenumber, Item: 43
+Tag: addr:housenumber, Item: 45
+Tag: addr:housenumber, Item: 7
+Tag: addr:housenumber, Item: 180-182
+Tag: addr:housenumber, Item: 58
+Tag: addr:housenumber, Item: 1414
+Tag: addr:housenumber, Item: 125
+Tag: addr:housenumber, Item: 127
+Tag: addr:housenumber, Item: 129
+Tag: addr:housenumber, Item: 131
+Tag: addr:housenumber, Item: 153
+Tag: addr:housenumber, Item: 119
+Tag: addr:housenumber, Item: 142
+Tag: addr:housenumber, Item: 11
+Tag: addr:housenumber, Item: 12
+Tag: addr:housenumber, Item: 13
+Tag: addr:housenumber, Item: 14
+Tag: addr:housenumber, Item: 16
+Tag: addr:housenumber, Item: 17
+Tag: addr:housenumber, Item: 19
+Tag: addr:housenumber, Item: 18
+Tag: addr:housenumber, Item: 23
+Tag: addr:housenumber, Item: 26
+Tag: addr:housenumber, Item: 27
+Tag: addr:housenumber, Item: 28
+Tag: addr:housenumber, Item: 29
+Tag: addr:housenumber, Item: 33
+Tag: addr:housenumber, Item: 34
+Tag: addr:housenumber, Item: 38
+Tag: addr:housenumber, Item: 39
+Tag: addr:housenumber, Item: 40
+Tag: addr:housenumber, Item: 44
+Tag: addr:housenumber, Item: 46
+Tag: addr:housenumber, Item: 47
+Tag: addr:housenumber, Item: 48
+Tag: addr:housenumber, Item: 49
+Tag: addr:housenumber, Item: 52
+Tag: addr:housenumber, Item: 54
+Tag: addr:housenumber, Item: 55
+Tag: addr:housenumber, Item: 56
+Tag: addr:housenumber, Item: 6
+Tag: addr:housenumber, Item: 60
+Tag: addr:housenumber, Item: 62
+Tag: addr:housenumber, Item: 69
+Tag: addr:housenumber, Item: 71
+Tag: addr:housenumber, Item: 724
+Tag: addr:housenumber, Item: 65
+Tag: addr:housenumber, Item: 1345
+Tag: addr:housenumber, Item: 150-156
+Tag: addr:housenumber, Item: 105
+Tag: addr:housenumber, Item: 112
+Tag: addr:housenumber, Item: 136
+Tag: addr:housenumber, Item: 147
+Tag: addr:housenumber, Item: 154
+Tag: addr:housenumber, Item: 151
+Tag: addr:housenumber, Item: 162
+Tag: addr:housenumber, Item: 871
+Tag: addr:housenumber, Item: 220
+Tag: addr:housenumber, Item: 234
+Tag: addr:housenumber, Item: 236
+Tag: addr:housenumber, Item: 238
+Tag: addr:housenumber, Item: 242
+Tag: addr:housenumber, Item: 243
+Tag: addr:housenumber, Item: 244
+Tag: addr:housenumber, Item: 245
+Tag: addr:housenumber, Item: 251
+Tag: addr:housenumber, Item: 253
+Tag: addr:housenumber, Item: 255
+Tag: addr:housenumber, Item: 257
+Tag: addr:housenumber, Item: 850
+Tag: addr:housenumber, Item: 854
+Tag: addr:housenumber, Item: 932
+Tag: addr:housenumber, Item: 934
+Tag: addr:housenumber, Item: 936
+Tag: addr:housenumber, Item: 938
+Tag: addr:housenumber, Item: 940
+Tag: addr:housenumber, Item: 944
+Tag: addr:housenumber, Item: 860
+Tag: addr:housenumber, Item: 946
+Tag: addr:housenumber, Item: 302
+Tag: addr:housenumber, Item: 304
+Tag: addr:housenumber, Item: 305
+Tag: addr:housenumber, Item: 309
+Tag: addr:housenumber, Item: 310
+Tag: addr:housenumber, Item: 311
+Tag: addr:housenumber, Item: 313
+Tag: addr:housenumber, Item: 314
+Tag: addr:housenumber, Item: 315
+Tag: addr:housenumber, Item: 320
+Tag: addr:housenumber, Item: 321
+Tag: addr:housenumber, Item: 327
+Tag: addr:housenumber, Item: 329
+Tag: addr:housenumber, Item: 330
+Tag: addr:housenumber, Item: 331
+Tag: addr:housenumber, Item: 333
+Tag: addr:housenumber, Item: 335
+Tag: addr:housenumber, Item: 337
+Tag: addr:housenumber, Item: 346
+Tag: addr:housenumber, Item: 347
+Tag: addr:housenumber, Item: 348
+Tag: addr:housenumber, Item: 350
+Tag: addr:housenumber, Item: 352
+Tag: addr:housenumber, Item: 354
+Tag: addr:housenumber, Item: 852
+Tag: addr:housenumber, Item: 856
+Tag: addr:housenumber, Item: 858
+Tag: addr:housenumber, Item: 933
+Tag: addr:housenumber, Item: 935
+Tag: addr:housenumber, Item: 937
+Tag: addr:housenumber, Item: 939
+Tag: addr:housenumber, Item: 357
+Tag: addr:housenumber, Item: 959
+Tag: addr:housenumber, Item: 306
+Tag: addr:housenumber, Item: 307
+Tag: addr:housenumber, Item: 322
+Tag: addr:housenumber, Item: 324
+Tag: addr:housenumber, Item: 326
+Tag: addr:housenumber, Item: 328
+Tag: addr:housenumber, Item: 340
+Tag: addr:housenumber, Item: 301
+Tag: addr:housenumber, Item: 836
+Tag: addr:housenumber, Item: 921
+Tag: addr:housenumber, Item: 316
+Tag: addr:housenumber, Item: 325
+Tag: addr:housenumber, Item: 334
+Tag: addr:housenumber, Item: 351
+Tag: addr:housenumber, Item: 308
+Tag: addr:housenumber, Item: 358
+Tag: addr:housenumber, Item: 370
+Tag: addr:housenumber, Item: 312
+Tag: addr:housenumber, Item: 317
+Tag: addr:housenumber, Item: 61
+Tag: addr:housenumber, Item: 1849
+Tag: addr:housenumber, Item: 1855
+Tag: addr:housenumber, Item: 57
+Tag: addr:housenumber, Item: 450
+Tag: addr:housenumber, Item: 32
+Tag: addr:housenumber, Item: 59
+Tag: addr:housenumber, Item: 601
+Tag: addr:housenumber, Item: 605
+Tag: addr:housenumber, Item: 8
+Tag: addr:housenumber, Item: 721/725
+Tag: addr:housenumber, Item: 502
+Tag: addr:housenumber, Item: 745
+Tag: addr:housenumber, Item: 575
+Tag: addr:housenumber, Item: 645
+Tag: addr:housenumber, Item: 650
+Tag: addr:housenumber, Item: 600
+Tag: addr:housenumber, Item: 590
+Tag: addr:housenumber, Item: 667
+Tag: addr:housenumber, Item: 675
+Tag: addr:housenumber, Item: 677
+Tag: addr:housenumber, Item: 692
+Tag: addr:housenumber, Item: 694
+Tag: addr:housenumber, Item: 696
+Tag: addr:housenumber, Item: 698
+Tag: addr:housenumber, Item: 700
+Tag: addr:housenumber, Item: 713
+Tag: addr:housenumber, Item: 714
+Tag: addr:housenumber, Item: 715
+Tag: addr:housenumber, Item: 716
+Tag: addr:housenumber, Item: 717
+Tag: addr:housenumber, Item: 718
+Tag: addr:housenumber, Item: 720
+Tag: addr:housenumber, Item: 812
+Tag: addr:housenumber, Item: 815
+Tag: addr:housenumber, Item: 524
+Tag: addr:housenumber, Item: 660
+Tag: addr:housenumber, Item: 800
+Tag: addr:housenumber, Item: 655
+Tag: addr:housenumber, Item: 830
+Tag: addr:housenumber, Item: 400
+Tag: addr:housenumber, Item: 403
+Tag: addr:housenumber, Item: 405
+Tag: addr:housenumber, Item: 408
+Tag: addr:housenumber, Item: 410
+Tag: addr:housenumber, Item: 415
+Tag: addr:housenumber, Item: 420
+Tag: addr:housenumber, Item: 885
+Tag: addr:housenumber, Item: 113
+Tag: addr:housenumber, Item: 161
+Tag: addr:housenumber, Item: 155
+Tag: addr:housenumber, Item: 124
+Tag: addr:housenumber, Item: 1000
+Tag: addr:housenumber, Item: 925
+Tag: addr:housenumber, Item: 445
+Tag: addr:housenumber, Item: 534
+Tag: addr:housenumber, Item: 536
+Tag: addr:housenumber, Item: 538
+Tag: addr:housenumber, Item: 543
+Tag: addr:housenumber, Item: 673
+Tag: addr:housenumber, Item: 681
+Tag: addr:housenumber, Item: 693
+Tag: addr:housenumber, Item: 697
+Tag: addr:housenumber, Item: 70
+Tag: addr:housenumber, Item: 545
+Tag: addr:housenumber, Item: 520
+Tag: addr:housenumber, Item: 689
+Tag: addr:housenumber, Item: 219
+Tag: addr:housenumber, Item: 1625
+Tag: addr:housenumber, Item: 214
+Tag: addr:housenumber, Item: 216
+Tag: addr:housenumber, Item: 224
+Tag: addr:housenumber, Item: 226
+Tag: addr:housenumber, Item: 239
+Tag: addr:housenumber, Item: 241
+Tag: addr:housenumber, Item: 249
+Tag: addr:housenumber, Item: 832
+Tag: addr:housenumber, Item: 1605
+Tag: addr:housenumber, Item: 1600
+Tag: addr:housenumber, Item: 1619
+Tag: addr:housenumber, Item: 750
+Tag: addr:housenumber, Item: 1681
+Tag: addr:housenumber, Item: 228
+Tag: addr:housenumber, Item: 229
+Tag: addr:housenumber, Item: 256
+Tag: addr:housenumber, Item: 261
+Tag: addr:housenumber, Item: 250
+Tag: addr:housenumber, Item: 254
+Tag: addr:housenumber, Item: 237
+Tag: addr:housenumber, Item: 1675
+Tag: addr:housenumber, Item: 137
+Tag: addr:housenumber, Item: 1270
+Tag: addr:housenumber, Item: 141
+Tag: addr:housenumber, Item: 143
+Tag: addr:housenumber, Item: 144
+Tag: addr:housenumber, Item: 149
+Tag: addr:housenumber, Item: 687
+Tag: addr:housenumber, Item: 707
+Tag: addr:housenumber, Item: 709
+Tag: addr:housenumber, Item: 711
+Tag: addr:housenumber, Item: 719
+Tag: addr:housenumber, Item: 139
+Tag: addr:housenumber, Item: 465
+Tag: addr:housenumber, Item: 108
+Tag: addr:housenumber, Item: 116
+Tag: addr:housenumber, Item: 118
+Tag: addr:housenumber, Item: 122
+Tag: addr:housenumber, Item: 730
+Tag: addr:housenumber, Item: 425
+Tag: addr:housenumber, Item: 471
+Tag: addr:housenumber, Item: 485
+Tag: addr:housenumber, Item: 515
+Tag: addr:housenumber, Item: 505
+Tag: addr:housenumber, Item: 555
+Tag: addr:housenumber, Item: 107
+Tag: addr:housenumber, Item: 109
+Tag: addr:housenumber, Item: 114
+Tag: addr:housenumber, Item: 116A
+Tag: addr:housenumber, Item: 121
+Tag: addr:housenumber, Item: 563
+Tag: addr:housenumber, Item: 565
+Tag: addr:housenumber, Item: 112E
+Tag: addr:housenumber, Item: 741
+Tag: addr:housenumber, Item: 743
+Tag: addr:housenumber, Item: 762
+Tag: addr:housenumber, Item: 764
+Tag: addr:housenumber, Item: 766
+Tag: addr:housenumber, Item: 768
+Tag: addr:housenumber, Item: 780
+Tag: addr:housenumber, Item: 13A
+Tag: addr:housenumber, Item: 1930
+Tag: addr:housenumber, Item: 1330
+Tag: addr:housenumber, Item: 851
+Tag: addr:housenumber, Item: 500
+Tag: addr:housenumber, Item: 770
+Tag: addr:housenumber, Item: 1886
+Tag: addr:street, Item: Broadway
+Tag: addr:street, Item: West 57th street
+Tag: addr:street, Item: 5th Avenue
+Tag: addr:street, Item: Lincoln Center Plaza
+Tag: addr:street, Item: West 65th Street
+Tag: addr:street, Item: Columbus Circle
+Tag: addr:street, Item: Avenue of the Americas
+Tag: addr:street, Item: West 62nd Street
+Tag: addr:street, Item: Fifth Avenue
+Tag: addr:street, Item: 7th Avenue
+Tag: addr:street, Item: West 51st Street
+Tag: addr:street, Item: 6th Avenue
+Tag: addr:street, Item: Madison Avenue
+Tag: addr:street, Item: 3rd Avenue
+Tag: addr:street, Item: West 53rd Street
+Tag: addr:street, Item: Central Park West
+Tag: addr:street, Item: Lincoln Plaza
+Tag: addr:street, Item: West 57th Street
+Tag: addr:street, Item: East 56th Street
+Tag: addr:street, Item: West 52nd Street
+Tag: addr:street, Item: West 48th Street
+Tag: addr:street, Item: Seventh Avenue
+Tag: addr:street, Item: Park Avenue
+Tag: addr:street, Item: West 60th Street
+Tag: addr:street, Item: West 58th Street
+Tag: addr:street, Item: East 53rd Street
+Tag: addr:street, Item: Central Park South
+Tag: addr:street, Item: Central Park S
+Tag: addr:street, Item: Avenue Of The Americas
+Tag: addr:street, Item: West 56th Street
+Tag: addr:street, Item: West 55th Street
+Tag: addr:street, Item: West 54th Street
+Tag: addr:street, Item: 8th Avenue
+Tag: addr:street, Item: 9th Avenue
+Tag: addr:street, Item: West 63rd Street
+Tag: addr:street, Item: West 61st Street
+Tag: addr:street, Item: East 59th Street
+Tag: addr:street, Item: East 57th Street
+Tag: addr:street, Item: East 58th Street
+Tag: addr:street, Item: East 60th Street
+Tag: addr:street, Item: East 62nd Street
+Tag: addr:street, Item: East 63rd Street
+Tag: addr:street, Item: East 64th Street
+Tag: addr:street, Item: East 61st Street
+Tag: addr:street, Item: West 59th Street
+Tag: addr:street, Item: 10th Avenue
+Tag: addr:street, Item: Columbus Avenue
+Tag: addr:street, Item: East 54th Street
+Tag: addr:street, Item: East 55th Street
+Tag: addr:street, Item: West 49th Street
+Tag: addr:street, Item: West 50th Street
+Tag: addr:street, Item: Lexington Avenue
+Tag: addr:street, Item: East 66th Street
+Tag: addr:street, Item: East 65th Street
+Tag: addr:street, Item: East 67th Street
+Tag: addr:street, Item: East 68th Street
+Tag: addr:street, Item: East 69th Street
+Tag: addr:street, Item: West 64th Street
+Tag: addr:street, Item: West 66th Street
+Tag: addr:street, Item: Rockefeller Plaza
+Tag: building, Item: commercial
+Tag: building, Item: yes
+Tag: building, Item: office
+Tag: building, Item: apartments
+Tag: building, Item: retail
+Tag: building, Item: theatre
+Tag: building, Item: residential
+Tag: building, Item: fire_station
+Tag: building, Item: hotel
+Tag: building, Item: church
+Tag: building, Item: transportation
+Tag: building, Item: construction
+Tag: building, Item: school
+Tag: building, Item: university
+Tag: building, Item: civic
+Tag: building, Item: dormitory
+Tag: building, Item: hospital
+Tag: building, Item: college
+Tag: building, Item: service
+Tag: building, Item: museum
+Tag: building, Item: train_station
+Tag: building, Item: roof
+Tag: building:levels, Item: 42
+Tag: building:levels, Item: 37
+Tag: building:levels, Item: 38
+Tag: building:levels, Item: 48
+Tag: building:levels, Item: 55
+Tag: building:levels, Item: 45
+Tag: building:levels, Item: 54
+Tag: building:levels, Item: 36
+Tag: building:levels, Item: 50
+Tag: building:levels, Item: 46
+Tag: building:levels, Item: 41
+Tag: building:levels, Item: 52
+Tag: building:levels, Item: 27
+Tag: building:levels, Item: 44
+Tag: building:levels, Item: 0
+Tag: building:levels, Item: 39
+Tag: building:levels, Item: 58
+Tag: building:levels, Item: 34
+Tag: building:levels, Item: 33
+Tag: building:levels, Item: 43
+Tag: building:levels, Item: 30
+Tag: building:levels, Item: 16
+Tag: building:levels, Item: 3
+Tag: building:levels, Item: 8
+Tag: building:levels, Item: 40
+Tag: building:levels, Item: 28
+Tag: building:levels, Item: 2
+Tag: building:levels, Item: 35
+Tag: building:levels, Item: 53
+Tag: building:levels, Item: 51
+Tag: building:levels, Item: 70
+Tag: building:levels, Item: 72
+Tag: building:levels, Item: 71
+Tag: building:levels, Item: 73
+Tag: building:levels, Item: 25
+Tag: building:levels, Item: 88
+Tag: building:levels, Item: 77
+Tag: building:levels, Item: 82
+Tag: building:levels, Item: 98
+Tag: building:levels, Item: 14
+Tag: building:levels, Item: 6
+Tag: building:levels, Item: 7
+Tag: building:levels, Item: 5
+Tag: building:levels, Item: 10
+Tag: building:levels, Item: 4
+Tag: building:levels, Item: 21
+Tag: building:levels, Item: 32
+Tag: building:levels, Item: 11
+Tag: building:levels, Item: 24
+Tag: building:levels, Item: 1
+Tag: building:levels, Item: 49
+Tag: building:levels, Item: 13
+Tag: building:levels, Item: 9
+Tag: building:levels, Item: 12
+Tag: building:levels, Item: 22
+Tag: building:levels, Item: 31
+Tag: building:levels, Item: 19
+Tag: building:levels, Item: 23
+Tag: building:levels, Item: 29
+Tag: building:levels, Item: 60
+Tag: building:levels, Item: 2.5
+Tag: building:levels, Item: 15
+Tag: building:levels, Item: 18
+Tag: building:levels, Item: 62
+Tag: nycdoitt:bin, Item: 1076193
+Tag: nycdoitt:bin, Item: 1035071
+Tag: nycdoitt:bin, Item: 1036082
+Tag: nycdoitt:bin, Item: 1024910
+Tag: nycdoitt:bin, Item: 1022709
+Tag: nycdoitt:bin, Item: 1034510
+Tag: nycdoitt:bin, Item: 1081406
+Tag: nycdoitt:bin, Item: 1023157
+Tag: nycdoitt:bin, Item: 1024812
+Tag: nycdoitt:bin, Item: 1077363
+Tag: nycdoitt:bin, Item: 1086160
+Tag: nycdoitt:bin, Item: 1023163
+Tag: nycdoitt:bin, Item: 1023161
+Tag: nycdoitt:bin, Item: 1023158
+Tag: nycdoitt:bin, Item: 1022706
+Tag: nycdoitt:bin, Item: 1035747
+Tag: nycdoitt:bin, Item: 1036882
+Tag: nycdoitt:bin, Item: 1034532
+Tag: nycdoitt:bin, Item: 1027191
+Tag: nycdoitt:bin, Item: 1027472
+Tag: nycdoitt:bin, Item: 1036915
+Tag: nycdoitt:bin, Item: 1034855
+Tag: nycdoitt:bin, Item: 1081163
+Tag: nycdoitt:bin, Item: 1071418
+Tag: nycdoitt:bin, Item: 1034519
+Tag: nycdoitt:bin, Item: 1034521
+Tag: nycdoitt:bin, Item: 1076265
+Tag: nycdoitt:bin, Item: 1024810
+Tag: nycdoitt:bin, Item: 1085498
+Tag: nycdoitt:bin, Item: 1076194
+Tag: nycdoitt:bin, Item: 1024836
+Tag: nycdoitt:bin, Item: 1026318
+Tag: nycdoitt:bin, Item: 1034512
+Tag: nycdoitt:bin, Item: 1024828
+Tag: nycdoitt:bin, Item: 1024895
+Tag: nycdoitt:bin, Item: 1000000
+Tag: nycdoitt:bin, Item: 1024899
+Tag: nycdoitt:bin, Item: 1070014
+Tag: nycdoitt:bin, Item: 1035759
+Tag: nycdoitt:bin, Item: 1034815
+Tag: nycdoitt:bin, Item: 1090180
+Tag: nycdoitt:bin, Item: 1082935
+Tag: nycdoitt:bin, Item: 1082934
+Tag: nycdoitt:bin, Item: 1024920
+Tag: nycdoitt:bin, Item: 1024902
+Tag: nycdoitt:bin, Item: 1024905
+Tag: nycdoitt:bin, Item: 1024919
+Tag: nycdoitt:bin, Item: 1024917
+Tag: nycdoitt:bin, Item: 1024916
+Tag: nycdoitt:bin, Item: 1024915
+Tag: nycdoitt:bin, Item: 1024921
+Tag: nycdoitt:bin, Item: 1024904
+Tag: nycdoitt:bin, Item: 1024903
+Tag: nycdoitt:bin, Item: 1024918
+Tag: nycdoitt:bin, Item: 1024901
+Tag: nycdoitt:bin, Item: 1024922
+Tag: nycdoitt:bin, Item: 1024909
+Tag: nycdoitt:bin, Item: 1080846
+Tag: nycdoitt:bin, Item: 1023756
+Tag: nycdoitt:bin, Item: 1023753
+Tag: nycdoitt:bin, Item: 1023757
+Tag: nycdoitt:bin, Item: 1023758
+Tag: nycdoitt:bin, Item: 1023752
+Tag: nycdoitt:bin, Item: 1023751
+Tag: nycdoitt:bin, Item: 1023759
+Tag: nycdoitt:bin, Item: 1035252
+Tag: nycdoitt:bin, Item: 1035254
+Tag: nycdoitt:bin, Item: 1035255
+Tag: nycdoitt:bin, Item: 1080444
+Tag: nycdoitt:bin, Item: 1035251
+Tag: nycdoitt:bin, Item: 1035257
+Tag: nycdoitt:bin, Item: 1035256
+Tag: nycdoitt:bin, Item: 1076843
+Tag: nycdoitt:bin, Item: 1069595
+Tag: nycdoitt:bin, Item: 1035250
+Tag: nycdoitt:bin, Item: 1023755
+Tag: nycdoitt:bin, Item: 1023750
+Tag: nycdoitt:bin, Item: 1023760
+Tag: nycdoitt:bin, Item: 1080443
+Tag: nycdoitt:bin, Item: 1023727
+Tag: nycdoitt:bin, Item: 1023726
+Tag: nycdoitt:bin, Item: 1084293
+Tag: nycdoitt:bin, Item: 1023724
+Tag: nycdoitt:bin, Item: 1023734
+Tag: nycdoitt:bin, Item: 1023742
+Tag: nycdoitt:bin, Item: 1023735
+Tag: nycdoitt:bin, Item: 1023743
+Tag: nycdoitt:bin, Item: 1023731
+Tag: nycdoitt:bin, Item: 1023723
+Tag: nycdoitt:bin, Item: 1023736
+Tag: nycdoitt:bin, Item: 1023737
+Tag: nycdoitt:bin, Item: 1023738
+Tag: nycdoitt:bin, Item: 1035070
+Tag: nycdoitt:bin, Item: 1035073
+Tag: nycdoitt:bin, Item: 1035069
+Tag: nycdoitt:bin, Item: 1035068
+Tag: nycdoitt:bin, Item: 1035067
+Tag: nycdoitt:bin, Item: 1035066
+Tag: nycdoitt:bin, Item: 1035074
+Tag: nycdoitt:bin, Item: 1035065
+Tag: nycdoitt:bin, Item: 1035075
+Tag: nycdoitt:bin, Item: 1035064
+Tag: nycdoitt:bin, Item: 1035063
+Tag: nycdoitt:bin, Item: 1035076
+Tag: nycdoitt:bin, Item: 1035072
+Tag: nycdoitt:bin, Item: 1023740
+Tag: nycdoitt:bin, Item: 1035078
+Tag: nycdoitt:bin, Item: 1023717
+Tag: nycdoitt:bin, Item: 1023728
+Tag: nycdoitt:bin, Item: 1023725
+Tag: nycdoitt:bin, Item: 1081141
+Tag: nycdoitt:bin, Item: 1035077
+Tag: nycdoitt:bin, Item: 1035062
+Tag: nycdoitt:bin, Item: 1023732
+Tag: nycdoitt:bin, Item: 1023730
+Tag: nycdoitt:bin, Item: 1081142
+Tag: nycdoitt:bin, Item: 1023449
+Tag: nycdoitt:bin, Item: 1084455
+Tag: nycdoitt:bin, Item: 1023457
+Tag: nycdoitt:bin, Item: 1023459
+Tag: nycdoitt:bin, Item: 1023454
+Tag: nycdoitt:bin, Item: 1023453
+Tag: nycdoitt:bin, Item: 1023452
+Tag: nycdoitt:bin, Item: 1023461
+Tag: nycdoitt:bin, Item: 1023451
+Tag: nycdoitt:bin, Item: 1023462
+Tag: nycdoitt:bin, Item: 1083725
+Tag: nycdoitt:bin, Item: 1083726
+Tag: nycdoitt:bin, Item: 1023455
+Tag: nycdoitt:bin, Item: 1085969
+Tag: nycdoitt:bin, Item: 1023456
+Tag: nycdoitt:bin, Item: 1035776
+Tag: nycdoitt:bin, Item: 1034827
+Tag: nycdoitt:bin, Item: 1034802
+Tag: nycdoitt:bin, Item: 1034834
+Tag: nycdoitt:bin, Item: 1035050
+Tag: nycdoitt:bin, Item: 1034835
+Tag: nycdoitt:bin, Item: 1081138
+Tag: nycdoitt:bin, Item: 1034796
+Tag: nycdoitt:bin, Item: 1081137
+Tag: nycdoitt:bin, Item: 1034795
+Tag: nycdoitt:bin, Item: 1034826
+Tag: nycdoitt:bin, Item: 1084673
+Tag: nycdoitt:bin, Item: 1034836
+Tag: nycdoitt:bin, Item: 1035055
+Tag: nycdoitt:bin, Item: 1080440
+Tag: nycdoitt:bin, Item: 1035049
+Tag: nycdoitt:bin, Item: 1034825
+Tag: nycdoitt:bin, Item: 1035048
+Tag: nycdoitt:bin, Item: 1034807
+Tag: nycdoitt:bin, Item: 1034838
+Tag: nycdoitt:bin, Item: 1035056
+Tag: nycdoitt:bin, Item: 1035047
+Tag: nycdoitt:bin, Item: 1080441
+Tag: nycdoitt:bin, Item: 1034840
+Tag: nycdoitt:bin, Item: 1081135
+Tag: nycdoitt:bin, Item: 1034794
+Tag: nycdoitt:bin, Item: 1034824
+Tag: nycdoitt:bin, Item: 1081136
+Tag: nycdoitt:bin, Item: 1034841
+Tag: nycdoitt:bin, Item: 1034823
+Tag: nycdoitt:bin, Item: 1084506
+Tag: nycdoitt:bin, Item: 1081140
+Tag: nycdoitt:bin, Item: 1035046
+Tag: nycdoitt:bin, Item: 1034842
+Tag: nycdoitt:bin, Item: 1081139
+Tag: nycdoitt:bin, Item: 1034793
+Tag: nycdoitt:bin, Item: 1034792
+Tag: nycdoitt:bin, Item: 1034822
+Tag: nycdoitt:bin, Item: 1035044
+Tag: nycdoitt:bin, Item: 1034843
+Tag: nycdoitt:bin, Item: 1034791
+Tag: nycdoitt:bin, Item: 1034844
+Tag: nycdoitt:bin, Item: 1034790
+Tag: nycdoitt:bin, Item: 1034845
+Tag: nycdoitt:bin, Item: 1034789
+Tag: nycdoitt:bin, Item: 1034821
+Tag: nycdoitt:bin, Item: 1035041
+Tag: nycdoitt:bin, Item: 1034808
+Tag: nycdoitt:bin, Item: 1034846
+Tag: nycdoitt:bin, Item: 1034816
+Tag: nycdoitt:bin, Item: 1035040
+Tag: nycdoitt:bin, Item: 1034847
+Tag: nycdoitt:bin, Item: 1034788
+Tag: nycdoitt:bin, Item: 1034820
+Tag: nycdoitt:bin, Item: 1034809
+Tag: nycdoitt:bin, Item: 1034848
+Tag: nycdoitt:bin, Item: 1034787
+Tag: nycdoitt:bin, Item: 1085107
+Tag: nycdoitt:bin, Item: 1034810
+Tag: nycdoitt:bin, Item: 1034849
+Tag: nycdoitt:bin, Item: 1081132
+Tag: nycdoitt:bin, Item: 1034817
+Tag: nycdoitt:bin, Item: 1034850
+Tag: nycdoitt:bin, Item: 1081131
+Tag: nycdoitt:bin, Item: 1034799
+Tag: nycdoitt:bin, Item: 1034811
+Tag: nycdoitt:bin, Item: 1085108
+Tag: nycdoitt:bin, Item: 1035058
+Tag: nycdoitt:bin, Item: 1034812
+Tag: nycdoitt:bin, Item: 1085109
+Tag: nycdoitt:bin, Item: 1035059
+Tag: nycdoitt:bin, Item: 1034813
+Tag: nycdoitt:bin, Item: 1034851
+Tag: nycdoitt:bin, Item: 1034819
+Tag: nycdoitt:bin, Item: 1034852
+Tag: nycdoitt:bin, Item: 1084505
+Tag: nycdoitt:bin, Item: 1035054
+Tag: nycdoitt:bin, Item: 1034814
+Tag: nycdoitt:bin, Item: 1034853
+Tag: nycdoitt:bin, Item: 1034854
+Tag: nycdoitt:bin, Item: 1084504
+Tag: nycdoitt:bin, Item: 1034798
+Tag: nycdoitt:bin, Item: 1086850
+Tag: nycdoitt:bin, Item: 1035052
+Tag: nycdoitt:bin, Item: 1035057
+Tag: nycdoitt:bin, Item: 1034801
+Tag: nycdoitt:bin, Item: 1034786
+Tag: nycdoitt:bin, Item: 1034856
+Tag: nycdoitt:bin, Item: 1034800
+Tag: nycdoitt:bin, Item: 1035037
+Tag: nycdoitt:bin, Item: 1035051
+Tag: nycdoitt:bin, Item: 1035768
+Tag: nycdoitt:bin, Item: 1034818
+Tag: nycdoitt:bin, Item: 1034797
+Tag: nycdoitt:bin, Item: 1035053
+Tag: nycdoitt:bin, Item: 1083719
+Tag: nycdoitt:bin, Item: 1023391
+Tag: nycdoitt:bin, Item: 1076177
+Tag: nycdoitt:bin, Item: 1023393
+Tag: nycdoitt:bin, Item: 1023395
+Tag: nycdoitt:bin, Item: 1023398
+Tag: nycdoitt:bin, Item: 1023383
+Tag: nycdoitt:bin, Item: 1023384
+Tag: nycdoitt:bin, Item: 1023389
+Tag: nycdoitt:bin, Item: 1083724
+Tag: nycdoitt:bin, Item: 1023386
+Tag: nycdoitt:bin, Item: 1023387
+Tag: nycdoitt:bin, Item: 1023396
+Tag: nycdoitt:bin, Item: 1069590
+Tag: nycdoitt:bin, Item: 1023382
+Tag: nycdoitt:bin, Item: 1076176
+Tag: nycdoitt:bin, Item: 1076178
+Tag: nycdoitt:bin, Item: 1023394
+Tag: nycdoitt:bin, Item: 1083723
+Tag: nycdoitt:bin, Item: 1023388
+Tag: nycdoitt:bin, Item: 1083720
+Tag: nycdoitt:bin, Item: 1083722
+Tag: nycdoitt:bin, Item: 1078860
+Tag: nycdoitt:bin, Item: 1024857
+Tag: nycdoitt:bin, Item: 1024897
+Tag: nycdoitt:bin, Item: 1078861
+Tag: nycdoitt:bin, Item: 1024882
+Tag: nycdoitt:bin, Item: 1024883
+Tag: nycdoitt:bin, Item: 1024884
+Tag: nycdoitt:bin, Item: 1024859
+Tag: nycdoitt:bin, Item: 1024892
+Tag: nycdoitt:bin, Item: 1024874
+Tag: nycdoitt:bin, Item: 1024885
+Tag: nycdoitt:bin, Item: 1024873
+Tag: nycdoitt:bin, Item: 1024872
+Tag: nycdoitt:bin, Item: 1024871
+Tag: nycdoitt:bin, Item: 1024890
+Tag: nycdoitt:bin, Item: 1024889
+Tag: nycdoitt:bin, Item: 1024854
+Tag: nycdoitt:bin, Item: 1024855
+Tag: nycdoitt:bin, Item: 1024868
+Tag: nycdoitt:bin, Item: 1024891
+Tag: nycdoitt:bin, Item: 1024869
+Tag: nycdoitt:bin, Item: 1024870
+Tag: nycdoitt:bin, Item: 1024888
+Tag: nycdoitt:bin, Item: 1024887
+Tag: nycdoitt:bin, Item: 1024878
+Tag: nycdoitt:bin, Item: 1024856
+Tag: nycdoitt:bin, Item: 1024850
+Tag: nycdoitt:bin, Item: 1024858
+Tag: nycdoitt:bin, Item: 1024867
+Tag: nycdoitt:bin, Item: 1024877
+Tag: nycdoitt:bin, Item: 1024886
+Tag: nycdoitt:bin, Item: 1024898
+Tag: nycdoitt:bin, Item: 1080919
+Tag: nycdoitt:bin, Item: 1025438
+Tag: nycdoitt:bin, Item: 1025433
+Tag: nycdoitt:bin, Item: 1025432
+Tag: nycdoitt:bin, Item: 1025439
+Tag: nycdoitt:bin, Item: 1025431
+Tag: nycdoitt:bin, Item: 1025430
+Tag: nycdoitt:bin, Item: 1025440
+Tag: nycdoitt:bin, Item: 1025429
+Tag: nycdoitt:bin, Item: 1025441
+Tag: nycdoitt:bin, Item: 1025428
+Tag: nycdoitt:bin, Item: 1025427
+Tag: nycdoitt:bin, Item: 1079011
+Tag: nycdoitt:bin, Item: 1025442
+Tag: nycdoitt:bin, Item: 1085026
+Tag: nycdoitt:bin, Item: 1085027
+Tag: nycdoitt:bin, Item: 1025448
+Tag: nycdoitt:bin, Item: 1025426
+Tag: nycdoitt:bin, Item: 1025425
+Tag: nycdoitt:bin, Item: 1079017
+Tag: nycdoitt:bin, Item: 1025424
+Tag: nycdoitt:bin, Item: 1079018
+Tag: nycdoitt:bin, Item: 1079019
+Tag: nycdoitt:bin, Item: 1079020
+Tag: nycdoitt:bin, Item: 1025449
+Tag: nycdoitt:bin, Item: 1025423
+Tag: nycdoitt:bin, Item: 1025447
+Tag: nycdoitt:bin, Item: 1025446
+Tag: nycdoitt:bin, Item: 1025445
+Tag: nycdoitt:bin, Item: 1025435
+Tag: nycdoitt:bin, Item: 1025436
+Tag: nycdoitt:bin, Item: 1025437
+Tag: nycdoitt:bin, Item: 1080916
+Tag: nycdoitt:bin, Item: 1025422
+Tag: nycdoitt:bin, Item: 1080917
+Tag: nycdoitt:bin, Item: 1025434
+Tag: nycdoitt:bin, Item: 1025444
+Tag: nycdoitt:bin, Item: 1025451
+Tag: nycdoitt:bin, Item: 1083734
+Tag: nycdoitt:bin, Item: 1087148
+Tag: nycdoitt:bin, Item: 1082822
+Tag: nycdoitt:bin, Item: 1025415
+Tag: nycdoitt:bin, Item: 1025414
+Tag: nycdoitt:bin, Item: 1025417
+Tag: nycdoitt:bin, Item: 1025413
+Tag: nycdoitt:bin, Item: 1025399
+Tag: nycdoitt:bin, Item: 1025412
+Tag: nycdoitt:bin, Item: 1025398
+Tag: nycdoitt:bin, Item: 1025411
+Tag: nycdoitt:bin, Item: 1083733
+Tag: nycdoitt:bin, Item: 1025409
+Tag: nycdoitt:bin, Item: 1078902
+Tag: nycdoitt:bin, Item: 1078903
+Tag: nycdoitt:bin, Item: 1078904
+Tag: nycdoitt:bin, Item: 1078905
+Tag: nycdoitt:bin, Item: 1025418
+Tag: nycdoitt:bin, Item: 1025419
+Tag: nycdoitt:bin, Item: 1025408
+Tag: nycdoitt:bin, Item: 1025420
+Tag: nycdoitt:bin, Item: 1025400
+Tag: nycdoitt:bin, Item: 1082823
+Tag: nycdoitt:bin, Item: 1025391
+Tag: nycdoitt:bin, Item: 1025421
+Tag: nycdoitt:bin, Item: 1089000
+Tag: nycdoitt:bin, Item: 1025416
+Tag: nycdoitt:bin, Item: 1088999
+Tag: nycdoitt:bin, Item: 1025397
+Tag: nycdoitt:bin, Item: 1076205
+Tag: nycdoitt:bin, Item: 1026058
+Tag: nycdoitt:bin, Item: 1026050
+Tag: nycdoitt:bin, Item: 1082493
+Tag: nycdoitt:bin, Item: 1082494
+Tag: nycdoitt:bin, Item: 1026049
+Tag: nycdoitt:bin, Item: 1080920
+Tag: nycdoitt:bin, Item: 1082605
+Tag: nycdoitt:bin, Item: 1082450
+Tag: nycdoitt:bin, Item: 1082451
+Tag: nycdoitt:bin, Item: 1026048
+Tag: nycdoitt:bin, Item: 1026055
+Tag: nycdoitt:bin, Item: 1026317
+Tag: nycdoitt:bin, Item: 1026051
+Tag: nycdoitt:bin, Item: 1026054
+Tag: nycdoitt:bin, Item: 1026056
+Tag: nycdoitt:bin, Item: 1026047
+Tag: nycdoitt:bin, Item: 1026057
+Tag: nycdoitt:bin, Item: 1080921
+Tag: nycdoitt:bin, Item: 1025243
+Tag: nycdoitt:bin, Item: 1025226
+Tag: nycdoitt:bin, Item: 1025244
+Tag: nycdoitt:bin, Item: 1075655
+Tag: nycdoitt:bin, Item: 1025256
+Tag: nycdoitt:bin, Item: 1025213
+Tag: nycdoitt:bin, Item: 1025245
+Tag: nycdoitt:bin, Item: 1078893
+Tag: nycdoitt:bin, Item: 1078897
+Tag: nycdoitt:bin, Item: 1078898
+Tag: nycdoitt:bin, Item: 1025241
+Tag: nycdoitt:bin, Item: 1025323
+Tag: nycdoitt:bin, Item: 1025257
+Tag: nycdoitt:bin, Item: 1085727
+Tag: nycdoitt:bin, Item: 1024900
+Tag: nycdoitt:bin, Item: 1027465
+Tag: nycdoitt:bin, Item: 1027461
+Tag: nycdoitt:bin, Item: 1076225
+Tag: nycdoitt:bin, Item: 1027462
+Tag: nycdoitt:bin, Item: 1087839
+Tag: nycdoitt:bin, Item: 1027192
+Tag: nycdoitt:bin, Item: 1027193
+Tag: nycdoitt:bin, Item: 1027195
+Tag: nycdoitt:bin, Item: 1027194
+Tag: nycdoitt:bin, Item: 1027188
+Tag: nycdoitt:bin, Item: 1027187
+Tag: nycdoitt:bin, Item: 1084277
+Tag: nycdoitt:bin, Item: 1040766
+Tag: nycdoitt:bin, Item: 1077862
+Tag: nycdoitt:bin, Item: 1035780
+Tag: nycdoitt:bin, Item: 1036061
+Tag: nycdoitt:bin, Item: 1036055
+Tag: nycdoitt:bin, Item: 1036078
+Tag: nycdoitt:bin, Item: 1040763
+Tag: nycdoitt:bin, Item: 1036056
+Tag: nycdoitt:bin, Item: 1036077
+Tag: nycdoitt:bin, Item: 1086164
+Tag: nycdoitt:bin, Item: 1040761
+Tag: nycdoitt:bin, Item: 1040760
+Tag: nycdoitt:bin, Item: 1036051
+Tag: nycdoitt:bin, Item: 1040759
+Tag: nycdoitt:bin, Item: 1035788
+Tag: nycdoitt:bin, Item: 1081155
+Tag: nycdoitt:bin, Item: 1081156
+Tag: nycdoitt:bin, Item: 1040758
+Tag: nycdoitt:bin, Item: 1081157
+Tag: nycdoitt:bin, Item: 1035791
+Tag: nycdoitt:bin, Item: 1036073
+Tag: nycdoitt:bin, Item: 1035782
+Tag: nycdoitt:bin, Item: 1036052
+Tag: nycdoitt:bin, Item: 1035781
+Tag: nycdoitt:bin, Item: 1040755
+Tag: nycdoitt:bin, Item: 1036075
+Tag: nycdoitt:bin, Item: 1036074
+Tag: nycdoitt:bin, Item: 1036053
+Tag: nycdoitt:bin, Item: 1035790
+Tag: nycdoitt:bin, Item: 1040752
+Tag: nycdoitt:bin, Item: 1071443
+Tag: nycdoitt:bin, Item: 1036054
+Tag: nycdoitt:bin, Item: 1040751
+Tag: nycdoitt:bin, Item: 1040764
+Tag: nycdoitt:bin, Item: 1040765
+Tag: nycdoitt:bin, Item: 1035794
+Tag: nycdoitt:bin, Item: 1036068
+Tag: nycdoitt:bin, Item: 1040756
+Tag: nycdoitt:bin, Item: 1036079
+Tag: nycdoitt:bin, Item: 1040757
+Tag: nycdoitt:bin, Item: 1035789
+Tag: nycdoitt:bin, Item: 1036083
+Tag: nycdoitt:bin, Item: 1035792
+Tag: nycdoitt:bin, Item: 1040754
+Tag: nycdoitt:bin, Item: 1081158
+Tag: nycdoitt:bin, Item: 1036049
+Tag: nycdoitt:bin, Item: 1040762
+Tag: nycdoitt:bin, Item: 1036060
+Tag: nycdoitt:bin, Item: 1040753
+Tag: nycdoitt:bin, Item: 1036067
+Tag: nycdoitt:bin, Item: 1036085
+Tag: nycdoitt:bin, Item: 1036076
+Tag: nycdoitt:bin, Item: 1035778
+Tag: nycdoitt:bin, Item: 1040899
+Tag: nycdoitt:bin, Item: 1040886
+Tag: nycdoitt:bin, Item: 1040804
+Tag: nycdoitt:bin, Item: 1041003
+Tag: nycdoitt:bin, Item: 1040866
+Tag: nycdoitt:bin, Item: 1040914
+Tag: nycdoitt:bin, Item: 1041067
+Tag: nycdoitt:bin, Item: 1040847
+Tag: nycdoitt:bin, Item: 1040888
+Tag: nycdoitt:bin, Item: 1078325
+Tag: nycdoitt:bin, Item: 1040865
+Tag: nycdoitt:bin, Item: 1040913
+Tag: nycdoitt:bin, Item: 1041053
+Tag: nycdoitt:bin, Item: 1078326
+Tag: nycdoitt:bin, Item: 1040864
+Tag: nycdoitt:bin, Item: 1040912
+Tag: nycdoitt:bin, Item: 1041052
+Tag: nycdoitt:bin, Item: 1040848
+Tag: nycdoitt:bin, Item: 1081208
+Tag: nycdoitt:bin, Item: 1041020
+Tag: nycdoitt:bin, Item: 1040911
+Tag: nycdoitt:bin, Item: 1041051
+Tag: nycdoitt:bin, Item: 1081207
+Tag: nycdoitt:bin, Item: 1041021
+Tag: nycdoitt:bin, Item: 1040862
+Tag: nycdoitt:bin, Item: 1040921
+Tag: nycdoitt:bin, Item: 1041050
+Tag: nycdoitt:bin, Item: 1040910
+Tag: nycdoitt:bin, Item: 1041049
+Tag: nycdoitt:bin, Item: 1040890
+Tag: nycdoitt:bin, Item: 1041057
+Tag: nycdoitt:bin, Item: 1041048
+Tag: nycdoitt:bin, Item: 1041047
+Tag: nycdoitt:bin, Item: 1041046
+Tag: nycdoitt:bin, Item: 1040852
+Tag: nycdoitt:bin, Item: 1040895
+Tag: nycdoitt:bin, Item: 1041028
+Tag: nycdoitt:bin, Item: 1040906
+Tag: nycdoitt:bin, Item: 1040853
+Tag: nycdoitt:bin, Item: 1041016
+Tag: nycdoitt:bin, Item: 1041059
+Tag: nycdoitt:bin, Item: 1078238
+Tag: nycdoitt:bin, Item: 1040854
+Tag: nycdoitt:bin, Item: 1041030
+Tag: nycdoitt:bin, Item: 1041043
+Tag: nycdoitt:bin, Item: 1078294
+Tag: nycdoitt:bin, Item: 1040896
+Tag: nycdoitt:bin, Item: 1041031
+Tag: nycdoitt:bin, Item: 1072008
+Tag: nycdoitt:bin, Item: 1040905
+Tag: nycdoitt:bin, Item: 1041042
+Tag: nycdoitt:bin, Item: 1040803
+Tag: nycdoitt:bin, Item: 1041032
+Tag: nycdoitt:bin, Item: 1040904
+Tag: nycdoitt:bin, Item: 1041066
+Tag: nycdoitt:bin, Item: 1040810
+Tag: nycdoitt:bin, Item: 1040897
+Tag: nycdoitt:bin, Item: 1041033
+Tag: nycdoitt:bin, Item: 1083877
+Tag: nycdoitt:bin, Item: 1041054
+Tag: nycdoitt:bin, Item: 1040811
+Tag: nycdoitt:bin, Item: 1040858
+Tag: nycdoitt:bin, Item: 1040920
+Tag: nycdoitt:bin, Item: 1041041
+Tag: nycdoitt:bin, Item: 1041060
+Tag: nycdoitt:bin, Item: 1040903
+Tag: nycdoitt:bin, Item: 1041040
+Tag: nycdoitt:bin, Item: 1041034
+Tag: nycdoitt:bin, Item: 1040902
+Tag: nycdoitt:bin, Item: 1041065
+Tag: nycdoitt:bin, Item: 1078306
+Tag: nycdoitt:bin, Item: 1040898
+Tag: nycdoitt:bin, Item: 1041035
+Tag: nycdoitt:bin, Item: 1040807
+Tag: nycdoitt:bin, Item: 1041039
+Tag: nycdoitt:bin, Item: 1041061
+Tag: nycdoitt:bin, Item: 1040857
+Tag: nycdoitt:bin, Item: 1040901
+Tag: nycdoitt:bin, Item: 1041062
+Tag: nycdoitt:bin, Item: 1041017
+Tag: nycdoitt:bin, Item: 1083336
+Tag: nycdoitt:bin, Item: 1041037
+Tag: nycdoitt:bin, Item: 1041063
+Tag: nycdoitt:bin, Item: 1072007
+Tag: nycdoitt:bin, Item: 1040851
+Tag: nycdoitt:bin, Item: 1040869
+Tag: nycdoitt:bin, Item: 1040918
+Tag: nycdoitt:bin, Item: 1040892
+Tag: nycdoitt:bin, Item: 1085128
+Tag: nycdoitt:bin, Item: 1040893
+Tag: nycdoitt:bin, Item: 1041018
+Tag: nycdoitt:bin, Item: 1040907
+Tag: nycdoitt:bin, Item: 1041058
+Tag: nycdoitt:bin, Item: 1076283
+Tag: nycdoitt:bin, Item: 1041023
+Tag: nycdoitt:bin, Item: 1085129
+Tag: nycdoitt:bin, Item: 1041024
+Tag: nycdoitt:bin, Item: 1041027
+Tag: nycdoitt:bin, Item: 1041025
+Tag: nycdoitt:bin, Item: 1088170
+Tag: nycdoitt:bin, Item: 1040867
+Tag: nycdoitt:bin, Item: 1040915
+Tag: nycdoitt:bin, Item: 1085130
+Tag: nycdoitt:bin, Item: 1040884
+Tag: nycdoitt:bin, Item: 1040917
+Tag: nycdoitt:bin, Item: 1040887
+Tag: nycdoitt:bin, Item: 1041019
+Tag: nycdoitt:bin, Item: 1081206
+Tag: nycdoitt:bin, Item: 1040806
+Tag: nycdoitt:bin, Item: 1040856
+Tag: nycdoitt:bin, Item: 1040805
+Tag: nycdoitt:bin, Item: 1040808
+Tag: nycdoitt:bin, Item: 1041015
+Tag: nycdoitt:bin, Item: 1040935
+Tag: nycdoitt:bin, Item: 1040861
+Tag: nycdoitt:bin, Item: 1041044
+Tag: nycdoitt:bin, Item: 1078315
+Tag: nycdoitt:bin, Item: 1041036
+Tag: nycdoitt:bin, Item: 1040863
+Tag: nycdoitt:bin, Item: 1041026
+Tag: nycdoitt:bin, Item: 1041038
+Tag: nycdoitt:bin, Item: 1041022
+Tag: nycdoitt:bin, Item: 1040802
+Tag: nycdoitt:bin, Item: 1040919
+Tag: nycdoitt:bin, Item: 1041055
+Tag: nycdoitt:bin, Item: 1041064
+Tag: nycdoitt:bin, Item: 1040809
+Tag: nycdoitt:bin, Item: 1040859
+Tag: nycdoitt:bin, Item: 1040891
+Tag: nycdoitt:bin, Item: 1040850
+Tag: nycdoitt:bin, Item: 1041045
+Tag: nycdoitt:bin, Item: 1040922
+Tag: nycdoitt:bin, Item: 1040883
+Tag: nycdoitt:bin, Item: 1040801
+Tag: nycdoitt:bin, Item: 1088588
+Tag: nycdoitt:bin, Item: 1040855
+Tag: nycdoitt:bin, Item: 1078327
+Tag: nycdoitt:bin, Item: 1040849
+Tag: nycdoitt:bin, Item: 1040889
+Tag: nycdoitt:bin, Item: 1040894
+Tag: nycdoitt:bin, Item: 1040868
+Tag: nycdoitt:bin, Item: 1041029
+Tag: nycdoitt:bin, Item: 1041056
+Tag: nycdoitt:bin, Item: 1083834
+Tag: nycdoitt:bin, Item: 1083832
+Tag: nycdoitt:bin, Item: 1083811
+Tag: nycdoitt:bin, Item: 1083831
+Tag: nycdoitt:bin, Item: 1088623
+Tag: nycdoitt:bin, Item: 1083807
+Tag: nycdoitt:bin, Item: 1083825
+Tag: nycdoitt:bin, Item: 1083823
+Tag: nycdoitt:bin, Item: 1083839
+Tag: nycdoitt:bin, Item: 1083812
+Tag: nycdoitt:bin, Item: 1083806
+Tag: nycdoitt:bin, Item: 1083835
+Tag: nycdoitt:bin, Item: 1083841
+Tag: nycdoitt:bin, Item: 1088624
+Tag: nycdoitt:bin, Item: 1084273
+Tag: nycdoitt:bin, Item: 1026888
+Tag: nycdoitt:bin, Item: 1026890
+Tag: nycdoitt:bin, Item: 1026891
+Tag: nycdoitt:bin, Item: 1026887
+Tag: nycdoitt:bin, Item: 1026902
+Tag: nycdoitt:bin, Item: 1084272
+Tag: nycdoitt:bin, Item: 1076210
+Tag: nycdoitt:bin, Item: 1026889
+Tag: nycdoitt:bin, Item: 1028831
+Tag: nycdoitt:bin, Item: 1028830
+Tag: nycdoitt:bin, Item: 1070131
+Tag: nycdoitt:bin, Item: 1027365
+Tag: nycdoitt:bin, Item: 1085404
+Tag: nycdoitt:bin, Item: 1028829
+Tag: nycdoitt:bin, Item: 1084787
+Tag: nycdoitt:bin, Item: 1027362
+Tag: nycdoitt:bin, Item: 1027366
+Tag: nycdoitt:bin, Item: 1076229
+Tag: nycdoitt:bin, Item: 1085140
+Tag: nycdoitt:bin, Item: 1028828
+Tag: nycdoitt:bin, Item: 1028827
+Tag: nycdoitt:bin, Item: 1082718
+Tag: nycdoitt:bin, Item: 1085729
+Tag: nycdoitt:bin, Item: 1087637
+Tag: nycdoitt:bin, Item: 1085141
+Tag: nycdoitt:bin, Item: 1028826
+Tag: nycdoitt:bin, Item: 1035725
+Tag: nycdoitt:bin, Item: 1081153
+Tag: nycdoitt:bin, Item: 1035761
+Tag: nycdoitt:bin, Item: 1035760
+Tag: nycdoitt:bin, Item: 1035743
+Tag: nycdoitt:bin, Item: 1035736
+Tag: nycdoitt:bin, Item: 1035764
+Tag: nycdoitt:bin, Item: 1035745
+Tag: nycdoitt:bin, Item: 1035746
+Tag: nycdoitt:bin, Item: 1035757
+Tag: nycdoitt:bin, Item: 1035748
+Tag: nycdoitt:bin, Item: 1035765
+Tag: nycdoitt:bin, Item: 1035749
+Tag: nycdoitt:bin, Item: 1035722
+Tag: nycdoitt:bin, Item: 1035723
+Tag: nycdoitt:bin, Item: 1035724
+Tag: nycdoitt:bin, Item: 1035738
+Tag: nycdoitt:bin, Item: 1035742
+Tag: nycdoitt:bin, Item: 1035763
+Tag: nycdoitt:bin, Item: 1035739
+Tag: nycdoitt:bin, Item: 1035753
+Tag: nycdoitt:bin, Item: 1035726
+Tag: nycdoitt:bin, Item: 1087101
+Tag: nycdoitt:bin, Item: 1081154
+Tag: nycdoitt:bin, Item: 1035758
+Tag: nycdoitt:bin, Item: 1035762
+Tag: nycdoitt:bin, Item: 1035727
+Tag: nycdoitt:bin, Item: 1035744
+Tag: nycdoitt:bin, Item: 1035741
+Tag: nycdoitt:bin, Item: 1035752
+Tag: nycdoitt:bin, Item: 1035737
+Tag: nycdoitt:bin, Item: 1024763
+Tag: nycdoitt:bin, Item: 1024762
+Tag: nycdoitt:bin, Item: 1024792
+Tag: nycdoitt:bin, Item: 1024783
+Tag: nycdoitt:bin, Item: 1024801
+Tag: nycdoitt:bin, Item: 1024786
+Tag: nycdoitt:bin, Item: 1024803
+Tag: nycdoitt:bin, Item: 1024804
+Tag: nycdoitt:bin, Item: 1024781
+Tag: nycdoitt:bin, Item: 1024782
+Tag: nycdoitt:bin, Item: 1024791
+Tag: nycdoitt:bin, Item: 1024806
+Tag: nycdoitt:bin, Item: 1024789
+Tag: nycdoitt:bin, Item: 1024788
+Tag: nycdoitt:bin, Item: 1024785
+Tag: nycdoitt:bin, Item: 1024787
+Tag: nycdoitt:bin, Item: 1024814
+Tag: nycdoitt:bin, Item: 1024808
+Tag: nycdoitt:bin, Item: 1024809
+Tag: nycdoitt:bin, Item: 1024784
+Tag: nycdoitt:bin, Item: 1024772
+Tag: nycdoitt:bin, Item: 1024813
+Tag: nycdoitt:bin, Item: 1024802
+Tag: nycdoitt:bin, Item: 1076195
+Tag: nycdoitt:bin, Item: 1087187
+Tag: nycdoitt:bin, Item: 1024777
+Tag: nycdoitt:bin, Item: 1024778
+Tag: nycdoitt:bin, Item: 1024798
+Tag: nycdoitt:bin, Item: 1024811
+Tag: nycdoitt:bin, Item: 1024799
+Tag: nycdoitt:bin, Item: 1088603
+Tag: nycdoitt:bin, Item: 1024805
+Tag: nycdoitt:bin, Item: 1024779
+Tag: nycdoitt:bin, Item: 1024793
+Tag: nycdoitt:bin, Item: 1024795
+Tag: nycdoitt:bin, Item: 1080866
+Tag: nycdoitt:bin, Item: 1024834
+Tag: nycdoitt:bin, Item: 1024819
+Tag: nycdoitt:bin, Item: 1024833
+Tag: nycdoitt:bin, Item: 1080844
+Tag: nycdoitt:bin, Item: 1080858
+Tag: nycdoitt:bin, Item: 1024840
+Tag: nycdoitt:bin, Item: 1080860
+Tag: nycdoitt:bin, Item: 1080862
+Tag: nycdoitt:bin, Item: 1024841
+Tag: nycdoitt:bin, Item: 1080863
+Tag: nycdoitt:bin, Item: 1080868
+Tag: nycdoitt:bin, Item: 1024816
+Tag: nycdoitt:bin, Item: 1024815
+Tag: nycdoitt:bin, Item: 1082805
+Tag: nycdoitt:bin, Item: 1024821
+Tag: nycdoitt:bin, Item: 1080869
+Tag: nycdoitt:bin, Item: 1081646
+Tag: nycdoitt:bin, Item: 1081642
+Tag: nycdoitt:bin, Item: 1081644
+Tag: nycdoitt:bin, Item: 1024824
+Tag: nycdoitt:bin, Item: 1024820
+Tag: nycdoitt:bin, Item: 1024843
+Tag: nycdoitt:bin, Item: 1024832
+Tag: nycdoitt:bin, Item: 1080843
+Tag: nycdoitt:bin, Item: 1024831
+Tag: nycdoitt:bin, Item: 1024825
+Tag: nycdoitt:bin, Item: 1024838
+Tag: nycdoitt:bin, Item: 1024839
+Tag: nycdoitt:bin, Item: 1024835
+Tag: nycdoitt:bin, Item: 1076200
+Tag: nycdoitt:bin, Item: 1024826
+Tag: nycdoitt:bin, Item: 1082645
+Tag: nycdoitt:bin, Item: 1024818
+Tag: nycdoitt:bin, Item: 1080864
+Tag: nycdoitt:bin, Item: 1024817
+Tag: nycdoitt:bin, Item: 1080861
+Tag: nycdoitt:bin, Item: 1080859
+Tag: nycdoitt:bin, Item: 1024827
+Tag: nycdoitt:bin, Item: 1076198
+Tag: nycdoitt:bin, Item: 1024842
+Tag: nycdoitt:bin, Item: 1076199
+Tag: nycdoitt:bin, Item: 1023162
+Tag: nycdoitt:bin, Item: 1023160
+Tag: nycdoitt:bin, Item: 1084667
+Tag: nycdoitt:bin, Item: 1022708
+Tag: nycdoitt:bin, Item: 1022710
+Tag: nycdoitt:bin, Item: 1023159
+Tag: nycdoitt:bin, Item: 1083861
+Tag: nycdoitt:bin, Item: 1022699
+Tag: nycdoitt:bin, Item: 1036887
+Tag: nycdoitt:bin, Item: 1036877
+Tag: nycdoitt:bin, Item: 1036924
+Tag: nycdoitt:bin, Item: 1036925
+Tag: nycdoitt:bin, Item: 1081168
+Tag: nycdoitt:bin, Item: 1036908
+Tag: nycdoitt:bin, Item: 1036909
+Tag: nycdoitt:bin, Item: 1085779
+Tag: nycdoitt:bin, Item: 1036910
+Tag: nycdoitt:bin, Item: 1036883
+Tag: nycdoitt:bin, Item: 1036911
+Tag: nycdoitt:bin, Item: 1036889
+Tag: nycdoitt:bin, Item: 1036906
+Tag: nycdoitt:bin, Item: 1036905
+Tag: nycdoitt:bin, Item: 1081167
+Tag: nycdoitt:bin, Item: 1081166
+Tag: nycdoitt:bin, Item: 1081165
+Tag: nycdoitt:bin, Item: 1036912
+Tag: nycdoitt:bin, Item: 1081169
+Tag: nycdoitt:bin, Item: 1036907
+Tag: nycdoitt:bin, Item: 1036888
+Tag: nycdoitt:bin, Item: 1041904
+Tag: nycdoitt:bin, Item: 1036903
+Tag: nycdoitt:bin, Item: 1041909
+Tag: nycdoitt:bin, Item: 1041907
+Tag: nycdoitt:bin, Item: 1036897
+Tag: nycdoitt:bin, Item: 1083339
+Tag: nycdoitt:bin, Item: 1036867
+Tag: nycdoitt:bin, Item: 1041901
+Tag: nycdoitt:bin, Item: 1036896
+Tag: nycdoitt:bin, Item: 1037173
+Tag: nycdoitt:bin, Item: 1041906
+Tag: nycdoitt:bin, Item: 1036895
+Tag: nycdoitt:bin, Item: 1036530
+Tag: nycdoitt:bin, Item: 1036894
+Tag: nycdoitt:bin, Item: 1036902
+Tag: nycdoitt:bin, Item: 1037172
+Tag: nycdoitt:bin, Item: 1036893
+Tag: nycdoitt:bin, Item: 1036868
+Tag: nycdoitt:bin, Item: 1036892
+Tag: nycdoitt:bin, Item: 1036869
+Tag: nycdoitt:bin, Item: 1036529
+Tag: nycdoitt:bin, Item: 1036919
+Tag: nycdoitt:bin, Item: 1081172
+Tag: nycdoitt:bin, Item: 1087267
+Tag: nycdoitt:bin, Item: 1036916
+Tag: nycdoitt:bin, Item: 1036917
+Tag: nycdoitt:bin, Item: 1037167
+Tag: nycdoitt:bin, Item: 1036505
+Tag: nycdoitt:bin, Item: 1041902
+Tag: nycdoitt:bin, Item: 1037166
+Tag: nycdoitt:bin, Item: 1037164
+Tag: nycdoitt:bin, Item: 1036921
+Tag: nycdoitt:bin, Item: 1036926
+Tag: nycdoitt:bin, Item: 1037163
+Tag: nycdoitt:bin, Item: 1037165
+Tag: nycdoitt:bin, Item: 1075639
+Tag: nycdoitt:bin, Item: 1036918
+Tag: nycdoitt:bin, Item: 1036891
+Tag: nycdoitt:bin, Item: 1081164
+Tag: nycdoitt:bin, Item: 1036920
+Tag: nycdoitt:bin, Item: 1041908
+Tag: nycdoitt:bin, Item: 1041900
+Tag: nycdoitt:bin, Item: 1036890
+Tag: nycdoitt:bin, Item: 1036528
+Tag: nycdoitt:bin, Item: 1035777
+Tag: nycdoitt:bin, Item: 1035774
+Tag: nycdoitt:bin, Item: 1035773
+Tag: nycdoitt:bin, Item: 1035771
+Tag: nycdoitt:bin, Item: 1035775
+Tag: nycdoitt:bin, Item: 1035770
+Tag: nycdoitt:bin, Item: 1035772
+Tag: nycdoitt:bin, Item: 1041911
+Tag: nycdoitt:bin, Item: 1041962
+Tag: nycdoitt:bin, Item: 1041963
+Tag: nycdoitt:bin, Item: 1041951
+Tag: nycdoitt:bin, Item: 1042011
+Tag: nycdoitt:bin, Item: 1041913
+Tag: nycdoitt:bin, Item: 1041964
+Tag: nycdoitt:bin, Item: 1041948
+Tag: nycdoitt:bin, Item: 1041914
+Tag: nycdoitt:bin, Item: 1041965
+Tag: nycdoitt:bin, Item: 1041957
+Tag: nycdoitt:bin, Item: 1042009
+Tag: nycdoitt:bin, Item: 1042008
+Tag: nycdoitt:bin, Item: 1041915
+Tag: nycdoitt:bin, Item: 1041947
+Tag: nycdoitt:bin, Item: 1041916
+Tag: nycdoitt:bin, Item: 1041946
+Tag: nycdoitt:bin, Item: 1041917
+Tag: nycdoitt:bin, Item: 1041966
+Tag: nycdoitt:bin, Item: 1041945
+Tag: nycdoitt:bin, Item: 1041967
+Tag: nycdoitt:bin, Item: 1041956
+Tag: nycdoitt:bin, Item: 1041944
+Tag: nycdoitt:bin, Item: 1041918
+Tag: nycdoitt:bin, Item: 1041943
+Tag: nycdoitt:bin, Item: 1041919
+Tag: nycdoitt:bin, Item: 1041942
+Tag: nycdoitt:bin, Item: 1042023
+Tag: nycdoitt:bin, Item: 1042024
+Tag: nycdoitt:bin, Item: 1041949
+Tag: nycdoitt:bin, Item: 1042010
+Tag: nycdoitt:bin, Item: 1042059
+Tag: nycdoitt:bin, Item: 1041950
+Tag: nycdoitt:bin, Item: 1041958
+Tag: nycdoitt:bin, Item: 1041961
+Tag: nycdoitt:bin, Item: 1041912
+Tag: nycdoitt:bin, Item: 1041910
+Tag: nycdoitt:bin, Item: 1041152
+Tag: nycdoitt:bin, Item: 1041072
+Tag: nycdoitt:bin, Item: 1041110
+Tag: nycdoitt:bin, Item: 1041122
+Tag: nycdoitt:bin, Item: 1041097
+Tag: nycdoitt:bin, Item: 1041073
+Tag: nycdoitt:bin, Item: 1041096
+Tag: nycdoitt:bin, Item: 1041074
+Tag: nycdoitt:bin, Item: 1041124
+Tag: nycdoitt:bin, Item: 1041095
+Tag: nycdoitt:bin, Item: 1041075
+Tag: nycdoitt:bin, Item: 1041125
+Tag: nycdoitt:bin, Item: 1087270
+Tag: nycdoitt:bin, Item: 1041151
+Tag: nycdoitt:bin, Item: 1041126
+Tag: nycdoitt:bin, Item: 1041158
+Tag: nycdoitt:bin, Item: 1041103
+Tag: nycdoitt:bin, Item: 1041076
+Tag: nycdoitt:bin, Item: 1041069
+Tag: nycdoitt:bin, Item: 1041129
+Tag: nycdoitt:bin, Item: 1041079
+Tag: nycdoitt:bin, Item: 1041130
+Tag: nycdoitt:bin, Item: 1041080
+Tag: nycdoitt:bin, Item: 1085132
+Tag: nycdoitt:bin, Item: 1085133
+Tag: nycdoitt:bin, Item: 1041090
+Tag: nycdoitt:bin, Item: 1041131
+Tag: nycdoitt:bin, Item: 1041088
+Tag: nycdoitt:bin, Item: 1041107
+Tag: nycdoitt:bin, Item: 1041145
+Tag: nycdoitt:bin, Item: 1041081
+Tag: nycdoitt:bin, Item: 1041087
+Tag: nycdoitt:bin, Item: 1041144
+Tag: nycdoitt:bin, Item: 1041070
+Tag: nycdoitt:bin, Item: 1041082
+Tag: nycdoitt:bin, Item: 1041083
+Tag: nycdoitt:bin, Item: 1041104
+Tag: nycdoitt:bin, Item: 1085131
+Tag: nycdoitt:bin, Item: 1041109
+Tag: nycdoitt:bin, Item: 1041108
+Tag: nycdoitt:bin, Item: 1041147
+Tag: nycdoitt:bin, Item: 1041148
+Tag: nycdoitt:bin, Item: 1041157
+Tag: nycdoitt:bin, Item: 1041149
+Tag: nycdoitt:bin, Item: 1041098
+Tag: nycdoitt:bin, Item: 1085866
+Tag: nycdoitt:bin, Item: 1076284
+Tag: nycdoitt:bin, Item: 1081210
+Tag: nycdoitt:bin, Item: 1041077
+Tag: nycdoitt:bin, Item: 1041068
+Tag: nycdoitt:bin, Item: 1041078
+Tag: nycdoitt:bin, Item: 1041091
+Tag: nycdoitt:bin, Item: 1041086
+Tag: nycdoitt:bin, Item: 1041153
+Tag: nycdoitt:bin, Item: 1041150
+Tag: nycdoitt:bin, Item: 1041092
+Tag: nycdoitt:bin, Item: 1041093
+Tag: nycdoitt:bin, Item: 1041089
+Tag: nycdoitt:bin, Item: 1041101
+Tag: nycdoitt:bin, Item: 1087937
+Tag: nycdoitt:bin, Item: 1041127
+Tag: nycdoitt:bin, Item: 1041128
+Tag: nycdoitt:bin, Item: 1041099
+Tag: nycdoitt:bin, Item: 1036874
+Tag: nycdoitt:bin, Item: 1041191
+Tag: nycdoitt:bin, Item: 1041241
+Tag: nycdoitt:bin, Item: 1041163
+Tag: nycdoitt:bin, Item: 1041203
+Tag: nycdoitt:bin, Item: 1041190
+Tag: nycdoitt:bin, Item: 1041204
+Tag: nycdoitt:bin, Item: 1041189
+Tag: nycdoitt:bin, Item: 1041205
+Tag: nycdoitt:bin, Item: 1041249
+Tag: nycdoitt:bin, Item: 1041165
+Tag: nycdoitt:bin, Item: 1041206
+Tag: nycdoitt:bin, Item: 1041188
+Tag: nycdoitt:bin, Item: 1041238
+Tag: nycdoitt:bin, Item: 1041166
+Tag: nycdoitt:bin, Item: 1041187
+Tag: nycdoitt:bin, Item: 1041207
+Tag: nycdoitt:bin, Item: 1041186
+Tag: nycdoitt:bin, Item: 1041208
+Tag: nycdoitt:bin, Item: 1072021
+Tag: nycdoitt:bin, Item: 1041194
+Tag: nycdoitt:bin, Item: 1041161
+Tag: nycdoitt:bin, Item: 1041200
+Tag: nycdoitt:bin, Item: 1041193
+Tag: nycdoitt:bin, Item: 1078337
+Tag: nycdoitt:bin, Item: 1041201
+Tag: nycdoitt:bin, Item: 1041168
+Tag: nycdoitt:bin, Item: 1078338
+Tag: nycdoitt:bin, Item: 1041196
+Tag: nycdoitt:bin, Item: 1041162
+Tag: nycdoitt:bin, Item: 1041202
+Tag: nycdoitt:bin, Item: 1041164
+Tag: nycdoitt:bin, Item: 1041195
+Tag: nycdoitt:bin, Item: 1041159
+Tag: nycdoitt:bin, Item: 1041243
+Tag: nycdoitt:bin, Item: 1041192
+Tag: nycdoitt:bin, Item: 1041209
+Tag: nycdoitt:bin, Item: 1041185
+Tag: nycdoitt:bin, Item: 1041199
+Tag: nycdoitt:bin, Item: 1041167
+Tag: nycdoitt:bin, Item: 1041239
+Tag: nycdoitt:bin, Item: 1041240
+Tag: nycdoitt:bin, Item: 1041251
+Tag: nycdoitt:bin, Item: 1041287
+Tag: nycdoitt:bin, Item: 1041286
+Tag: nycdoitt:bin, Item: 1041288
+Tag: nycdoitt:bin, Item: 1041250
+Tag: nycdoitt:bin, Item: 1041291
+Tag: nycdoitt:bin, Item: 1041322
+Tag: nycdoitt:bin, Item: 1027470
+Tag: nycdoitt:bin, Item: 1027467
+Tag: nycdoitt:bin, Item: 1027471
+Tag: nycdoitt:bin, Item: 1027466
+Tag: nycdoitt:bin, Item: 1084533
+Tag: nycdoitt:bin, Item: 1027468
+Tag: nycdoitt:bin, Item: 1028139
+Tag: nycdoitt:bin, Item: 1028135
+Tag: nycdoitt:bin, Item: 1028133
+Tag: nycdoitt:bin, Item: 1028132
+Tag: nycdoitt:bin, Item: 1028131
+Tag: nycdoitt:bin, Item: 1028140
+Tag: nycdoitt:bin, Item: 1028130
+Tag: nycdoitt:bin, Item: 1028129
+Tag: nycdoitt:bin, Item: 1028141
+Tag: nycdoitt:bin, Item: 1028143
+Tag: nycdoitt:bin, Item: 1028146
+Tag: nycdoitt:bin, Item: 1028136
+Tag: nycdoitt:bin, Item: 1086193
+Tag: nycdoitt:bin, Item: 1081012
+Tag: nycdoitt:bin, Item: 1028134
+Tag: nycdoitt:bin, Item: 1028137
+Tag: nycdoitt:bin, Item: 1028165
+Tag: nycdoitt:bin, Item: 1028163
+Tag: nycdoitt:bin, Item: 1028164
+Tag: nycdoitt:bin, Item: 1028166
+Tag: nycdoitt:bin, Item: 1023164
+Tag: nycdoitt:bin, Item: 1081127
+Tag: nycdoitt:bin, Item: 1081130
+Tag: nycdoitt:bin, Item: 1081128
+Tag: nycdoitt:bin, Item: 1087646
+Tag: nycdoitt:bin, Item: 1034522
+Tag: nycdoitt:bin, Item: 1023166
+Tag: nycdoitt:bin, Item: 1034531
+Tag: nycdoitt:bin, Item: 1076175
+Tag: nycdoitt:bin, Item: 1023165
+Tag: nycdoitt:bin, Item: 1025211
+Tag: nycdoitt:bin, Item: 1087538
+Tag: nycdoitt:bin, Item: 1024894
+Tag: nycdoitt:bin, Item: 1025450
+Tag: nycdoitt:bin, Item: 1087510
+Tag: nycdoitt:bin, Item: 1041920
+Tag: nycdoitt:bin, Item: 1027463
+Tag: nycdoitt:bin, Item: 1083826
+Tag: start_date, Item: 1990
+Tag: start_date, Item: 1974
+Tag: start_date, Item: 1968
+Tag: start_date, Item: 1958
+Tag: start_date, Item: 1963
+Tag: start_date, Item: 1957
+Tag: start_date, Item: 2003
+Tag: start_date, Item: 1986
+Tag: start_date, Item: 1970
+Tag: start_date, Item: 1972
+Tag: start_date, Item: 1991
+Tag: start_date, Item: 2004
+Tag: start_date, Item: 1964
+Tag: start_date, Item: 1961
+Tag: start_date, Item: 1971
+Tag: start_date, Item: 1982
+Tag: start_date, Item: 1985
+Tag: start_date, Item: 2006-05-19
+Tag: start_date, Item: 1918
+Tag: start_date, Item: 1969
+Tag: start_date, Item: 1998
+Tag: start_date, Item: 1965
+Tag: start_date, Item: 2013
+Tag: start_date, Item: 2012
+Tag: start_date, Item: 1921
+Tag: start_date, Item: 1984
+Tag: start_date, Item: 1988
+Tag: start_date, Item: 2014
+Tag: start_date, Item: 2015
+Tag: start_date, Item: 2020
+Tag: start_date, Item: 1967
+Tag: start_date, Item: 1987
+Tag: start_date, Item: 1937
+Tag: start_date, Item: 1930
+Tag: start_date, Item: 1931
+Tag: start_date, Item: 1948
+Tag: start_date, Item: 1909
+Tag: start_date, Item: 2009
+Tag: start_date, Item: 1875
+Tag: start_date, Item: 1981
+Tag: start_date, Item: 1927
+Tag: start_date, Item: 1905
+Tag: start_date, Item: 1926
+Tag: start_date, Item: 1922
+Tag: start_date, Item: 1989
+Tag: start_date, Item: 1983
+Tag: start_date, Item: 1929
+Tag: start_date, Item: 1950
+Tag: start_date, Item: 2006
+Tag: start_date, Item: 1886
+Tag: start_date, Item: 1980
+Tag: start_date, Item: 1997
+Tag: start_date, Item: 2000
+Tag: start_date, Item: 1928
+Tag: start_date, Item: 1978
+Tag: start_date, Item: 2007
+Tag: start_date, Item: 1994
+Tag: start_date, Item: 1999
+Tag: start_date, Item: 1983-11-30
+Tag: start_date, Item: 1919
+Tag: start_date, Item: 1955
+Tag: start_date, Item: 2017
+Tag: start_date, Item: 1915
+Tag: start_date, Item: 1952
+Tag: start_date, Item: 1973
+Tag: start_date, Item: 1884
+Tag: start_date, Item: 1992
+Tag: start_date, Item: 1959
+Tag: start_date, Item: 1956
+Tag: start_date, Item: 1912
+Tag: start_date, Item: 1925
+Tag: start_date, Item: 1920
+Tag: start_date, Item: 2018
+Tag: start_date, Item: 2002
+Tag: start_date, Item: 1962
+Tag: start_date, Item: 1932-10
+Tag: start_date, Item: 1954
+Tag: start_date, Item: 1975
+Tag: start_date, Item: 1947
+Tag: start_date, Item: 1949
+Tag: start_date, Item: 1914
+Tag: start_date, Item: 1977
+Tag: start_date, Item: 1979
+Tag: start_date, Item: 2008
+Tag: start_date, Item: 1960
+Tag: start_date, Item: 1913-05-30
+Tag: start_date, Item: 1903-05-30
+Tag: start_date, Item: 1916-05
+Tag: old_name, Item: 4th Avenue
+Tag: old_name, Item: AT&T Building
+Tag: old_name, Item: Hotel St. Moritz
+Tag: old_name, Item: Barbizon-Plaza Hotel
+Tag: old_name, Item: IBM Building
+Tag: old_name, Item: Ballplayers’ House
+Tag: old_name, Item: The Kinderberg
+Tag: old_name, Item: William J. Syms Operating Theater
+Tag: old_name, Item: Continental Illinois Center
+Tag: old_name, Item: Alvin Theatre
+Tag: old_name, Item: Mark Hellinger Theater
+Tag: old_name, Item: Virginia Theater
+Tag: old_name, Item: Flatotel
+Tag: old_name, Item: RKO Building
+Tag: old_name, Item: Renaissance
+Tag: old_name, Item: Pearson Building
+Tag: old_name, Item: Roosevelt Hospital
+Tag: electrified, Item: rail
+Tag: frequency, Item: 0
+Tag: frequency, Item: 60
+Tag: gauge, Item: 1435
+Tag: railway, Item: subway
+Tag: railway, Item: rail
+Tag: railway, Item: platform
+Tag: railway, Item: ventilation_shaft
+Tag: railway:preferred_direction, Item: forward
+Tag: railway:track_ref, Item: 1
+Tag: railway:track_ref, Item: 3
+Tag: railway:track_ref, Item: 5
+Tag: railway:track_ref, Item: 2
+Tag: railway:track_ref, Item: 4
+Tag: railway:track_ref, Item: C
+Tag: railway:track_ref, Item: A
+Tag: railway:track_ref, Item: D
+Tag: railway:track_ref, Item: E
+Tag: railway:track_ref, Item: F
+Tag: railway:track_ref, Item: K
+Tag: railway:track_ref, Item: I
+Tag: railway:track_ref, Item: H
+Tag: railway:track_ref, Item: L
+Tag: railway:track_ref, Item: J
+Tag: railway:track_ref, Item: B
+Tag: railway:track_ref, Item: G
+Tag: railway:track_ref, Item: 6
+Tag: railway:track_ref:signals, Item: A1
+Tag: railway:track_ref:signals, Item: G3
+Tag: railway:track_ref:signals, Item: B5
+Tag: railway:track_ref:signals, Item: T1
+Tag: railway:track_ref:signals, Item: D3
+Tag: railway:track_ref:signals, Item: A3
+Tag: railway:track_ref:signals, Item: B4
+Tag: railway:track_ref:signals, Item: B3
+Tag: railway:track_ref:signals, Item: A2
+Tag: railway:track_ref:signals, Item: A4
+Tag: railway:track_ref:signals, Item: D4
+Tag: railway:track_ref:signals, Item: B1
+Tag: railway:track_ref:signals, Item: B2
+Tag: railway:track_ref:signals, Item: L3
+Tag: railway:track_ref:signals, Item: L4
+Tag: railway:track_ref:signals, Item: L2
+Tag: railway:track_ref:signals, Item: L1
+Tag: railway:track_ref:signals, Item: G4
+Tag: railway:track_ref:signals, Item: G1
+Tag: railway:track_ref:signals, Item: G2
+Tag: railway:track_ref:signals, Item: T2
+Tag: railway:track_ref:signals, Item: B6
+Tag: voltage, Item: 625
+Tag: voltage, Item: 750
+Tag: voltage, Item: 700
+Tag: voltage, Item: 138000
+Tag: cycleway:left:lane, Item: pictogram
+Tag: parking:lane:both, Item: parallel
+Tag: sidewalk:both:surface, Item: concrete:plates
+Tag: sidewalk:both:surface, Item: concrete
+Tag: sidewalk:both:surface, Item: asphalt
+Tag: cycleway:right:oneway, Item: yes
+Tag: cycleway:right:oneway, Item: -1
+Tag: parking:lane:right, Item: no_stopping
+Tag: parking:lane:right, Item: parallel
+Tag: turn:lanes:backward, Item: |right
+Tag: turn:lanes:backward, Item: left|
+Tag: turn:lanes:backward, Item: right
+Tag: turn:lanes:backward, Item: left||
+Tag: operator, Item: Long Island Rail Road
+Tag: operator, Item: Fordham University
+Tag: operator, Item: Icon Parking
+Tag: operator, Item: Wollman Park Partners LLC
+Tag: operator, Item: Leading Hotels of the World
+Tag: operator, Item: Apple
+Tag: operator, Item: Metro-North Commuter Railroad
+Tag: operator, Item: iPark
+Tag: operator, Item: New York City Fire Department
+Tag: operator, Item: Netflix
+Tag: operator, Item: AKA
+Tag: operator, Item: 1 Hotels
+Tag: operator, Item: Hilton
+Tag: operator, Item: Hyatt
+Tag: operator, Item: United States Postal Service
+Tag: operator, Item: Global Holdings Management Company
+Tag: operator, Item: Shefa School
+Tag: operator, Item: Four Seasons
+Tag: operator, Item: Wildlife Conservation Society
+Tag: operator, Item: Lincoln Center for the Performing Arts
+Tag: operator, Item: Brodsky
+Tag: operator, Item: Mount Sinai Health System
+Tag: operator, Item: New York City Transit Authority
+Tag: operator, Item: Sunrise Senior Living
+Tag: operator, Item: Central Park Conservancy
+Tag: operator, Item: Central Amusement International
+Tag: operator, Item: GGMC
+Tag: operator, Item: Consolidated Edison
+Tag: operator, Item: Jean-Georges
+Tag: operator, Item: New York Institute of Technology
+Tag: operator:wikidata, Item: Q125943
+Tag: operator:wikidata, Item: Q125908
+Tag: operator:wikidata, Item: Q283207
+Tag: operator:wikidata, Item: Q668687
+Tag: operator:wikidata, Item: Q1325591
+Tag: operator:wikidata, Item: Q612714
+Tag: usage, Item: main
+Tag: addr:city, Item: New York
+Tag: building:architecture, Item: international
+Tag: height, Item: 215
+Tag: height, Item: 54.5
+Tag: height, Item: 45
+Tag: height, Item: 28
+Tag: height, Item: 185
+Tag: height, Item: 150
+Tag: height, Item: 30
+Tag: height, Item: 202.8
+Tag: height, Item: 35
+Tag: height, Item: 40
+Tag: height, Item: 22
+Tag: height, Item: 210
+Tag: height, Item: 246
+Tag: height, Item: 20
+Tag: height, Item: 148
+Tag: height, Item: 65
+Tag: height, Item: 165
+Tag: height, Item: 186
+Tag: height, Item: 90
+Tag: height, Item: 229
+Tag: height, Item: 110
+Tag: height, Item: 141
+Tag: height, Item: 113
+Tag: height, Item: 115
+Tag: height, Item: 105
+Tag: height, Item: 116
+Tag: height, Item: 182
+Tag: height, Item: 58
+Tag: height, Item: 36
+Tag: height, Item: 42
+Tag: height, Item: 147
+Tag: height, Item: 159
+Tag: height, Item: 179.6
+Tag: height, Item: 169
+Tag: height, Item: 74.8
+Tag: height, Item: 15
+Tag: height, Item: 50
+Tag: height, Item: 106.3
+Tag: height, Item: 184
+Tag: height, Item: 160
+Tag: height, Item: 55
+Tag: height, Item: 171.0
+Tag: height, Item: 10
+Tag: height, Item: 191.5
+Tag: height, Item: 130
+Tag: height, Item: 144
+Tag: height, Item: 134
+Tag: height, Item: 132
+Tag: height, Item: 140
+Tag: height, Item: 120
+Tag: height, Item: 136
+Tag: height, Item: 125
+Tag: height, Item: 138
+Tag: height, Item: 158
+Tag: height, Item: 202
+Tag: height, Item: 25
+Tag: height, Item: 143
+Tag: height, Item: 118
+Tag: height, Item: 174
+Tag: height, Item: 70
+Tag: height, Item: 60
+Tag: height, Item: 64
+Tag: height, Item: 22.4
+Tag: height, Item: 73
+Tag: height, Item: 20.9
+Tag: height, Item: 37
+Tag: height, Item: 162
+Tag: height, Item: 80
+Tag: height, Item: 230
+Tag: height, Item: 8
+Tag: height, Item: 152
+Tag: height, Item: 12
+Tag: height, Item: 161.2
+Tag: height, Item: 159.4
+Tag: height, Item: 156
+Tag: height, Item: 44
+Tag: height, Item: 4.5
+Tag: height, Item: 21
+Tag: height, Item: 7
+Tag: height, Item: 5
+Tag: height, Item: 3.5
+Tag: height, Item: 1.5
+Tag: height, Item: 183
+Tag: height, Item: 1
+Tag: height, Item: 18
+Tag: height, Item: 49
+Tag: height, Item: 189
+Tag: height, Item: 175
+Tag: height, Item: 122
+Tag: height, Item: 38
+Tag: height, Item: 133
+Tag: height, Item: 127
+Tag: height, Item: 131
+Tag: height, Item: 193
+Tag: height, Item: 102
+Tag: height, Item: 200
+Tag: height, Item: 208
+Tag: height, Item: 204
+Tag: height, Item: 176
+Tag: height, Item: 164
+Tag: height, Item: 170
+Tag: height, Item: 126
+Tag: height, Item: 121
+Tag: height, Item: 124
+Tag: height, Item: 135
+Tag: height, Item: 197
+Tag: height, Item: 19
+Tag: height, Item: 109.4
+Tag: height, Item: 123
+Tag: height, Item: 198
+Tag: height, Item: 168
+Tag: height, Item: 54
+Tag: height, Item: 94
+Tag: height, Item: 100
+Tag: height, Item: 103
+Tag: height, Item: 75
+Tag: height, Item: 152.7
+Tag: height, Item: 146
+Tag: height, Item: 226
+Tag: height, Item: 245
+Tag: height, Item: 234
+Tag: height, Item: 238
+Tag: height, Item: 248
+Tag: height, Item: 68.5
+Tag: height, Item: 426
+Tag: height, Item: 320
+Tag: height, Item: 435
+Tag: height, Item: 472
+Tag: height, Item: 187.4
+Tag: height, Item: 153
+Tag: height, Item: 171
+Tag: height, Item: 40.4
+Tag: height, Item: 3
+Tag: height, Item: 178
+Tag: height, Item: 163
+Tag: height, Item: 173
+Tag: height, Item: 191
+Tag: height, Item: 46.7
+Tag: height, Item: 56.6
+Tag: height, Item: 17.9
+Tag: height, Item: 16.4
+Tag: height, Item: 13.6
+Tag: height, Item: 56.3
+Tag: height, Item: 46.4
+Tag: height, Item: 50.4
+Tag: height, Item: 85.3
+Tag: height, Item: 88.1
+Tag: height, Item: 27.2
+Tag: height, Item: 92.0
+Tag: height, Item: 43.3
+Tag: height, Item: 59.8
+Tag: height, Item: 50.5
+Tag: height, Item: 36.9
+Tag: height, Item: 42.3
+Tag: height, Item: 45.2
+Tag: height, Item: 32.5
+Tag: height, Item: 58.4
+Tag: height, Item: 40.7
+Tag: height, Item: 51.5
+Tag: height, Item: 117.0
+Tag: height, Item: 61.8
+Tag: height, Item: 38.6
+Tag: height, Item: 50.7
+Tag: height, Item: 64.2
+Tag: height, Item: 22.1
+Tag: height, Item: 24.4
+Tag: height, Item: 31.8
+Tag: height, Item: 9.4
+Tag: height, Item: 16.1
+Tag: height, Item: 49.8
+Tag: height, Item: 31.3
+Tag: height, Item: 19.9
+Tag: height, Item: 85.8
+Tag: height, Item: 50.3
+Tag: height, Item: 30.8
+Tag: height, Item: 55.5
+Tag: height, Item: 20.7
+Tag: height, Item: 55.3
+Tag: height, Item: 57.6
+Tag: height, Item: 42.1
+Tag: height, Item: 34.8
+Tag: height, Item: 26.3
+Tag: height, Item: 30.2
+Tag: height, Item: 52.5
+Tag: height, Item: 67.0
+Tag: height, Item: 53.6
+Tag: height, Item: 41.9
+Tag: height, Item: 62.8
+Tag: height, Item: 73.2
+Tag: height, Item: 54.4
+Tag: height, Item: 59.3
+Tag: height, Item: 48.0
+Tag: height, Item: 55.2
+Tag: height, Item: 36.6
+Tag: height, Item: 20.3
+Tag: height, Item: 20.5
+Tag: height, Item: 19.6
+Tag: height, Item: 46.3
+Tag: height, Item: 21.4
+Tag: height, Item: 45.7
+Tag: height, Item: 27.7
+Tag: height, Item: 59.5
+Tag: height, Item: 19.8
+Tag: height, Item: 29.8
+Tag: height, Item: 18.9
+Tag: height, Item: 22.7
+Tag: height, Item: 24.6
+Tag: height, Item: 19.5
+Tag: height, Item: 31.9
+Tag: height, Item: 22.3
+Tag: height, Item: 20.1
+Tag: height, Item: 41.6
+Tag: height, Item: 20.0
+Tag: height, Item: 31.6
+Tag: height, Item: 23.9
+Tag: height, Item: 59.7
+Tag: height, Item: 38.4
+Tag: height, Item: 19.1
+Tag: height, Item: 41.1
+Tag: height, Item: 48.8
+Tag: height, Item: 25.8
+Tag: height, Item: 25.9
+Tag: height, Item: 29.1
+Tag: height, Item: 21.2
+Tag: height, Item: 20.2
+Tag: height, Item: 31.7
+Tag: height, Item: 26.6
+Tag: height, Item: 27.1
+Tag: height, Item: 18.6
+Tag: height, Item: 35.3
+Tag: height, Item: 23.1
+Tag: height, Item: 18.4
+Tag: height, Item: 21.0
+Tag: height, Item: 17.2
+Tag: height, Item: 19.0
+Tag: height, Item: 38.1
+Tag: height, Item: 17.3
+Tag: height, Item: 15.2
+Tag: height, Item: 17.4
+Tag: height, Item: 18.0
+Tag: height, Item: 16.7
+Tag: height, Item: 26.4
+Tag: height, Item: 21.1
+Tag: height, Item: 18.7
+Tag: height, Item: 23.3
+Tag: height, Item: 18.8
+Tag: height, Item: 32.0
+Tag: height, Item: 17.1
+Tag: height, Item: 16.9
+Tag: height, Item: 17.5
+Tag: height, Item: 17.8
+Tag: height, Item: 6.1
+Tag: height, Item: 59.6
+Tag: height, Item: 76
+Tag: height, Item: 116.7
+Tag: height, Item: 45.9
+Tag: height, Item: 50.9
+Tag: height, Item: 63.8
+Tag: height, Item: 42.4
+Tag: height, Item: 25.3
+Tag: height, Item: 32
+Tag: height, Item: 29.9
+Tag: height, Item: 49.0
+Tag: height, Item: 28.4
+Tag: height, Item: 54.7
+Tag: height, Item: 31.4
+Tag: height, Item: 8.8
+Tag: height, Item: 179.8
+Tag: height, Item: 48.6
+Tag: height, Item: 49.7
+Tag: height, Item: 57.0
+Tag: height, Item: 48.3
+Tag: height, Item: 50.0
+Tag: height, Item: 14.9
+Tag: height, Item: 8.0
+Tag: height, Item: 27.4
+Tag: height, Item: 88.9
+Tag: height, Item: 15.7
+Tag: height, Item: 11.0
+Tag: height, Item: 15.5
+Tag: height, Item: 17.7
+Tag: height, Item: 28.1
+Tag: height, Item: 19.3
+Tag: height, Item: 49.9
+Tag: height, Item: 8.7
+Tag: height, Item: 16.0
+Tag: height, Item: 21.5
+Tag: height, Item: 17.6
+Tag: height, Item: 17.0
+Tag: height, Item: 22.0
+Tag: height, Item: 26.5
+Tag: height, Item: 54.9
+Tag: height, Item: 36.5
+Tag: height, Item: 20.8
+Tag: height, Item: 13.9
+Tag: height, Item: 19.4
+Tag: height, Item: 28.6
+Tag: height, Item: 13.4
+Tag: height, Item: 13.2
+Tag: height, Item: 13.8
+Tag: height, Item: 29.2
+Tag: height, Item: 30.1
+Tag: height, Item: 4.6
+Tag: height, Item: 18.3
+Tag: height, Item: 26.8
+Tag: height, Item: 12.9
+Tag: height, Item: 68.2
+Tag: height, Item: 50.1
+Tag: height, Item: 16.6
+Tag: height, Item: 9.9
+Tag: height, Item: 18.2
+Tag: height, Item: 16.8
+Tag: height, Item: 48.1
+Tag: height, Item: 34.7
+Tag: height, Item: 72
+Tag: height, Item: 11.4
+Tag: height, Item: 22.2
+Tag: height, Item: 5.0
+Tag: height, Item: 9.8
+Tag: height, Item: 19.2
+Tag: height, Item: 46.2
+Tag: height, Item: 23.6
+Tag: height, Item: 36.7
+Tag: height, Item: 47.8
+Tag: height, Item: 28.0
+Tag: height, Item: 18.1
+Tag: height, Item: 3.8
+Tag: height, Item: 14.0
+Tag: height, Item: 16.2
+Tag: height, Item: 14.4
+Tag: height, Item: 14.8
+Tag: height, Item: 49.5
+Tag: height, Item: 105.1
+Tag: height, Item: 16.5
+Tag: height, Item: 7.0
+Tag: height, Item: 45.6
+Tag: height, Item: 91.0
+Tag: height, Item: 46.8
+Tag: height, Item: 40.5
+Tag: height, Item: 44.5
+Tag: height, Item: 91.7
+Tag: height, Item: 124.3
+Tag: height, Item: 150.5
+Tag: height, Item: 70.3
+Tag: height, Item: 6.9
+Tag: height, Item: 98.5
+Tag: height, Item: 28.8
+Tag: height, Item: 39.9
+Tag: height, Item: 23.2
+Tag: height, Item: 16.3
+Tag: height, Item: 26.9
+Tag: height, Item: 22.5
+Tag: height, Item: 76.5
+Tag: height, Item: 28.3
+Tag: height, Item: 12.0
+Tag: height, Item: 25.0
+Tag: height, Item: 27
+Tag: height, Item: 34.4
+Tag: height, Item: 36.4
+Tag: height, Item: 33.8
+Tag: height, Item: 37.6
+Tag: height, Item: 58.3
+Tag: height, Item: 58.0
+Tag: height, Item: 57.7
+Tag: height, Item: 81.5
+Tag: height, Item: 72.5
+Tag: height, Item: 70.1
+Tag: height, Item: 7.5
+Tag: height, Item: 67.1
+Tag: height, Item: 32.8
+Tag: height, Item: 25.6
+Tag: height, Item: 31.1
+Tag: height, Item: 24.7
+Tag: height, Item: 23.4
+Tag: height, Item: 24.5
+Tag: height, Item: 20.6
+Tag: height, Item: 18.5
+Tag: height, Item: 21.3
+Tag: height, Item: 30.9
+Tag: height, Item: 52.6
+Tag: height, Item: 20.4
+Tag: height, Item: 24.0
+Tag: height, Item: 23.8
+Tag: height, Item: 25.2
+Tag: height, Item: 64.1
+Tag: height, Item: 237.7
+Tag: height, Item: 31.0
+Tag: height, Item: 22.6
+Tag: height, Item: 26.1
+Tag: height, Item: 27.5
+Tag: height, Item: 19.7
+Tag: height, Item: 63.2
+Tag: height, Item: 23.5
+Tag: height, Item: 25.1
+Tag: height, Item: 33.0
+Tag: height, Item: 66.4
+Tag: height, Item: 67.8
+Tag: height, Item: 53.5
+Tag: height, Item: 53.2
+Tag: height, Item: 47.2
+Tag: height, Item: 40.3
+Tag: height, Item: 6
+Tag: height, Item: 24.1
+Tag: height, Item: 11.7
+Tag: height, Item: 52.0
+Tag: height, Item: 90.1
+Tag: height, Item: 14.7
+Tag: height, Item: 9.2
+Tag: height, Item: 9.1
+Tag: height, Item: 6.5
+Tag: height, Item: 6.4
+Tag: height, Item: 9.6
+Tag: height, Item: 3.3
+Tag: height, Item: 2.4
+Tag: height, Item: 4.3
+Tag: height, Item: 14.2
+Tag: height, Item: 112.7
+Tag: height, Item: 63.3
+Tag: height, Item: 80.5
+Tag: height, Item: 52.1
+Tag: height, Item: 41.7
+Tag: height, Item: 63.1
+Tag: height, Item: 15.8
+Tag: height, Item: 58.2
+Tag: height, Item: 34.5
+Tag: height, Item: 31.2
+Tag: height, Item: 17
+Tag: height, Item: 35.0
+Tag: height, Item: 28.9
+Tag: height, Item: 29.4
+Tag: height, Item: 63.7
+Tag: height, Item: 10.1
+Tag: height, Item: 69
+Tag: height, Item: 95.0
+Tag: height, Item: 69.1
+Tag: height, Item: 12.3
+Tag: height, Item: 12.5
+Tag: height, Item: 33.2
+Tag: height, Item: 44.4
+Tag: height, Item: 26.7
+Tag: height, Item: 30.7
+Tag: height, Item: 7.1
+Tag: height, Item: 36.2
+Tag: height, Item: 60.1
+Tag: height, Item: 14.5
+Tag: height, Item: 12.4
+Tag: height, Item: 50.2
+Tag: height, Item: 11.8
+Tag: height, Item: 31.5
+Tag: height, Item: 42.7
+Tag: height, Item: 147.1
+Tag: height, Item: 15.3
+Tag: height, Item: 21.6
+Tag: height, Item: 14.1
+Tag: height, Item: 10.3
+Tag: height, Item: 11.3
+Tag: height, Item: 62.6
+Tag: height, Item: 13
+Tag: height, Item: 30.5
+Tag: height, Item: 32.6
+Tag: height, Item: 51.6
+Tag: height, Item: 53.8
+Tag: height, Item: 35.6
+Tag: height, Item: 9.3
+Tag: height, Item: 5.7
+Tag: height, Item: 15.9
+Tag: height, Item: 75.9
+Tag: height, Item: 72.3
+Tag: height, Item: 124.67
+Tag: height, Item: 23.7
+Tag: height, Item: 41.4
+Tag: height, Item: 13.3
+Tag: height, Item: 15.4
+Tag: height, Item: 54.3
+Tag: height, Item: 56.1
+Tag: height, Item: 15.1
+Tag: height, Item: 15.6
+Tag: height, Item: 59.0
+Tag: height, Item: 55.0
+Tag: height, Item: 57.2
+Tag: height, Item: 56.0
+Tag: height, Item: 68.9
+Tag: height, Item: 47.0
+Tag: height, Item: 10.8
+Tag: height, Item: 8.6
+Tag: height, Item: 16
+Tag: height, Item: 273
+Tag: height, Item: 44.7
+Tag: height, Item: 39.0
+Tag: height, Item: 64.0
+Tag: height, Item: 13.5
+Tag: height, Item: 47.3
+Tag: height, Item: 47.5
+Tag: height, Item: 61.5
+Tag: height, Item: 46.5
+Tag: height, Item: 137
+Tag: height, Item: 168.8
+Tag: height, Item: 21.7
+Tag: height, Item: 49.3
+Tag: height, Item: 33.4
+Tag: height, Item: 70.0
+Tag: height, Item: 41.5
+Tag: height, Item: 52.9
+Tag: height, Item: 50.8
+Tag: height, Item: 51.8
+Tag: height, Item: 29.0
+Tag: height, Item: 105.6
+Tag: height, Item: 168.1
+Tag: height, Item: 131.7
+Tag: height, Item: 27.0
+Tag: height, Item: 32.2
+Tag: height, Item: 37.2
+Tag: height, Item: 30.0
+Tag: height, Item: 24.2
+Tag: height, Item: 24.8
+Tag: height, Item: 65.6
+Tag: height, Item: 69.8
+Tag: height, Item: 45.0
+Tag: height, Item: 23.0
+Tag: height, Item: 63.9
+Tag: height, Item: 41.2
+Tag: height, Item: 21.8
+Tag: height, Item: 25.4
+Tag: height, Item: 21.9
+Tag: height, Item: 62.1
+Tag: height, Item: 65.0
+Tag: height, Item: 51.0
+Tag: height, Item: 100.6
+Tag: height, Item: 136.4
+Tag: height, Item: 35.4
+Tag: height, Item: 46.9
+Tag: height, Item: 68.3
+Tag: height, Item: 44.6
+Tag: height, Item: 130.5
+Tag: height, Item: 14
+Tag: height, Item: 4
+Tag: height, Item: 133.5
+Tag: height, Item: 143.5
+Tag: height, Item: 88
+Tag: height, Item: 78
+Tag: height, Item: 33
+Tag: height, Item: 67.2
+Tag: height, Item: 26
+Tag: height, Item: 151
+Tag: height, Item: 117.3
+Tag: height, Item: 111
+Tag: height, Item: 114
+Tag: height, Item: 65.1
+Tag: height, Item: 57
+Tag: height, Item: 104
+Tag: height, Item: 98
+Tag: height, Item: 156.7
+Tag: height, Item: 98.8
+Tag: height, Item: 287
+Tag: height, Item: 218
+Tag: height, Item: 23
+Tag: height, Item: 179
+Tag: height, Item: 108
+Tag: height, Item: 155
+Tag: height, Item: 128
+Tag: height, Item: 139
+Tag: height, Item: 94.3
+Tag: height, Item: 81
+Tag: height, Item: 24
+Tag: height, Item: 142
+Tag: height, Item: 5.3
+Tag: height, Item: 85
+Tag: height, Item: 196
+Tag: height, Item: 190
+Tag: height, Item: 194
+Tag: height, Item: 188
+Tag: height, Item: 177
+Tag: height, Item: 180
+Tag: height, Item: 43
+Tag: height, Item: 83.5
+Tag: height, Item: 83
+Tag: height, Item: 87
+Tag: height, Item: 91
+Tag: height, Item: 133.6
+Tag: height, Item: 53
+Tag: height, Item: 62
+Tag: height, Item: 71
+Tag: height, Item: 89
+Tag: height, Item: 101
+Tag: height, Item: 91.4
+Tag: height, Item: 161
+Tag: height, Item: 167
+Tag: height, Item: 84
+Tag: height, Item: 66
+Tag: height, Item: 117
+Tag: height, Item: 112
+Tag: height, Item: 52
+Tag: height, Item: 46
+Tag: height, Item: 34
+Tag: height, Item: 74
+Tag: height, Item: 96
+Tag: height, Item: 79.9
+Tag: height, Item: 39
+Tag: height, Item: 87.0
+Tag: height, Item: 63
+Tag: height, Item: 29
+Tag: height, Item: 119.0
+Tag: height, Item: 71.9
+Tag: height, Item: 96.7
+Tag: height, Item: 56
+Tag: height, Item: 92
+Tag: height, Item: 48
+Tag: height, Item: 98.2
+Tag: height, Item: 136.2
+Tag: height, Item: 77
+Tag: height, Item: 95
+Tag: height, Item: 86
+Tag: height, Item: 61
+Tag: height, Item: 101.8
+Tag: height, Item: 154
+Tag: height, Item: 298.6
+Tag: height, Item: 306
+Tag: height, Item: 226.8
+Tag: height, Item: 119.8
+Tag: height, Item: 93
+Tag: height, Item: 2
+Tag: height, Item: 107
+Tag: height, Item: 231
+Tag: height, Item: 140.5
+Tag: height, Item: 129.5
+Tag: height, Item: 67
+Tag: height, Item: 104.2
+Tag: height, Item: 135.4
+Tag: height, Item: 145
+Tag: height, Item: 79
+Tag: height, Item: 167.6
+Tag: height, Item: 164.5
+Tag: height, Item: 163.5
+Tag: height, Item: 68
+Tag: height, Item: 97
+Tag: height, Item: 129
+Tag: height, Item: 149
+Tag: height, Item: 157
+Tag: height, Item: 63.6
+Tag: height, Item: 45.5
+Tag: height, Item: 51
+Tag: height, Item: 109
+Tag: height, Item: 47
+Tag: height, Item: 59
+Tag: height, Item: 57.5
+Tag: height, Item: 62.5
+Tag: height, Item: 67.5
+Tag: height, Item: 73.5
+Tag: height, Item: 103.2
+Tag: height, Item: 106
+Tag: height, Item: 115.9
+Tag: height, Item: 83.8
+Tag: height, Item: 72.9
+Tag: height, Item: 90.2
+Tag: height, Item: 97.0
+Tag: height, Item: 2.5
+Tag: height, Item: 56.5
+Tag: height, Item: 51.7
+Tag: height, Item: 82
+Tag: height, Item: 95.7
+Tag: height, Item: 84.1
+Tag: height, Item: 123.9
+Tag: height, Item: 112.8
+Tag: height, Item: 70.4
+Tag: height, Item: 98.0
+Tag: height, Item: 77.5
+Tag: height, Item: 82.6
+Tag: height, Item: 84.8
+Tag: height, Item: 87.9
+Tag: height, Item: 99
+Tag: height, Item: 87.2
+Tag: height, Item: 71.6
+Tag: height, Item: 425.5
+Tag: height, Item: 65.5
+Tag: height, Item: 43.6
+Tag: height, Item: 34.3
+Tag: height, Item: 28.2
+Tag: height, Item: 8.2
+Tag: height, Item: 206
+Tag: height, Item: 290
+Tag: height, Item: 0.5
+Tag: height, Item: 0
+Tag: height, Item: 237
+Tag: height, Item: 332
+Tag: height, Item: 342
+Tag: height, Item: 433
+Tag: height, Item: 466
+Tag: height, Item: 471
+Tag: height, Item: 417
+Tag: height, Item: 405
+Tag: height, Item: 393
+Tag: height, Item: 383
+Tag: height, Item: 373
+Tag: height, Item: 358
+Tag: height, Item: 343
+Tag: height, Item: 328
+Tag: height, Item: 308
+Tag: height, Item: 283
+Tag: height, Item: 0.25
+Tag: height, Item: 0.75
+Tag: owner, Item: Boston Properties
+Tag: owner, Item: The Related Companies
+Tag: owner, Item: Metropolitan Transportation Authority
+Tag: owner, Item: NYC Parks
+Tag: addr:postcode, Item: 10023
+Tag: addr:postcode, Item: 10019
+Tag: addr:postcode, Item: 10022
+Tag: addr:postcode, Item: 10153
+Tag: addr:postcode, Item: 10019-9998
+Tag: addr:postcode, Item: 10065
+Tag: addr:postcode, Item: 10036
+Tag: addr:postcode, Item: 10020
+Tag: addr:postcode, Item: 10111
+Tag: addr:state, Item: NY
+Tag: amenity, Item: arts_centre
+Tag: amenity, Item: university
+Tag: amenity, Item: parking
+Tag: amenity, Item: theatre
+Tag: amenity, Item: fountain
+Tag: amenity, Item: fire_station
+Tag: amenity, Item: place_of_worship
+Tag: amenity, Item: cinema
+Tag: amenity, Item: fast_food
+Tag: amenity, Item: post_office
+Tag: amenity, Item: school
+Tag: amenity, Item: toilets
+Tag: amenity, Item: cafe
+Tag: amenity, Item: social_facility
+Tag: amenity, Item: biergarten
+Tag: amenity, Item: shelter
+Tag: amenity, Item: bench
+Tag: amenity, Item: bicycle_parking
+Tag: amenity, Item: hospital
+Tag: ele, Item: 21
+Tag: ele, Item: 22
+Tag: ele, Item: 18
+Tag: ele, Item: 19
+Tag: ele, Item: 15
+Tag: ele, Item: 17
+Tag: ele, Item: 20
+Tag: ele, Item: 24
+Tag: ele, Item: 2
+Tag: ele, Item: 23
+Tag: ele, Item: 16
+Tag: ele, Item: 25
+Tag: ele, Item: 14
+Tag: gnis:feature_id, Item: 955363
+Tag: gnis:feature_id, Item: 2083274
+Tag: gnis:feature_id, Item: 2044307
+Tag: gnis:feature_id, Item: 2083227
+Tag: gnis:feature_id, Item: 2083281
+Tag: gnis:feature_id, Item: 2083276
+Tag: gnis:feature_id, Item: 2129197
+Tag: gnis:feature_id, Item: 2083273
+Tag: gnis:feature_id, Item: 2083225
+Tag: gnis:feature_id, Item: 2083278
+Tag: gnis:feature_id, Item: 2084049
+Tag: gnis:feature_id, Item: 945868
+Tag: gnis:feature_id, Item: 2083237
+Tag: gnis:feature_id, Item: 2083259
+Tag: gnis:feature_id, Item: 2083233
+Tag: gnis:feature_id, Item: 961765
+Tag: gnis:feature_id, Item: 2083286
+Tag: gnis:feature_id, Item: 2083284
+Tag: gnis:feature_id, Item: 2083495
+Tag: gnis:feature_id, Item: 2083283
+Tag: gnis:feature_id, Item: 2083500
+Tag: gnis:feature_id, Item: 2083499
+Tag: gnis:feature_id, Item: 2083496
+Tag: gnis:feature_id, Item: 2083494
+Tag: gnis:feature_id, Item: 2083497
+Tag: gnis:feature_id, Item: 2083864
+Tag: gnis:feature_id, Item: 2083325
+Tag: gnis:feature_id, Item: 2083324
+Tag: gnis:feature_id, Item: 2083198
+Tag: gnis:feature_id, Item: 962869
+Tag: gnis:feature_id, Item: 2062680
+Tag: gnis:feature_id, Item: 2083279
+Tag: gnis:feature_id, Item: 2083228
+Tag: gnis:feature_id, Item: 2083224
+Tag: gnis:feature_id, Item: 2083230
+Tag: gnis:feature_id, Item: 2083263
+Tag: gnis:feature_id, Item: 2083260
+Tag: gnis:feature_id, Item: 2083507
+Tag: gnis:feature_id, Item: 2083508
+Tag: gnis:feature_id, Item: 2083506
+Tag: gnis:feature_id, Item: 2083512
+Tag: gnis:feature_id, Item: 2083446
+Tag: gnis:feature_id, Item: 958207
+Tag: gnis:feature_id, Item: 2083277
+Tag: gnis:feature_id, Item: 2083288
+Tag: gnis:feature_id, Item: 2485813
+Tag: phone, Item: +1-212-875-5456
+Tag: phone, Item: +1-212-875-5965
+Tag: phone, Item: +1 212-299-7777
+Tag: phone, Item: +1 833-615-3500
+Tag: phone, Item: 1 (212) 299-1000
+Tag: phone, Item: +1-212-336-1440
+Tag: phone, Item: +1-888-236-2427
+Tag: phone, Item: +1 212-823-8945
+Tag: phone, Item: +1-646-744-3100
+Tag: phone, Item: +1 212-703-2001
+Tag: phone, Item: +1-212-247-7800
+Tag: phone, Item: +1 212-379-0103
+Tag: phone, Item: +1 212-245-5000
+Tag: phone, Item: +1-212-247-2700
+Tag: phone, Item: +1 212 425 2950
+Tag: phone, Item: +1-212-307-5000
+Tag: phone, Item: +1 212-489-4100
+Tag: phone, Item: +1 212-977-4785
+Tag: phone, Item: +1-212-247-2000
+Tag: phone, Item: +1 212-586-6676
+Tag: phone, Item: +1-212-204-3000
+Tag: phone, Item: +1-212-758-5700
+Tag: phone, Item: +1 212 434 9576
+Tag: phone, Item: +1 332-245-3021
+Tag: phone, Item: +1 212-794-4064
+Tag: phone, Item: +1-212-863-3000
+Tag: phone, Item: +1-212-523-4000
+Tag: phone, Item: +1-212-581-4000
+Tag: phone, Item: +1 646-368-1700
+Tag: phone, Item: +1-212-659-4936
+Tag: phone, Item: +1 212-705-2000
+Tag: phone, Item: +1-212-753-8841
+Tag: phone, Item: +1-212-744-7840
+Tag: phone, Item: +1-212-879-8600
+Tag: phone, Item: +1-646-490-7067
+Tag: phone, Item: +1 212-830-8000
+Tag: phone, Item: +1 212-581-4100
+Tag: phone, Item: +1 212-253-6000
+Tag: phone, Item: +1 212-439-6500
+Tag: phone, Item: +1-212-397-8949
+Tag: phone, Item: +1 212-332-6868
+Tag: phone, Item: +12122452866
+Tag: tourism, Item: attraction
+Tag: tourism, Item: zoo
+Tag: tourism, Item: museum
+Tag: tourism, Item: hotel
+Tag: tourism, Item: yes
+Tag: tourism, Item: information
+Tag: tourism, Item: artwork
+Tag: building:part, Item: yes
+Tag: building:part, Item: office
+Tag: building:part, Item: zes
+Tag: building:part, Item: dormitory
+Tag: building:part, Item: roof
+Tag: barrier, Item: hedge
+Tag: barrier, Item: fence
+Tag: barrier, Item: wall
+Tag: barrier, Item: gate
+Tag: barrier, Item: retaining_wall
+Tag: barrier, Item: kerb
+Tag: barrier, Item: bollard
+Tag: barrier, Item: rope
+Tag: leisure, Item: park
+Tag: leisure, Item: playground
+Tag: leisure, Item: ice_rink
+Tag: leisure, Item: pitch
+Tag: leisure, Item: garden
+Tag: leisure, Item: nature_reserve
+Tag: leisure, Item: outdoor_seating
+Tag: denomination, Item: catholic
+Tag: denomination, Item: baptist
+Tag: denomination, Item: presbyterian
+Tag: denomination, Item: greek_orthodox
+Tag: denomination, Item: methodist
+Tag: denomination, Item: roman_catholic
+Tag: denomination, Item: orthodox
+Tag: denomination, Item: lutheran
+Tag: denomination, Item: episcopal
+Tag: internet_access, Item: wlan
+Tag: internet_access, Item: yes
+Tag: internet_access, Item: no
+Tag: operator:type, Item: religious
+Tag: operator:type, Item: public
+Tag: operator:type, Item: private
+Tag: operator:type, Item: university
+Tag: religion, Item: christian
+Tag: religion, Item: jewish
+Tag: service, Item: driveway
+Tag: service, Item: parking_aisle
+Tag: service, Item: crossover
+Tag: capacity, Item: 721
+Tag: capacity, Item: 581
+Tag: capacity, Item: 140
+Tag: capacity, Item: 20
+Tag: fee, Item: yes
+Tag: fee, Item: no
+Tag: park_ride, Item: no
+Tag: parking, Item: underground
+Tag: parking, Item: surface
+Tag: area, Item: yes
+Tag: name:ko, Item: 콜럼버스 서클
+Tag: name:ko, Item: 근대 미술관
+Tag: name:ko, Item: 센트럴 파크
+Tag: name:ko, Item: 록펠러 센터
+Tag: building:material, Item: concrete
+Tag: building:material, Item: glass
+Tag: building:material, Item: brick
+Tag: building:material, Item: metal
+Tag: building:material, Item: plaster
+Tag: building:material, Item: stone
+Tag: email, Item: info@madmuseum.org
+Tag: email, Item: info@wollmanrinknyc.com
+Tag: email, Item: lgatp.concierge@hyatt.com
+Tag: email, Item: NYCCN.Hotel@conradhotels.com
+Tag: email, Item: pratthouse@cfr.org
+Tag: email, Item: cgbrazzadel60@gmail.com
+Tag: email, Item: pakistan@un.int
+Tag: email, Item: info@serbiamissionun.org
+Tag: email, Item: gugushhair@gmail.com
+Tag: opening_hours, Item: Tu, We, Fr-Su 10:00-18:00; Th 10:00-21:00
+Tag: opening_hours, Item: Mo, Tu 10:00-14:30; We, Th, Su 10:00-21:00; Fr, Sa 10:00-22:00
+Tag: opening_hours, Item: 24/7
+Tag: opening_hours, Item: Mo-Th 06:30-10:30; Fr 06:30-01:00; Sa 07:30-01:00; Su 07:30-10:30
+Tag: opening_hours, Item: 06:00-24:00
+Tag: opening_hours, Item: Mo-Su 10:00-16:30
+Tag: opening_hours, Item: 06:00-01:00
+Tag: opening_hours, Item: Mo-Su 10:00-17:00
+Tag: opening_hours, Item: 11:00-20:30
+Tag: opening_hours, Item: Mo-Sa 06:30-22:00
+Tag: opening_hours, Item: Mo-Sa 11:00-20:00; Su 11:00-19:00
+Tag: opening_hours, Item: Mo-Sa 11:00-18:00
+Tag: opening_hours, Item: Mo-Su 10:30-17:30; Fr 10:30-19:00
+Tag: opening_hours, Item: 11:00-dusk; Nov-Apr off
+Tag: opening_hours, Item: Nov-Mar: 10:00-16:00; Apr-Oct: 10:00-17:00
+Tag: opening_hours, Item: Mo-Su 06:00-01:00
+Tag: opening_hours, Item: 8:00-23:00
+Tag: opening_hours, Item: Tu-Fr 9:00-18:00; Sa 10:00-18:00; Su 10:00-17:00
+Tag: roof:material, Item: concrete
+Tag: roof:material, Item: glass
+Tag: roof:material, Item: metal
+Tag: roof:material, Item: tile
+Tag: roof:material, Item: copper
+Tag: roof:material, Item: grass
+Tag: roof:material, Item: roof_tiles
+Tag: roof:shape, Item: flat
+Tag: roof:shape, Item: mansard
+Tag: roof:shape, Item: skillion
+Tag: roof:shape, Item: round
+Tag: roof:shape, Item: dome
+Tag: roof:shape, Item: pyramidal
+Tag: roof:shape, Item: gabled
+Tag: roof:shape, Item: hipped
+Tag: short_name, Item: MAD
+Tag: short_name, Item: Apple
+Tag: short_name, Item: USPS
+Tag: short_name, Item: MoMA
+Tag: wheelchair, Item: yes
+Tag: wheelchair, Item: designated
+Tag: wheelchair, Item: limited
+Tag: wheelchair, Item: no
+Tag: wheelchair, Item: dedicated
+Tag: wheelchair, Item: separate
+Tag: crossing:markings, Item: zebra
+Tag: crossing:markings, Item: yes
+Tag: crossing:markings, Item: no
+Tag: crossing:markings, Item: ladder
+Tag: footway, Item: sidewalk
+Tag: footway, Item: crossing
+Tag: footway, Item: traffic_island
+Tag: tactile_paving, Item: no
+Tag: tactile_paving, Item: yes
+Tag: building:colour, Item: #A5AEAB
+Tag: building:colour, Item: #D2B48C
+Tag: building:colour, Item: black
+Tag: building:colour, Item: #F7FFE8
+Tag: building:colour, Item: beige
+Tag: building:colour, Item: #51565A
+Tag: building:colour, Item: #C7C2AF
+Tag: building:colour, Item: #828E8C
+Tag: building:colour, Item: #C4BEA4
+Tag: building:colour, Item: lightgray
+Tag: building:colour, Item: #335263
+Tag: building:colour, Item: #BBC1B5
+Tag: building:colour, Item: #E8DFC0
+Tag: building:colour, Item: #885021
+Tag: building:colour, Item: #46433A
+Tag: building:colour, Item: #A68F7F
+Tag: building:colour, Item: #6C541E
+Tag: building:colour, Item: #535E62
+Tag: building:colour, Item: #3F596A
+Tag: building:colour, Item: #8E8775
+Tag: building:colour, Item: #212224
+Tag: building:colour, Item: #8C8481
+Tag: building:colour, Item: #E4D4BB
+Tag: building:colour, Item: #BB9B8E
+Tag: building:colour, Item: #293D55
+Tag: building:colour, Item: white
+Tag: building:colour, Item: darkgray
+Tag: building:colour, Item: #8B7355
+Tag: building:colour, Item: #B6B8A3
+Tag: building:colour, Item: lightblue
+Tag: building:colour, Item: #D1B694
+Tag: building:colour, Item: #404040
+Tag: building:colour, Item: gray
+Tag: building:colour, Item: #DACCB2
+Tag: building:colour, Item: #445861
+Tag: building:colour, Item: #60696C
+Tag: building:colour, Item: #6D7A82
+Tag: building:colour, Item: #E4DFC2
+Tag: building:colour, Item: #C6C6C6
+Tag: building:colour, Item: #756541
+Tag: building:colour, Item: #F4EADE
+Tag: building:colour, Item: #847057
+Tag: building:colour, Item: #8C816F
+Tag: building:colour, Item: #A8AAA5
+Tag: building:colour, Item: #D2B899
+Tag: building:colour, Item: #D9D4C1
+Tag: building:colour, Item: #757269
+Tag: building:colour, Item: #DFD7D3
+Tag: building:colour, Item: #927F7E
+Tag: building:colour, Item: #7C8B86
+Tag: building:colour, Item: #868580
+Tag: building:colour, Item: #865E56
+Tag: building:colour, Item: #C3C1C6
+Tag: building:colour, Item: #A7958D
+Tag: building:colour, Item: #88665A
+Tag: building:colour, Item: #F9F1DC
+Tag: building:colour, Item: #674947
+Tag: building:colour, Item: #F8F7F5
+Tag: building:colour, Item: #B6B3B0
+Tag: building:colour, Item: #B5AFA8
+Tag: building:colour, Item: #544945
+Tag: building:colour, Item: #5B5C5E
+Tag: building:colour, Item: #877D73
+Tag: building:colour, Item: #8F867D
+Tag: building:colour, Item: #C0BDB8
+Tag: building:colour, Item: #AC9C90
+Tag: building:colour, Item: #909183
+Tag: building:colour, Item: #C5B29B
+Tag: building:colour, Item: #C8CDC7
+Tag: building:colour, Item: #A67F78
+Tag: building:colour, Item: #9A9889
+Tag: building:colour, Item: #8D877B
+Tag: building:colour, Item: #F3EED8
+Tag: building:colour, Item: #97897E
+Tag: building:colour, Item: #33565A
+Tag: building:colour, Item: #9F957A
+Tag: building:colour, Item: #685D49
+Tag: building:colour, Item: #A8A86D
+Tag: building:colour, Item: #C4928E
+Tag: building:colour, Item: #B3907D
+Tag: building:colour, Item: #484535
+Tag: building:colour, Item: #796E66
+Tag: building:colour, Item: #554B43
+Tag: building:colour, Item: #675A45
+Tag: building:colour, Item: #908566
+Tag: building:colour, Item: #9F9E85
+Tag: building:colour, Item: #88765D
+Tag: building:colour, Item: #7C6A52
+Tag: building:colour, Item: #9D937A
+Tag: building:colour, Item: #BBAB9B
+Tag: building:colour, Item: #D6A88A
+Tag: building:colour, Item: #6E534C
+Tag: building:colour, Item: #E1E0DE
+Tag: building:colour, Item: #CFCFD1
+Tag: building:colour, Item: #343235
+Tag: building:colour, Item: #CCBF9D
+Tag: building:colour, Item: #CBC9B4
+Tag: building:colour, Item: #141311
+Tag: building:colour, Item: #B7AC91
+Tag: building:colour, Item: #C2B392
+Tag: building:colour, Item: #E7D1BC
+Tag: building:colour, Item: brown
+Tag: building:colour, Item: orange
+Tag: building:colour, Item: #87765A
+Tag: building:colour, Item: #D7CBB9
+Tag: building:colour, Item: #443B32
+Tag: building:colour, Item: #78675D
+Tag: building:colour, Item: #B4BBB3
+Tag: building:colour, Item: #879B92
+Tag: building:colour, Item: #A3A597
+Tag: building:colour, Item: #41433E
+Tag: building:colour, Item: #845E51
+Tag: building:colour, Item: #D1CBAB
+Tag: building:colour, Item: #744A4C
+Tag: building:colour, Item: #675846
+Tag: building:colour, Item: #49413F
+Tag: building:colour, Item: #746E68
+Tag: building:colour, Item: #B1A495
+Tag: building:colour, Item: #4E4E45
+Tag: building:colour, Item: #868277
+Tag: building:colour, Item: #93A29E
+Tag: building:colour, Item: #8B7B76
+Tag: building:colour, Item: #372A29
+Tag: building:colour, Item: #B8B19F
+Tag: building:colour, Item: #948A78
+Tag: building:colour, Item: #3F5E56
+Tag: building:colour, Item: #C0A482
+Tag: building:colour, Item: #7C8072
+Tag: building:colour, Item: #7F776C
+Tag: building:colour, Item: #8A6F5C
+Tag: building:colour, Item: #29415C
+Tag: building:colour, Item: #959A9D
+Tag: building:colour, Item: #653005
+Tag: building:colour, Item: #5A5F65
+Tag: building:colour, Item: #BBAC95
+Tag: building:colour, Item: #A47C65
+Tag: building:colour, Item: #CAC3A9
+Tag: building:colour, Item: #CDAA7D
+Tag: building:colour, Item: #BE927D
+Tag: building:colour, Item: #676D6D
+Tag: building:colour, Item: #AD9782
+Tag: building:colour, Item: #ADAB9F
+Tag: building:colour, Item: #DECBAA
+Tag: building:colour, Item: #E8E4D8
+Tag: building:colour, Item: #95806F
+Tag: building:colour, Item: #454645
+Tag: building:colour, Item: #E0D6CC
+Tag: building:colour, Item: #E9E3D5
+Tag: building:colour, Item: #A29779
+Tag: building:colour, Item: #C0AE8A
+Tag: building:colour, Item: #A88373
+Tag: building:colour, Item: #C3B495
+Tag: building:colour, Item: grey
+Tag: building:colour, Item: #CAC0B4
+Tag: building:colour, Item: #928A77
+Tag: building:colour, Item: #7E5136
+Tag: building:colour, Item: #B3A384
+Tag: building:colour, Item: #EDE7CD
+Tag: building:colour, Item: #97AB9F
+Tag: building:colour, Item: #9E9986
+Tag: building:colour, Item: #BDB89A
+Tag: building:colour, Item: #424B54
+Tag: building:colour, Item: #4C463F
+Tag: building:colour, Item: #B2B6B7
+Tag: building:colour, Item: #506A6B
+Tag: building:colour, Item: #DAD4C2
+Tag: building:colour, Item: #464140
+Tag: building:colour, Item: #786D57
+Tag: building:colour, Item: #908478
+Tag: building:colour, Item: #AEAEA2
+Tag: building:colour, Item: #9BAB91
+Tag: building:colour, Item: #A8A7A3
+Tag: building:colour, Item: #838071
+Tag: building:colour, Item: #768B7A
+Tag: building:colour, Item: #B5B2A1
+Tag: building:colour, Item: #9B9A96
+Tag: building:colour, Item: #CFD8E7
+Tag: building:colour, Item: #594643
+Tag: building:colour, Item: #CBC8B7
+Tag: building:colour, Item: #335044
+Tag: building:colour, Item: #BBB6A2
+Tag: building:colour, Item: #E8DBB9
+Tag: building:colour, Item: #9D9A89
+Tag: building:colour, Item: #716250
+Tag: building:colour, Item: #9E988C
+Tag: building:colour, Item: #CAC7C3
+Tag: building:colour, Item: #5B6A7E
+Tag: building:colour, Item: #BA8F80
+Tag: building:colour, Item: #5E7580
+Tag: building:colour, Item: #A0A199
+Tag: building:colour, Item: #CCCCC0
+Tag: building:colour, Item: #F0EFDD
+Tag: building:colour, Item: #9D8E7B
+Tag: building:colour, Item: #D6CCB1
+Tag: building:colour, Item: #DAD3CD
+Tag: building:colour, Item: #B1A992
+Tag: building:colour, Item: #898377
+Tag: building:colour, Item: #AE9D8D
+Tag: building:colour, Item: #B2AA93
+Tag: building:colour, Item: #968768
+Tag: building:colour, Item: #B4AF99
+Tag: building:colour, Item: #A49484
+Tag: building:colour, Item: #E5D6C3
+Tag: building:colour, Item: #C3AF96
+Tag: building:colour, Item: #B2AF9C
+Tag: building:colour, Item: #B0AFAA
+Tag: building:colour, Item: #BDC1C4
+Tag: building:colour, Item: #9F8B77
+Tag: building:colour, Item: #B8B7B8
+Tag: building:colour, Item: #475247
+Tag: building:colour, Item: #879C8B
+Tag: building:colour, Item: #75786D
+Tag: building:colour, Item: #AF9575
+Tag: building:colour, Item: #B4C9B8
+Tag: building:colour, Item: #806C61
+Tag: building:colour, Item: #AAA086
+Tag: building:colour, Item: #A19474
+Tag: building:colour, Item: #ABA895
+Tag: building:colour, Item: #E9EEEE
+Tag: building:colour, Item: #62665E
+Tag: building:colour, Item: #C7BDB1
+Tag: building:colour, Item: #FAF5EF
+Tag: building:colour, Item: #D7B790
+Tag: building:colour, Item: #997554
+Tag: building:colour, Item: #62473E
+Tag: building:colour, Item: #485160
+Tag: building:colour, Item: #FCFDFF
+Tag: building:colour, Item: #B4AC95
+Tag: building:colour, Item: #C0B6AC
+Tag: building:colour, Item: #E4DCB8
+Tag: building:colour, Item: #CEC4B8
+Tag: building:colour, Item: #BBB79A
+Tag: building:colour, Item: #F9F8E6
+Tag: building:colour, Item: #FBE7BE
+Tag: building:colour, Item: #CBAD89
+Tag: building:colour, Item: #ADA895
+Tag: building:colour, Item: #C2BCA6
+Tag: building:colour, Item: #4A5455
+Tag: building:colour, Item: #C2B99A
+Tag: building:colour, Item: #4E5F66
+Tag: building:colour, Item: #8F9EA2
+Tag: building:colour, Item: #C8C1B1
+Tag: building:colour, Item: #A08F89
+Tag: building:colour, Item: #907155
+Tag: building:colour, Item: #EEEAE6
+Tag: building:colour, Item: #DBC4A2
+Tag: building:colour, Item: #C5A98B
+Tag: building:colour, Item: #DCCEB4
+Tag: fixme, Item: check on ground
+Tag: fixme, Item: adjust boundary to be more precise
+Tag: smoking, Item: no
+Tag: horse, Item: designated
+Tag: horse, Item: yes
+Tag: horse, Item: no
+Tag: check_date:surface, Item: 2021-05-25
+Tag: check_date:surface, Item: 2023-07-05
+Tag: ramp:wheelchair, Item: yes
+Tag: facebook, Item: https://www.facebook.com/WollmanRink
+Tag: seasonal, Item: autumn;winter
+Tag: seasonal, Item: yes
+Tag: sport, Item: figure_skating;ice_skating;ice_hockey
+Tag: sport, Item: beachvolleyball
+Tag: sport, Item: climbing
+Tag: sport, Item: baseball
+Tag: name:uk, Item: Вежа Блумберг
+Tag: name:uk, Item: Центр Тайм-Ворнер
+Tag: name:uk, Item: Башта Герста
+Tag: name:uk, Item: Трамп-тауер
+Tag: name:uk, Item: Музей сучасного мистецтва
+Tag: brand, Item: Hilton
+Tag: brand, Item: Apple Store
+Tag: brand, Item: The Ritz-Carlton
+Tag: brand, Item: JW Marriott
+Tag: brand, Item: Netflix
+Tag: brand, Item: Grand Hyatt
+Tag: brand, Item: Conrad
+Tag: brand, Item: Wendy's
+Tag: brand, Item: McDonald's
+Tag: brand, Item: Sixty
+Tag: brand, Item: Four Seasons
+Tag: brand, Item: Tiffany & Company
+Tag: brand, Item: Crowne Plaza
+Tag: brand, Item: Sheraton
+Tag: brand, Item: Chick-fil-A
+Tag: brand, Item: Bloomingdale's
+Tag: brand, Item: Le Méridien
+Tag: brand, Item: Hampton
+Tag: brand, Item: Hilton Garden Inn
+Tag: brand:wikidata, Item: Q598884
+Tag: brand:wikidata, Item: Q421253
+Tag: brand:wikidata, Item: Q782200
+Tag: brand:wikidata, Item: Q1067636
+Tag: brand:wikidata, Item: Q1425063
+Tag: brand:wikidata, Item: Q855525
+Tag: brand:wikidata, Item: Q550258
+Tag: brand:wikidata, Item: Q38076
+Tag: brand:wikidata, Item: Q1424786
+Tag: brand:wikidata, Item: Q1066858
+Tag: brand:wikidata, Item: Q2746220
+Tag: brand:wikidata, Item: Q634831
+Tag: brand:wikidata, Item: Q491516
+Tag: brand:wikidata, Item: Q283383
+Tag: brand:wikidata, Item: Q261077
+Tag: brand:wikidata, Item: Q5646230
+Tag: brand:wikidata, Item: Q1162859
+Tag: min_height, Item: 20
+Tag: min_height, Item: 48
+Tag: min_height, Item: 65
+Tag: min_height, Item: 55
+Tag: min_height, Item: 215
+Tag: min_height, Item: 160
+Tag: min_height, Item: 125
+Tag: min_height, Item: 140
+Tag: min_height, Item: 132
+Tag: min_height, Item: 130
+Tag: min_height, Item: 138
+Tag: min_height, Item: 110
+Tag: min_height, Item: 134
+Tag: min_height, Item: 120
+Tag: min_height, Item: 136
+Tag: min_height, Item: 115
+Tag: min_height, Item: 25
+Tag: min_height, Item: 105
+Tag: min_height, Item: 200
+Tag: min_height, Item: 45
+Tag: min_height, Item: 122
+Tag: min_height, Item: 35
+Tag: min_height, Item: 127
+Tag: min_height, Item: 121
+Tag: min_height, Item: 185
+Tag: min_height, Item: 126
+Tag: min_height, Item: 168
+Tag: min_height, Item: 7.5
+Tag: min_height, Item: 70
+Tag: min_height, Item: 22
+Tag: min_height, Item: 150
+Tag: min_height, Item: 238
+Tag: min_height, Item: 230
+Tag: min_height, Item: 226
+Tag: min_height, Item: 234
+Tag: min_height, Item: 245
+Tag: min_height, Item: 90
+Tag: min_height, Item: 178
+Tag: min_height, Item: 111
+Tag: min_height, Item: 7
+Tag: min_height, Item: 75
+Tag: min_height, Item: 100
+Tag: min_height, Item: 148
+Tag: min_height, Item: 139
+Tag: min_height, Item: 133
+Tag: min_height, Item: 19
+Tag: min_height, Item: 13
+Tag: min_height, Item: 158
+Tag: min_height, Item: 84
+Tag: min_height, Item: 104
+Tag: min_height, Item: 129
+Tag: min_height, Item: 85
+Tag: min_height, Item: 61
+Tag: min_height, Item: 96
+Tag: min_height, Item: 86
+Tag: min_height, Item: 10
+Tag: min_height, Item: 151
+Tag: min_height, Item: 8
+Tag: min_height, Item: 93
+Tag: min_height, Item: 42
+Tag: min_height, Item: 107
+Tag: min_height, Item: 104.2
+Tag: min_height, Item: 135
+Tag: min_height, Item: 163.5
+Tag: min_height, Item: 153
+Tag: min_height, Item: 155
+Tag: min_height, Item: 145
+Tag: min_height, Item: 143
+Tag: min_height, Item: 38
+Tag: min_height, Item: 87
+Tag: min_height, Item: 6
+Tag: min_height, Item: 59.3
+Tag: min_height, Item: 102
+Tag: min_height, Item: 50.5
+Tag: min_height, Item: 54
+Tag: min_height, Item: 53
+Tag: min_height, Item: 50
+Tag: min_height, Item: 94
+Tag: min_height, Item: 89
+Tag: min_height, Item: 12
+Tag: min_height, Item: 16.5
+Tag: min_height, Item: 72.9
+Tag: min_height, Item: 57
+Tag: min_height, Item: 81
+Tag: min_height, Item: 51
+Tag: min_height, Item: 44
+Tag: min_height, Item: 47
+Tag: min_height, Item: 30
+Tag: min_height, Item: 60
+Tag: min_height, Item: 52
+Tag: min_height, Item: 141
+Tag: min_height, Item: 98
+Tag: min_height, Item: 23
+Tag: min_height, Item: 80
+Tag: min_height, Item: 77
+Tag: min_height, Item: 78
+Tag: min_height, Item: 39
+Tag: min_height, Item: 37
+Tag: min_height, Item: 63
+Tag: min_height, Item: 44.6
+Tag: name:he, Item: שדרת האמריקות 1251
+Tag: name:he, Item: בניין AT&T
+Tag: name:he, Item: מגדל קרנגי הול
+Tag: name:he, Item: סנטרל פארק
+Tag: office, Item: company
+Tag: office, Item: diplomatic
+Tag: addr:country, Item: US
+Tag: air_conditioning, Item: yes
+Tag: reservation, Item: yes
+Tag: motorcar, Item: no
+Tag: motorcar, Item: yes
+Tag: name:etymology:wikidata, Item: Q1067
+Tag: name:etymology:wikidata, Item: Q7322
+Tag: branch, Item: 5th Avenue
+Tag: branch, Item: Midtown
+Tag: branch, Item: 711 Lexington Avenue In-Line
+Tag: branch, Item: 59th Street
+Tag: branch, Item: Central Park
+Tag: branch, Item: Manhattan-Times Square North
+Tag: branch, Item: New York/Central Park South-Midtown West
+Tag: branch, Item: Manhattan Campus
+Tag: check_date, Item: 2024-03-13
+Tag: check_date, Item: 2021-04-22
+Tag: check_date, Item: 2021-10-05
+Tag: check_date, Item: 2023-07-17
+Tag: check_date, Item: 2022-12-17
+Tag: check_date, Item: 2023-10-19
+Tag: check_date, Item: 2024-03-07
+Tag: check_date, Item: 2022-08-12
+Tag: check_date, Item: 2020-07-29
+Tag: check_date, Item: 2024-03-11
+Tag: check_date, Item: 2023-01-14
+Tag: check_date, Item: 2020-08-13
+Tag: check_date, Item: 2022-12-08
+Tag: computer:repair, Item: yes
+Tag: material, Item: glass
+Tag: material, Item: brick
+Tag: material, Item: granite
+Tag: material, Item: stone
+Tag: material, Item: metal
+Tag: material, Item: concrete
+Tag: material, Item: wood
+Tag: material, Item: steel
+Tag: mobile_phone:repair, Item: yes
+Tag: payment:american_express, Item: yes
+Tag: payment:cash, Item: yes
+Tag: payment:diners_club, Item: yes
+Tag: payment:discover_card, Item: yes
+Tag: payment:jcb, Item: yes
+Tag: payment:mastercard, Item: yes
+Tag: payment:visa, Item: yes
+Tag: shop, Item: electronics
+Tag: shop, Item: jewelry
+Tag: shop, Item: ticket
+Tag: shop, Item: department_store
+Tag: shop, Item: books
+Tag: shop, Item: gift
+Tag: shop, Item: newsagent
+Tag: shop, Item: hairdresser
+Tag: shop, Item: kiosk
+Tag: stroller, Item: yes
+Tag: stroller, Item: no
+Tag: stroller, Item: No
+Tag: toilets, Item: customers
+Tag: toilets, Item: yes
+Tag: addr:housename, Item: Rodin Studios
+Tag: addr:housename, Item: Trump Parc
+Tag: addr:housename, Item: 1270 Avenue of the Americas
+Tag: roof:colour, Item: #C1C4AF
+Tag: roof:colour, Item: #638672
+Tag: roof:colour, Item: #8B7355
+Tag: roof:colour, Item: #ADD8E6
+Tag: roof:colour, Item: white
+Tag: roof:colour, Item: black
+Tag: roof:colour, Item: #753E28
+Tag: roof:colour, Item: #717B7C
+Tag: roof:colour, Item: #4A5E69
+Tag: roof:colour, Item: #31344A
+Tag: roof:colour, Item: #26465D
+Tag: roof:colour, Item: blue
+Tag: roof:colour, Item: grey
+Tag: roof:colour, Item: #A38A76
+Tag: roof:colour, Item: #957D71
+Tag: roof:colour, Item: #956C66
+Tag: roof:colour, Item: #EDE7CD
+Tag: roof:colour, Item: #7A7474
+Tag: roof:colour, Item: #9BAB91
+Tag: roof:colour, Item: #9D756D
+Tag: roof:colour, Item: #8C8481
+Tag: roof:colour, Item: #6C7C79
+Tag: roof:colour, Item: #98B19E
+Tag: roof:colour, Item: #5E7580
+Tag: roof:colour, Item: darkgray
+Tag: roof:colour, Item: gray
+Tag: roof:colour, Item: #9C9784
+Tag: roof:colour, Item: #898377
+Tag: roof:colour, Item: #C3CDB4
+Tag: roof:colour, Item: #A1B599
+Tag: roof:colour, Item: #897D6D
+Tag: roof:colour, Item: #747570
+Tag: roof:colour, Item: #849491
+Tag: roof:colour, Item: #B5C3B4
+Tag: roof:colour, Item: #7B8079
+Tag: roof:colour, Item: #D1C3A6
+Tag: roof:colour, Item: #626763
+Tag: roof:colour, Item: #FAF5EF
+Tag: roof:colour, Item: #B0867A
+Tag: roof:colour, Item: #D4C8AE
+Tag: roof:colour, Item: #E1BEAA
+Tag: roof:colour, Item: #898C85
+Tag: roof:colour, Item: #42505B
+Tag: roof:colour, Item: #B4B5A5
+Tag: roof:colour, Item: #7C6B63
+Tag: roof:colour, Item: #5B5861
+Tag: roof:colour, Item: #BDB9A0
+Tag: roof:colour, Item: #5A6B61
+Tag: roof:colour, Item: #424F57
+Tag: roof:colour, Item: #8C918B
+Tag: roof:colour, Item: #B29170
+Tag: roof:colour, Item: #626C6E
+Tag: roof:colour, Item: #7C9285
+Tag: roof:colour, Item: #A08F89
+Tag: roof:colour, Item: #2D4756
+Tag: roof:colour, Item: #945C49
+Tag: roof:colour, Item: #4F4955
+Tag: roof:colour, Item: #A6BDA6
+Tag: roof:colour, Item: DarkGreen
+Tag: construction, Item: hotel
+Tag: construction, Item: apartments
+Tag: construction, Item: school
+Tag: construction, Item: residential
+Tag: smoothness, Item: good
+Tag: smoothness, Item: excellent
+Tag: smoothness, Item: intermediate
+Tag: roof:levels, Item: 0
+Tag: roof:levels, Item: 4
+Tag: tiger:zip_left_1, Item: 10019
+Tag: architect, Item: Skidmore, Owings & Merrill
+Tag: architect, Item: Adamson Associates
+Tag: architect, Item: Henry Janeway Hardenbergh
+Tag: architect, Item: Robert Henderson Robertson
+Tag: architect, Item: John H. Duncan
+Tag: architect, Item: McKim, Mead & White
+Tag: architect, Item: Frank Williams & Associates
+Tag: architect, Item: SLCE Architects
+Tag: architect, Item: Charles B. Meyers
+Tag: architect, Item: Warren and Wetmore
+Tag: architect, Item: CetraRuddy Architecture DPC
+Tag: architect, Item: Cesar Pelli & Associates
+Tag: architect, Item: Frederick Law Olmsted;Calvert Vaux
+Tag: architect, Item: Philip Birnbaum
+Tag: architect:wikidata, Item: Q459464
+Tag: architect:wikidata, Item: Q1444464
+Tag: architect:wikidata, Item: Q29469282
+Tag: architect:wikidata, Item: Q45940822
+Tag: cycleway:left:buffer, Item: yes
+Tag: junction, Item: roundabout
+Tag: parking:lane:left, Item: no_parking
+Tag: parking:lane:left, Item: no_stopping
+Tag: parking:lane:left, Item: parallel
+Tag: old_railway_operator, Item: NYC
+Tag: tunnel:name, Item: Park Avenue Tunnel
+Tag: tunnel:wikidata, Item: Q7137638
+Tag: tunnel:wikipedia, Item: en:Park Avenue Tunnel (railroad)
+Tag: turn:lanes:forward, Item: ||right
+Tag: turn:lanes:forward, Item: left|through|through
+Tag: turn:lanes:forward, Item: |right
+Tag: lanes:bus, Item: 2
+Tag: lanes:bus, Item: 1
+Tag: vehicle:lanes, Item: no|
+Tag: vehicle:lanes, Item: |no|
+Tag: addr:interpolation, Item: even
+Tag: crossing, Item: traffic_signals
+Tag: crossing, Item: uncontrolled
+Tag: crossing, Item: marked
+Tag: crossing, Item: unmarked
+Tag: roof:height, Item: 3
+Tag: roof:height, Item: 6
+Tag: roof:height, Item: 52
+Tag: roof:height, Item: 10
+Tag: roof:height, Item: 8
+Tag: roof:height, Item: 2
+Tag: roof:height, Item: 15
+Tag: roof:height, Item: 73
+Tag: roof:height, Item: 16
+Tag: roof:height, Item: 0.5
+Tag: roof:height, Item: 30
+Tag: roof:height, Item: 4
+Tag: roof:height, Item: 5
+Tag: roof:height, Item: 14
+Tag: roof:height, Item: 1.5
+Tag: roof:height, Item: 25
+Tag: roof:height, Item: 20
+Tag: roof:height, Item: 2.5
+Tag: roof:height, Item: 7
+Tag: roof:height, Item: 12
+Tag: roof:height, Item: 35
+Tag: roof:height, Item: 6.3
+Tag: building:min_level, Item: 41
+Tag: building:min_level, Item: 31
+Tag: roof:direction, Item: 119
+Tag: roof:direction, Item: 29
+Tag: roof:direction, Item: 209
+Tag: roof:direction, Item: 29.3
+Tag: roof:direction, Item: 209.4
+Tag: roof:direction, Item: 74
+Tag: roof:direction, Item: 254
+Tag: roof:direction, Item: 344
+Tag: roof:direction, Item: 164
+Tag: roof:direction, Item: 28.5
+Tag: roof:direction, Item: 95
+Tag: roof:direction, Item: 299
+Tag: roof:direction, Item: 209.5
+Tag: roof:direction, Item: 119.5
+Tag: roof:direction, Item: 122
+Tag: roof:direction, Item: 299.5
+Tag: roof:direction, Item: 235.5
+Tag: roof:direction, Item: 208.5
+Tag: roof:direction, Item: 118.5
+Tag: roof:orientation, Item: along
+Tag: roof:orientation, Item: across
+Tag: building:flats, Item: 179
+Tag: building:levels:underground, Item: 4
+Tag: building:levels:underground, Item: 1
+Tag: building:levels:underground, Item: 2
+Tag: colour, Item: #8C816F
+Tag: colour, Item: black
+Tag: colour, Item: #757269
+Tag: colour, Item: white
+Tag: colour, Item: red
+Tag: colour, Item: gray
+Tag: colour, Item: green
+Tag: garden:type, Item: residential
+Tag: garden:type, Item: municipal
+Tag: name:es, Item: Parque Paley
+Tag: name:es, Item: Consulado General de la República Argentina
+Tag: name:es, Item: MoMA
+Tag: operator:wikipedia, Item: en:New York City Fire Department
+Tag: operator:wikipedia, Item: en:United States Postal Service
+Tag: operator:wikipedia, Item: en:New York City Transit Authority
+Tag: operator:wikipedia, Item: en:Sunrise Senior Living
+Tag: name:fr, Item: The Ritz-Carlton
+Tag: name:fr, Item: Consulat général d'Argentine
+Tag: name:fr, Item: MoMA
+Tag: fax, Item: +1-212-484-5109
+Tag: fax, Item: +1 212-703-2002
+Tag: fax, Item: +1 212-379-0104
+Tag: fax, Item: +1 212-307-1776
+Tag: fax, Item: 212-765-6530
+Tag: fax, Item: +1-212-744-7975
+Tag: fax, Item: +1-212-744-7348
+Tag: fax, Item: +1 212-830-8005
+Tag: landuse, Item: construction
+Tag: landuse, Item: brownfield
+Tag: landuse, Item: grass
+Tag: landuse, Item: flowerbed
+Tag: landuse, Item: commercial
+Tag: landuse, Item: meadow
+Tag: screen, Item: 1
+Tag: ref:nrhp, Item: 79001599
+Tag: ref:nrhp, Item: 84002788
+Tag: ref:nrhp, Item: 66000538
+Tag: ref:nrhp, Item: 87002591
+Tag: building:use, Item: hotel
+Tag: building:use, Item: retail
+Tag: fitness_centre, Item: yes
+Tag: internet_access:fee, Item: no
+Tag: internet_access:fee, Item: yes
+Tag: dog, Item: no
+Tag: dog, Item: yes
+Tag: swimming_pool, Item: yes
+Tag: swimming_pool, Item: no
+Tag: consulate, Item: consulate_general
+Tag: country, Item: AR
+Tag: country, Item: CG
+Tag: country, Item: PK
+Tag: country, Item: RS
+Tag: diplomatic, Item: consulate
+Tag: diplomatic, Item: embassy
+Tag: wikimedia_commons, Item: Category:Rockefeller Apartments
+Tag: wikimedia_commons, Item: File:The London NYC 8Av 54St sun jeh.jpg
+Tag: wikimedia_commons, Item: Category:1270 Avenue of the Americas
+Tag: wikimedia_commons, Item: File:Sunlit_Gapstow_Bridge.jpg
+Tag: heritage, Item: yes
+Tag: heritage, Item: 2
+Tag: contact:facebook, Item: https://www.facebook.com/ConradNYMidtown
+Tag: contact:facebook, Item: https://www.facebook.com/CFA711lexington/
+Tag: contact:facebook, Item: argosybookstore
+Tag: contact:instagram, Item: https://www.instagram.com/conradnymidtown/
+Tag: contact:instagram, Item: argosybookstore
+Tag: contact:twitter, Item: https://twitter.com/ConradMidtown
+Tag: contact:yelp, Item: https://www.yelp.com/biz/conrad-new-york-midtown-new-york-2
+Tag: old_name:-2006, Item: RIHGA Royal New York
+Tag: old_name:2006-2019, Item: The London NYC
+Tag: rooms, Item: 562
+Tag: rooms, Item: 426
+Tag: rooms, Item: 178
+Tag: cuisine, Item: burger
+Tag: cuisine, Item: chicken
+Tag: takeaway, Item: yes
+Tag: drive_through, Item: no
+Tag: name:no, Item: Hearst-bygningen
+Tag: service_times, Item: Su 10:30-12:15
+Tag: bar, Item: yes
+Tag: disused:amenity, Item: hotel
+Tag: operator:short, Item: USPS
+Tag: operator:short, Item: WCS
+Tag: payment:credit_cards, Item: yes
+Tag: architect:wikipedia, Item: en:SLCE Architects
+Tag: architect:wikipedia, Item: en:Philip Birnbaum (architect)
+Tag: opening_date, Item: Fall 2023
+Tag: opening_date, Item: 2024-08
+Tag: opening_date, Item: "Spring 2023"
+Tag: opening_date, Item: 2023-06-01
+Tag: name:kn, Item: ಫೋರ್ ಸೀಸನ್ ಹೋಟೆಲ್
+Tag: name:kn, Item: ಟ್ರಂಪ್ ಟವರ್
+Tag: name:kn, Item: ಸೆಂಟ್ರಲ್ ಪಾರ್ಕ್
+Tag: name:kn, Item: ಕ್ರಿಸ್ಟೊಫರ್ ಕೊಲಂಬಸ್
+Tag: end_date, Item: 1920
+Tag: historic, Item: building
+Tag: historic, Item: monument
+Tag: historic, Item: yes
+Tag: toilets:disposal, Item: flush
+Tag: toilets:handwashing, Item: yes
+Tag: information, Item: office
+Tag: information, Item: board
+Tag: outdoor_seating, Item: yes
+Tag: outdoor_seating, Item: balcony
+Tag: toilets:access, Item: no
+Tag: unisex, Item: yes
+Tag: faculty, Item: business
+Tag: image, Item: http://en.wikipedia.org/wiki/File:St-paul-apostle.jpg
+Tag: toilets:unisex, Item: yes
+Tag: toilets:wheelchair, Item: yes
+Tag: name:zh, Item: 纽约梅费尔酒店
+Tag: name:zh, Item: 现代艺术博物馆
+Tag: name:zh, Item: 中央公园
+Tag: name:ar, Item: برودواي
+Tag: nycdcp:uid, Item: e42eefe696d5f59b8de13ca791516442
+Tag: nycdcp:uid, Item: 941d3ec9cf1c8a3aa9afe59d1b4cb352
+Tag: nycdcp:uid, Item: 7bfad51cd622c406a713e3f9d2915f52
+Tag: power, Item: substation
+Tag: power, Item: generator
+Tag: power, Item: cable
+Tag: substation, Item: traction
+Tag: building:facade:colour, Item: #c4a484
+Tag: building:facade:material, Item: limestone
+Tag: delivery, Item: yes
+Tag: indoor_seating, Item: no
+Tag: ref, Item: 04141
+Tag: ref, Item: NYCMTHX
+Tag: ref, Item: NYCWFGI
+Tag: ref, Item: 8
+Tag: social_facility, Item: assisted_living
+Tag: social_facility:for, Item: senior
+Tag: clothes, Item: women;men
+Tag: books, Item: antiquarian
+Tag: contact:email, Item: argosy@argosybooks.com
+Tag: contact:fax, Item: +1 212-593-4787
+Tag: contact:phone, Item: +1 212-753-4455
+Tag: contact:website, Item: https://www.argosybooks.com
+Tag: second_hand, Item: yes
+Tag: embassy, Item: mission
+Tag: target, Item: UN
+Tag: cat, Item: yes
+Tag: museum, Item: art
+Tag: name:et, Item: New Yorgi moodsa kunsti muuseum
+Tag: name:hr, Item: Episkopalna crkva sv. Tome
+Tag: payment:carte_blanche, Item: yes
+Tag: construction:highway, Item: service
+Tag: maxheight, Item: 9'
+Tag: maxheight, Item: 9’5’’
+Tag: cycleway:right:lane, Item: pictogram
+Tag: cycleway:right:lane, Item: advisory
+Tag: cycleway:right:lane, Item: exclusive
+Tag: bicycle:lanes, Item: designated|
+Tag: motor_vehicle:lanes, Item: no|
+Tag: denotation, Item: urban
+Tag: denotation, Item: avenue
+Tag: denotation, Item: park
+Tag: leaf_cycle, Item: deciduous
+Tag: leaf_cycle, Item: evergreen
+Tag: leaf_type, Item: broadleaved
+Tag: kerb, Item: lowered
+Tag: kerb, Item: raised
+Tag: colonnade:right, Item: open
+Tag: zoo, Item: enclosure
+Tag: shelter_type, Item: lean_to
+Tag: shelter_type, Item: public_transport
+Tag: climbing, Item: boulder
+Tag: man_made, Item: bridge
+Tag: man_made, Item: tunnel
+Tag: man_made, Item: planter
+Tag: bridge:structure, Item: beam
+Tag: parking:condition:right, Item: no_parking
+Tag: parking:condition:right:default, Item: free
+Tag: parking:condition:right:time_interval, Item: Tu, Fr 08:00-09:30
+Tag: check_date:opening_hours, Item: 2021-05-01
+Tag: heritage:operator, Item: nrhp
+Tag: heritage:website, Item: https://www.nps.gov/subjects/nationalregister/index.htm
+Tag: name:el, Item: Κεντρικό πάρκο
+Tag: name:fa, Item: پارک مرکزی
+Tag: name:hi, Item: सेंट्रल पार्क
+Tag: name:lt, Item: Centrinis parkas
+Tag: name:sr, Item: Централ парк
+Tag: name:sr-Latn, Item: Central park
+Tag: name:tr, Item: Central Park
+Tag: nrhp:inscription_date, Item: 1966-10-15
+Tag: nrhp:nhl, Item: yes
+Tag: nrhp:nhl:inscription_date, Item: 1963-05-23
+Tag: crossing:island, Item: no
+Tag: crossing:island, Item: yes
+Tag: button_operated, Item: no
+Tag: cycleway:both:oneway, Item: yes
+Tag: maxspeed:type, Item: sign
+Tag: lanes:bus:forward, Item: 1
+Tag: route, Item: bicycle
+Tag: area:highway, Item: pedestrian
+Tag: indoor, Item: no
+Tag: indoor, Item: yes
+Tag: indoor, Item: area
+Tag: location, Item: underground
+Tag: network, Item: NYC Subway
+Tag: public_transport, Item: platform
+Tag: subway, Item: yes
+Tag: disused:railway, Item: platform
+Tag: bench, Item: yes
+Tag: bench, Item: no
+Tag: bin, Item: yes
+Tag: parking:condition:both:default, Item: free
+Tag: parking:condition:left, Item: no_parking
+Tag: parking:condition:left:time_interval, Item: Mo-Fr 08:00-06:00
+Tag: attraction, Item: carousel
+Tag: boundary, Item: place
+Tag: artist_name, Item: Gaetano Russo
+Tag: artist_name, Item: Augustus Saint-Gaudens
+Tag: supervised, Item: yes
+Tag: fence_type, Item: railing
+Tag: fence_type, Item: metal
+Tag: surface:colour, Item: brown
+Tag: surface:colour, Item: grey
+Tag: surface:colour, Item: red
+Tag: surface:colour, Item: black
+Tag: step_count, Item: 8
+Tag: step_count, Item: 4
+Tag: step_count, Item: 3
+Tag: step_count, Item: 19
+Tag: step_count, Item: 1
+Tag: backrest, Item: yes
+Tag: backrest, Item: no
+Tag: railway:ptc, Item: no
+Tag: railway:ptc, Item: yes
+Tag: heating, Item: no
+Tag: bicycle_parking, Item: bollard
+Tag: seats, Item: 4
+Tag: seats, Item: 3
+Tag: NY_mta:propcode, Item: xbl30960
+Tag: NY_mta:propcode, Item: xbl31460;xbl31480
+Tag: NY_mta:propcode, Item: xbl31120
+Tag: NY_mta:propcode, Item: xbl31000;xbl31040
+Tag: railway:acses, Item: yes
+Tag: railway:atc, Item: yes
+Tag: railway:ctc, Item: yes
+Tag: conveying, Item: backward
+Tag: conveying, Item: forward
+Tag: maxspeed:conditional, Item: 5 mph @ (08:00-20:00)
+Tag: motor_vehicle:conditional, Item: destination @ (08:00-20:00)
+Tag: emergency, Item: yes
+Tag: healthcare, Item: hospital
+Tag: healthcare:speciality, Item: oncology;dermatology;otolaryngology;emergency;cardiology;neurology;surgery;radiology;urology;psychiatry;gynaecology;maternity;orthopaedics;general;pulmonology
+Tag: lanes:taxi, Item: 1
+Tag: cables, Item: 3
+Tag: circuits, Item: 1
+Tag: bollard, Item: fixed
+Tag: bollard, Item: removable
+Tag: maxspeed:advisory, Item: 5 mph
+Tag: artwork_type, Item: statue
+Tag: statue, Item: equestrian
+Tag: year_of_construction, Item: 1902
+Tag: drinking_water, Item: no
+Tag: fountain, Item: decorative
+Tag: playground, Item: splash_pad
+Tag: informal, Item: yes
+Tag: crossing:signals, Item: yes
+Tag: name:signed, Item: no
+Tag: kerb:height, Item: 0.4
+Tag: handrail:left, Item: yes
+Tag: handrail:right, Item: yes
+Tag: ramp:bicycle, Item: no
+Tag: ramp:stroller, Item: no
+Tag: surface:note, Item: feine Betonplatten
+Tag: carriage, Item: designated
+Tag: window, Item: skylight
